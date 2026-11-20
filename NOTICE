@@ -1,0 +1,11 @@
+MAMUT-routing Sintef2008 third-party and data-license notice
+============================================================
+
+This repository holds the Sintef2008 benchmark family of MAMUT-routing (https://github.com/ANR-MAMUT/MAMUT-routing). MAMUT-routing is a mixed software and benchmark project. Its source code is MIT-licensed unless a file says otherwise. Benchmark data and generated artifacts are licensed at the benchmark-family level, and the LICENSE file of this repository gives the terms of this family.
+
+Component licensing
+-------------------
+
+- Sintef2008 (VRPTW): MAMUT-routing curation artifacts are provided under MIT where MAMUT-routing holds the relevant rights. The underlying classical VRPTW benchmark definitions originate from Solomon (1987), Gehring and Homberger (1999), and the SINTEF VRPTW benchmark convention.
+
+Users redistributing this benchmark family, or a subset of it, should preserve this NOTICE and the README.md and LICENSE files of this repository.
