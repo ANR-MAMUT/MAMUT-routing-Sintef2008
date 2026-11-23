@@ -21,7 +21,28 @@
         "notes": "BKS provided by email from Dr. Eduardo Queiroga on behalf of CVRPLIB",
         "status": "heuristic",
         "validated_cost": 1135.4793961406901,
-        "validated_num_vehicles": 10
+        "validated_num_vehicles": 10,
+        "standard": {
+            "profile": "binary64-exact-v1",
+            "objective": "HierarchicalVehicleCost",
+            "num_routes": 10,
+            "routes_sha256": "df03543e67a173f6e4e64be6f4bb591188b97ffb75221ca385675547aca05a52",
+            "authoritative_cost": {
+                "numerator": "2556872292673044113",
+                "denominator": "2251799813685248"
+            },
+            "display_overflow": false,
+            "evaluation": {
+                "checker": "mamut-routing-lib",
+                "backend": "cpp-dyadic-prepared",
+                "implementation_sha256": "93280715da2a0e48789e5e4b3caef287f5214a05e5344e6416c52bc32d38c1d3",
+                "runtime": "CPython 3.12.12",
+                "verification_status": "incumbent-verified"
+            },
+            "specification": "mamut-routing/0.1-review",
+            "benchmark_revision": "r1",
+            "manifest_sha256": "17550fed81ea71034fdefc8a1a26b02eeecfd902c8ceb6a6563e11c05af0a8bf"
+        }
     },
     "objective_function": "HierarchicalVehicleCost"
 }

@@ -57,7 +57,7 @@
         [570, 527, 204, 156, 361, 148, 220, 588, 239, 336],
         [586, 240, 409, 60, 400, 170, 49, 84, 242, 583, 17, 542, 303, 185]
     ],
-    "cost": 15826.23902929502,
+    "cost": 15826.239029295028,
     "metadata": {
         "cost": 15803.5,
         "source": "sintef",
@@ -65,12 +65,33 @@
         "provided_date": "2025-12-21",
         "notes": "BKS provided by email from Dr. Eduardo Queiroga on behalf of CVRPLIB",
         "status": "heuristic",
-        "validated_cost": 15826.239029295017,
+        "validated_cost": 15826.239029295028,
         "validated_num_vehicles": 55,
         "instance name": "rc1_6_9",
         "authors": "Quintiq",
         "date": "Dec 23 2016",
-        "reference": "http://www.quintiq.com/optimization-world-records.aspx"
+        "reference": "http://www.quintiq.com/optimization-world-records.aspx",
+        "standard": {
+            "profile": "binary64-exact-v1",
+            "objective": "HierarchicalVehicleCost",
+            "num_routes": 55,
+            "routes_sha256": "92ffe8f312f6146ce7ae1795cb31df31f3497c6b79109bd0af263a4cfe872729",
+            "authoritative_cost": {
+                "numerator": "71275044195009490185",
+                "denominator": "4503599627370496"
+            },
+            "display_overflow": false,
+            "evaluation": {
+                "checker": "mamut-routing-lib",
+                "backend": "cpp-dyadic-prepared",
+                "implementation_sha256": "93280715da2a0e48789e5e4b3caef287f5214a05e5344e6416c52bc32d38c1d3",
+                "runtime": "CPython 3.12.12",
+                "verification_status": "incumbent-verified"
+            },
+            "specification": "mamut-routing/0.1-review",
+            "benchmark_revision": "r1",
+            "manifest_sha256": "4e86b65ce5d2960e64a7601d04da2de00930431a2246be0940f8e07df021d81b"
+        }
     },
     "objective_function": "HierarchicalVehicleCost"
 }

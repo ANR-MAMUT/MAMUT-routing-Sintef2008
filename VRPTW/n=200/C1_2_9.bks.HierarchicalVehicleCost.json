@@ -20,7 +20,7 @@
         [114, 159, 38, 150, 22, 151, 16, 140, 187, 142, 111, 63, 56],
         [155, 175, 118, 83, 143, 176, 36, 33, 121, 108, 17]
     ],
-    "cost": 2687.827312261308,
+    "cost": 2687.8273122613086,
     "metadata": {
         "instance name": "C1_2_9",
         "authors": "Mester Br\u00e4ysy",
@@ -28,8 +28,29 @@
         "reference": "Correction of result from MB - Mester, D. and O. Br\u00e4ysy (2005), \u0093Active Guided Evolution Strategies for Large Scale Vehicle Routing Problems with Time Windows\u0094. Computers & Operations Research 32, 1593-1614.",
         "source": "sintef",
         "status": "heuristic",
-        "validated_cost": 2687.827312261309,
-        "validated_num_vehicles": 18
+        "validated_cost": 2687.8273122613086,
+        "validated_num_vehicles": 18,
+        "standard": {
+            "profile": "binary64-exact-v1",
+            "objective": "HierarchicalVehicleCost",
+            "num_routes": 18,
+            "routes_sha256": "0524b1e1a4a79ca65c695ea9344c01ed3788d93911e9facbe5a2e74cdbab2cc0",
+            "authoritative_cost": {
+                "numerator": "12104898081936272345",
+                "denominator": "4503599627370496"
+            },
+            "display_overflow": false,
+            "evaluation": {
+                "checker": "mamut-routing-lib",
+                "backend": "cpp-dyadic-prepared",
+                "implementation_sha256": "93280715da2a0e48789e5e4b3caef287f5214a05e5344e6416c52bc32d38c1d3",
+                "runtime": "CPython 3.12.12",
+                "verification_status": "incumbent-verified"
+            },
+            "specification": "mamut-routing/0.1-review",
+            "benchmark_revision": "r1",
+            "manifest_sha256": "9b56c9df72aef64052807491a1591b0bd5d4cf6952fc5bc0fb1c61f747024d07"
+        }
     },
     "objective_function": "HierarchicalVehicleCost"
 }

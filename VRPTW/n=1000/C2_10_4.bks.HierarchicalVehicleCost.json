@@ -30,7 +30,7 @@
         [835, 792, 993, 298, 670, 852, 322, 520, 569, 320, 995, 375, 469, 870, 4, 514, 556, 411, 982, 498, 497, 714, 624, 123, 966, 286, 85, 594, 931, 492, 46, 611, 667, 293, 325, 733, 271],
         [882, 884, 35, 781, 194, 872, 804, 911, 540, 891, 397, 401, 665, 220, 949, 859, 373, 191, 742, 548, 795, 880, 290, 866, 90, 425, 612, 344, 571, 101, 740, 102, 881, 862, 196, 923, 14, 587, 308]
     ],
-    "cost": 15607.477967594488,
+    "cost": 15607.477967594497,
     "metadata": {
         "instance name": "C2_10_4",
         "authors": "Piotr Sielski (psielski@emapa.pl), Piotr Cybula, Marek Rogalski, Piotr Beling, Andrzej Jaszkiewicz.  Emapa S.A. (http://www.emapa.pl), research funded by The National Centre for Research and Development.  \"New methods of VRP problem optimization\", project number: POIR.01.01.01.-00-0222/16.",
@@ -38,8 +38,29 @@
         "reference": "\"New methods of VRP problem optimization\", unpublished result.",
         "source": "sintef",
         "status": "heuristic",
-        "validated_cost": 15607.477967594503,
-        "validated_num_vehicles": 28
+        "validated_cost": 15607.477967594497,
+        "validated_num_vehicles": 28,
+        "standard": {
+            "profile": "binary64-exact-v1",
+            "objective": "HierarchicalVehicleCost",
+            "num_routes": 28,
+            "routes_sha256": "b533bc057c16df91bbbcdcba8a11a504564f2c615c30ed7c7066b92083eb2b7e",
+            "authoritative_cost": {
+                "numerator": "70289831959051807689",
+                "denominator": "4503599627370496"
+            },
+            "display_overflow": false,
+            "evaluation": {
+                "checker": "mamut-routing-lib",
+                "backend": "cpp-dyadic-prepared",
+                "implementation_sha256": "93280715da2a0e48789e5e4b3caef287f5214a05e5344e6416c52bc32d38c1d3",
+                "runtime": "CPython 3.12.12",
+                "verification_status": "incumbent-verified"
+            },
+            "specification": "mamut-routing/0.1-review",
+            "benchmark_revision": "r1",
+            "manifest_sha256": "78bd6ee982ec4450b1fcb9e372cf8030c8a72444871be385032bcc4745df7c4b"
+        }
     },
     "objective_function": "HierarchicalVehicleCost"
 }

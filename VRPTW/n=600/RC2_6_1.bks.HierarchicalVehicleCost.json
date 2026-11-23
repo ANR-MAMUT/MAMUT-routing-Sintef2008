@@ -16,15 +16,36 @@
         [547, 566, 488, 28, 375, 2, 275, 352, 512, 349, 295, 284, 62, 600, 162, 522, 553, 143, 133, 188, 562, 21, 436, 89, 298, 330, 397, 248, 597, 339, 146, 18, 246, 412, 270, 481, 179, 190, 15, 117, 519, 180, 315, 528, 312, 506, 478, 460, 261, 370],
         [550, 451, 256, 508, 448, 168, 102, 367, 362, 269, 288, 212, 313, 150, 280, 590, 131, 541, 461, 217, 548, 377, 378, 402, 200, 338, 151, 335, 578, 34, 381, 322, 259, 185, 439, 303, 136]
     ],
-    "cost": 13324.934247199071,
+    "cost": 13324.934247199079,
     "metadata": {
         "instance name": "RC2_6_1",
         "authors": "Miros\u00b3aw B\u00b3ocho, Zbigniew J. Czech",
         "date": "05-04-2012",
         "reference": "A parallel EAX-based memetic algorithm for the vehicle routing problem with time windows",
-        "validated_cost": 13324.934247199084,
+        "validated_cost": 13324.934247199079,
         "validated_num_vehicles": 14,
-        "source": "sintef"
+        "source": "sintef",
+        "standard": {
+            "profile": "binary64-exact-v1",
+            "objective": "HierarchicalVehicleCost",
+            "num_routes": 14,
+            "routes_sha256": "116a3eee92f9b2efee73a35e92c8d201888e98c1c0c18ece36b55793361bff6f",
+            "authoritative_cost": {
+                "numerator": "60010168910422130589",
+                "denominator": "4503599627370496"
+            },
+            "display_overflow": false,
+            "evaluation": {
+                "checker": "mamut-routing-lib",
+                "backend": "cpp-dyadic-prepared",
+                "implementation_sha256": "93280715da2a0e48789e5e4b3caef287f5214a05e5344e6416c52bc32d38c1d3",
+                "runtime": "CPython 3.12.12",
+                "verification_status": "incumbent-verified"
+            },
+            "specification": "mamut-routing/0.1-review",
+            "benchmark_revision": "r1",
+            "manifest_sha256": "99155e975ba708cfdc6d325464b132a7b719f0a405eac41393e37ea039396f77"
+        }
     },
     "objective_function": "HierarchicalVehicleCost"
 }

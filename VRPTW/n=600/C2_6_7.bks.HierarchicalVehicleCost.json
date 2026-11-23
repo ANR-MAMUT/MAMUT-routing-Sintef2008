@@ -20,15 +20,36 @@
         [553, 111, 517, 573, 362, 511, 558, 205, 97, 260, 6, 337, 196, 265, 153, 351, 483, 123, 36, 587, 172, 268, 595, 429, 485, 453, 263, 84, 100, 264, 224],
         [559, 301, 312, 340, 431, 40, 243, 448, 598, 173, 534, 117, 423, 273, 175, 318, 217, 490, 385, 157, 302, 1, 438, 407, 398, 9, 55, 190, 147, 444, 156, 129, 127]
     ],
-    "cost": 7512.066378032829,
+    "cost": 7512.066378032846,
     "metadata": {
         "instance name": "C2_6_7",
         "authors": "Miros\u00b3aw B\u00b3ocho, Zbigniew J. Czech",
         "date": "05-04-2012",
         "reference": "A parallel EAX-based memetic algorithm for the vehicle routing problem with time windows",
-        "validated_cost": 7512.066378032833,
+        "validated_cost": 7512.066378032846,
         "validated_num_vehicles": 18,
-        "source": "sintef"
+        "source": "sintef",
+        "standard": {
+            "profile": "binary64-exact-v1",
+            "objective": "HierarchicalVehicleCost",
+            "num_routes": 18,
+            "routes_sha256": "359aea525b33dcfb6f80d901df11f0e84d0654440e707f2861aecbee30d16605",
+            "authoritative_cost": {
+                "numerator": "33831339340891155525",
+                "denominator": "4503599627370496"
+            },
+            "display_overflow": false,
+            "evaluation": {
+                "checker": "mamut-routing-lib",
+                "backend": "cpp-dyadic-prepared",
+                "implementation_sha256": "93280715da2a0e48789e5e4b3caef287f5214a05e5344e6416c52bc32d38c1d3",
+                "runtime": "CPython 3.12.12",
+                "verification_status": "incumbent-verified"
+            },
+            "specification": "mamut-routing/0.1-review",
+            "benchmark_revision": "r1",
+            "manifest_sha256": "f57c34611f449662d6e0c7068b34e3b3e5acb0ed344e7f021f40724c914c7a7a"
+        }
     },
     "objective_function": "HierarchicalVehicleCost"
 }

@@ -6,7 +6,7 @@
         [142, 48, 131, 156, 102, 24, 169, 40, 133, 147, 31, 108, 56, 45, 85, 165, 177, 65, 128, 168, 99, 94, 151, 160, 53, 32, 38, 23, 117, 188, 29, 21, 139, 125, 189, 109, 112, 114, 86, 52, 74, 101, 192, 50, 55, 81, 107, 194, 158, 154, 82, 33, 157, 66, 30, 64],
         [153, 28, 163, 6, 49, 162, 14, 47, 200, 63, 149, 42, 172, 197, 5, 62, 181, 35, 164, 104, 25, 170, 10, 77, 122, 26, 20, 159, 46, 138, 186, 187, 150, 166, 129, 41, 22, 106, 70, 126, 148, 83, 36]
     ],
-    "cost": 2873.1176200417112,
+    "cost": 2873.117620041712,
     "metadata": {
         "instance name": "RC2_2_6",
         "authors": "Miros\u00b3aw B\u00b3ocho, Zbigniew J. Czech",
@@ -15,7 +15,28 @@
         "source": "sintef",
         "status": "heuristic",
         "validated_cost": 2873.117620041712,
-        "validated_num_vehicles": 4
+        "validated_num_vehicles": 4,
+        "standard": {
+            "profile": "binary64-exact-v1",
+            "objective": "HierarchicalVehicleCost",
+            "num_routes": 4,
+            "routes_sha256": "26f59a94005176f801504c90b21d0a812fec412a3ab391ef9bab069c14bc842e",
+            "authoritative_cost": {
+                "numerator": "3234842860752865257",
+                "denominator": "1125899906842624"
+            },
+            "display_overflow": false,
+            "evaluation": {
+                "checker": "mamut-routing-lib",
+                "backend": "cpp-dyadic-prepared",
+                "implementation_sha256": "93280715da2a0e48789e5e4b3caef287f5214a05e5344e6416c52bc32d38c1d3",
+                "runtime": "CPython 3.12.12",
+                "verification_status": "incumbent-verified"
+            },
+            "specification": "mamut-routing/0.1-review",
+            "benchmark_revision": "r1",
+            "manifest_sha256": "e1b5765e3d49249c4ce696458528ce0f90ab7837b70214b8c80e259d1487bf16"
+        }
     },
     "objective_function": "HierarchicalVehicleCost"
 }

@@ -15,7 +15,7 @@
         [92, 95, 64, 99, 52, 86, 57, 74],
         [98, 14, 47, 15, 16, 9, 10, 13, 17]
     ],
-    "cost": 1629.4363524111047,
+    "cost": 1629.4363524111045,
     "metadata": {
         "instance name": "RC105",
         "authors": "Bent & Van Hentenryck",
@@ -24,7 +24,28 @@
         "source": "sintef",
         "status": "heuristic",
         "validated_cost": 1629.4363524111045,
-        "validated_num_vehicles": 13
+        "validated_num_vehicles": 13,
+        "standard": {
+            "profile": "binary64-exact-v1",
+            "objective": "HierarchicalVehicleCost",
+            "num_routes": 13,
+            "routes_sha256": "84a1a5cde09d63c57c1bfa71c747e9856ad68a8f52460c804b89a3a6865c43bb",
+            "authoritative_cost": {
+                "numerator": "458645559346411873",
+                "denominator": "281474976710656"
+            },
+            "display_overflow": false,
+            "evaluation": {
+                "checker": "mamut-routing-lib",
+                "backend": "cpp-dyadic-prepared",
+                "implementation_sha256": "93280715da2a0e48789e5e4b3caef287f5214a05e5344e6416c52bc32d38c1d3",
+                "runtime": "CPython 3.12.12",
+                "verification_status": "incumbent-verified"
+            },
+            "specification": "mamut-routing/0.1-review",
+            "benchmark_revision": "r1",
+            "manifest_sha256": "20b1001c621fc27d565109ceaef9123500b756e134489ae353f50187a8a7acb3"
+        }
     },
     "objective_function": "HierarchicalVehicleCost"
 }

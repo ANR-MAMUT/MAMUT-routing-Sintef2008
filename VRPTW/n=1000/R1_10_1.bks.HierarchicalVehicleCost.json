@@ -102,7 +102,7 @@
         [992, 905, 897, 757, 548, 425, 102, 413, 12, 261, 567, 850],
         [1000, 289, 629, 553, 748, 563, 755, 498, 884, 298, 807, 609, 985, 323]
     ],
-    "cost": 53380.17871962098,
+    "cost": 53380.178719621006,
     "metadata": {
         "instance name": "R1_10_1",
         "authors": "Piotr Sielski (piotr.sielski@wmii.uni.lodz.pl), Piotr Cybula, Marek Rogalski (marek.rogalski@wmii.uni.lodz.pl), Mariusz Kok, Piotr Beling, Andrzej Jaszkiewicz, Przemys\u0142aw Pe\u0142ka.  Emapa S.A. (http://www.emapa.pl).",
@@ -110,8 +110,29 @@
         "reference": "\"New methods of VRP problem optimization\", unpublished research funded by The National Centre for Research and Development.  \"New methods of VRP problem optimization\", project number: POIR.01.01.01.-00-0222/16.",
         "source": "sintef",
         "status": "heuristic",
-        "validated_cost": 53380.178719620984,
-        "validated_num_vehicles": 100
+        "validated_cost": 53380.178719621006,
+        "validated_num_vehicles": 100,
+        "standard": {
+            "profile": "binary64-exact-v1",
+            "objective": "HierarchicalVehicleCost",
+            "num_routes": 100,
+            "routes_sha256": "7fbb9f760ceab760f01c7464504d0dbc517f3cd30d03f941a4caba815aae454b",
+            "authoritative_cost": {
+                "numerator": "120201476495327822507",
+                "denominator": "2251799813685248"
+            },
+            "display_overflow": false,
+            "evaluation": {
+                "checker": "mamut-routing-lib",
+                "backend": "cpp-dyadic-prepared",
+                "implementation_sha256": "93280715da2a0e48789e5e4b3caef287f5214a05e5344e6416c52bc32d38c1d3",
+                "runtime": "CPython 3.12.12",
+                "verification_status": "incumbent-verified"
+            },
+            "specification": "mamut-routing/0.1-review",
+            "benchmark_revision": "r1",
+            "manifest_sha256": "2c02042c84a6bd447764e34530bea954bd467c57ab734e5ec9cdb367449ba37f"
+        }
     },
     "objective_function": "HierarchicalVehicleCost"
 }

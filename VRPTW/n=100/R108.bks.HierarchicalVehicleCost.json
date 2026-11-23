@@ -19,8 +19,29 @@
         "reference": "Technical Report, CS-01-06, Department of Computer Science, Brown University, September 2001.",
         "source": "sintef",
         "status": "heuristic",
-        "validated_cost": 960.8757791660508,
-        "validated_num_vehicles": 9
+        "validated_cost": 960.8757791660505,
+        "validated_num_vehicles": 9,
+        "standard": {
+            "profile": "binary64-exact-v1",
+            "objective": "HierarchicalVehicleCost",
+            "num_routes": 9,
+            "routes_sha256": "1576817e87bf3c1a2dd9a2043446b8348afdc58ee8b7d991a6ae5f66f2505625",
+            "authoritative_cost": {
+                "numerator": "1081849950250390051",
+                "denominator": "1125899906842624"
+            },
+            "display_overflow": false,
+            "evaluation": {
+                "checker": "mamut-routing-lib",
+                "backend": "cpp-dyadic-prepared",
+                "implementation_sha256": "93280715da2a0e48789e5e4b3caef287f5214a05e5344e6416c52bc32d38c1d3",
+                "runtime": "CPython 3.12.12",
+                "verification_status": "incumbent-verified"
+            },
+            "specification": "mamut-routing/0.1-review",
+            "benchmark_revision": "r1",
+            "manifest_sha256": "a51433b34f6cf1ba18a1253456afac871389a4e153e15f60928343c74982b955"
+        }
     },
     "objective_function": "HierarchicalVehicleCost"
 }

@@ -13,7 +13,7 @@
         [371, 294, 35, 127, 321, 358, 236, 4, 253, 254, 178, 248, 172, 132, 187, 222, 199, 24, 230, 77, 3, 338, 65, 330, 392, 265, 366, 244, 233, 33, 282, 382, 317, 17, 314, 167],
         [383, 252, 147, 341, 329, 269, 335, 271, 388, 69, 249, 398, 373, 148, 241, 208, 11, 209, 280, 258, 116, 41, 312, 343, 118, 130, 86, 52, 270, 6, 247, 197, 93, 40, 70, 164, 131]
     ],
-    "cost": 3702.4927259834935,
+    "cost": 3702.492725983498,
     "metadata": {
         "instance name": "C2_4_4",
         "authors": "Vidal, Crainic, Gendreau, Prins",
@@ -21,8 +21,29 @@
         "reference": "A hybrid genetic algorithm with adaptive diversity managment for a large class of vehicle routing problems with time-windows",
         "source": "sintef",
         "status": "heuristic",
-        "validated_cost": 3702.4927259834963,
-        "validated_num_vehicles": 11
+        "validated_cost": 3702.492725983498,
+        "validated_num_vehicles": 11,
+        "standard": {
+            "profile": "binary64-exact-v1",
+            "objective": "HierarchicalVehicleCost",
+            "num_routes": 11,
+            "routes_sha256": "7f11649741bf609cba3fbdf5ff12a63adf0d23abb690f00cdfc7c76a7252bdb5",
+            "authoritative_cost": {
+                "numerator": "4168636215270313323",
+                "denominator": "1125899906842624"
+            },
+            "display_overflow": false,
+            "evaluation": {
+                "checker": "mamut-routing-lib",
+                "backend": "cpp-dyadic-prepared",
+                "implementation_sha256": "93280715da2a0e48789e5e4b3caef287f5214a05e5344e6416c52bc32d38c1d3",
+                "runtime": "CPython 3.12.12",
+                "verification_status": "incumbent-verified"
+            },
+            "specification": "mamut-routing/0.1-review",
+            "benchmark_revision": "r1",
+            "manifest_sha256": "8244f4fe66594c260d4bac9088c82ace5fc67f53405fee456c24c7f19aa8dc45"
+        }
     },
     "objective_function": "HierarchicalVehicleCost"
 }

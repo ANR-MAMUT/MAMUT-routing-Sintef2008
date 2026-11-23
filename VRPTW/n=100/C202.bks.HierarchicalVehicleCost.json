@@ -5,7 +5,7 @@
         [67, 63, 62, 74, 72, 61, 64, 66, 69, 68, 65, 49, 55, 54, 53, 56, 58, 60, 59, 57, 40, 44, 46, 45, 51, 50, 52, 47, 43, 42, 41, 48],
         [93, 5, 75, 2, 1, 99, 100, 97, 92, 94, 95, 98, 7, 3, 4, 89, 91, 88, 84, 86, 83, 82, 85, 76, 71, 70, 73, 80, 79, 81, 78, 77, 96, 87, 90]
     ],
-    "cost": 591.5565566715015,
+    "cost": 591.5565566715014,
     "metadata": {
         "instance name": "c202",
         "authors": "Geir Hasle, Oddvar Kloster",
@@ -13,8 +13,29 @@
         "reference": "Chapter in G. Hasle, K-A Lie, E. Quak (eds): Geometric Modelling, Numerical Simulation, and Optimization. ISBN 978-3-540-68782-5, Springer 2007.",
         "source": "sintef",
         "status": "heuristic",
-        "validated_cost": 591.5565566715015,
-        "validated_num_vehicles": 3
+        "validated_cost": 591.5565566715014,
+        "validated_num_vehicles": 3,
+        "standard": {
+            "profile": "binary64-exact-v1",
+            "objective": "HierarchicalVehicleCost",
+            "num_routes": 3,
+            "routes_sha256": "faff2e7233f850ac593dfea0145e5049efcae4033c4474ed9d8e183a8019b236",
+            "authoritative_cost": {
+                "numerator": "666033472048586879",
+                "denominator": "1125899906842624"
+            },
+            "display_overflow": false,
+            "evaluation": {
+                "checker": "mamut-routing-lib",
+                "backend": "cpp-dyadic-prepared",
+                "implementation_sha256": "93280715da2a0e48789e5e4b3caef287f5214a05e5344e6416c52bc32d38c1d3",
+                "runtime": "CPython 3.12.12",
+                "verification_status": "incumbent-verified"
+            },
+            "specification": "mamut-routing/0.1-review",
+            "benchmark_revision": "r1",
+            "manifest_sha256": "18b261e135f69184d5135a95ff68647a675b39c1b3d0f6116f5a8604cb82ac21"
+        }
     },
     "objective_function": "HierarchicalVehicleCost"
 }

@@ -38,7 +38,7 @@
         [376, 258, 291, 394, 137, 186, 107, 337, 76],
         [388, 342, 36, 201, 363, 126, 135, 297, 152, 283, 345, 68, 195, 70, 322]
     ],
-    "cost": 7257.283622465211,
+    "cost": 7257.283622465225,
     "metadata": {
         "instance name": "r1_4_8",
         "authors": "Quintiq",
@@ -46,8 +46,29 @@
         "reference": "http://www.quintiq.com/optimization/vrptw-world-records.html",
         "source": "sintef",
         "status": "heuristic",
-        "validated_cost": 7257.283622465215,
-        "validated_num_vehicles": 36
+        "validated_cost": 7257.283622465225,
+        "validated_num_vehicles": 36,
+        "standard": {
+            "profile": "binary64-exact-v1",
+            "objective": "HierarchicalVehicleCost",
+            "num_routes": 36,
+            "routes_sha256": "f84387700325a392ebcdadc639186135f98ee9c43d2017a12baa5c0d0ce2d231",
+            "authoritative_cost": {
+                "numerator": "8170974954464096815",
+                "denominator": "1125899906842624"
+            },
+            "display_overflow": false,
+            "evaluation": {
+                "checker": "mamut-routing-lib",
+                "backend": "cpp-dyadic-prepared",
+                "implementation_sha256": "93280715da2a0e48789e5e4b3caef287f5214a05e5344e6416c52bc32d38c1d3",
+                "runtime": "CPython 3.12.12",
+                "verification_status": "incumbent-verified"
+            },
+            "specification": "mamut-routing/0.1-review",
+            "benchmark_revision": "r1",
+            "manifest_sha256": "b9ca2d06e78b6af50a12f8428ec99809746ec3d4a9748680fd7b7c3c7cc612f5"
+        }
     },
     "objective_function": "HierarchicalVehicleCost"
 }

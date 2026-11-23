@@ -56,7 +56,7 @@
         [584, 494, 55, 301, 381, 87, 11],
         [598, 410, 600, 357, 407, 358, 297, 12, 351, 465, 566, 553, 3]
     ],
-    "cost": 18585.002209799568,
+    "cost": 18585.00220979958,
     "metadata": {
         "instance name": "R1_6_2",
         "authors": "Piotr Sielski (piotr.sielski@wmii.uni.lodz.pl), Piotr Cybula, Marek Rogalski (marek.rogalski@wmii.uni.lodz.pl), Mariusz Kok, Piotr Beling, Andrzej Jaszkiewicz, Przemys\u0142aw Pe\u0142ka.  Emapa S.A. (http://www.emapa.pl).",
@@ -64,8 +64,29 @@
         "reference": "\"New methods of VRP problem optimization\", unpublished research funded by The National Centre for Research and Development.  \"New methods of VRP problem optimization\", project number: POIR.01.01.01.-00-0222/16.",
         "source": "sintef",
         "status": "heuristic",
-        "validated_cost": 18585.002209799568,
-        "validated_num_vehicles": 54
+        "validated_cost": 18585.00220979958,
+        "validated_num_vehicles": 54,
+        "standard": {
+            "profile": "binary64-exact-v1",
+            "objective": "HierarchicalVehicleCost",
+            "num_routes": 54,
+            "routes_sha256": "64d6e296ff08d01e4e0f2c7d8d141ff5765cda107d6a7c2eb5e39dc77c58fa3e",
+            "authoritative_cost": {
+                "numerator": "83699409026733230759",
+                "denominator": "4503599627370496"
+            },
+            "display_overflow": false,
+            "evaluation": {
+                "checker": "mamut-routing-lib",
+                "backend": "cpp-dyadic-prepared",
+                "implementation_sha256": "93280715da2a0e48789e5e4b3caef287f5214a05e5344e6416c52bc32d38c1d3",
+                "runtime": "CPython 3.12.12",
+                "verification_status": "incumbent-verified"
+            },
+            "specification": "mamut-routing/0.1-review",
+            "benchmark_revision": "r1",
+            "manifest_sha256": "f414453567c30b3e4e3ca2451c77d299fad62d14dd2a99ef93c8036aa595647d"
+        }
     },
     "objective_function": "HierarchicalVehicleCost"
 }

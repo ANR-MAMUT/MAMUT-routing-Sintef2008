@@ -17,7 +17,7 @@
         [653, 267, 106, 548, 51, 26, 335, 490, 773, 397, 437, 561, 518, 718, 568, 389, 224, 477, 489, 72, 375, 374, 694, 550, 795, 692, 387, 523, 730, 149, 537, 540, 621, 726, 665, 121, 480, 43, 613, 617, 73, 398, 467, 445, 75, 441, 716, 134, 713, 200, 360, 741, 539, 145, 642, 95, 219, 5],
         [749, 291, 248, 315, 722, 658, 407, 616, 475, 172, 416, 785, 428, 599, 211, 574, 10, 572, 689, 782, 471, 140, 93, 101, 693, 740, 735, 615, 292, 765, 504, 410, 799, 549, 214, 330, 265, 77, 462, 8, 124, 38, 603, 217, 31, 580, 331]
     ],
-    "cost": 20358.607229846686,
+    "cost": 20358.607229846704,
     "metadata": {
         "instance name": "r2_8_10",
         "authors": "Zhu He, Longfei Wang, Weibo Lin, Yujie Chen, Haoyuan Hu (Corresponding Author, haoyuan.huhy@cainiao.com), Yinghui Xu & VRP Team (Yin Zhang, Guotao Wu, Kunpeng Han et al.), unpublished result of CAINIAO AI.",
@@ -25,8 +25,29 @@
         "reference": "\"New Algorithm for VRPTW\", unpublished result of CAINIAO AI.",
         "source": "sintef",
         "status": "heuristic",
-        "validated_cost": 20358.607229846686,
-        "validated_num_vehicles": 15
+        "validated_cost": 20358.607229846704,
+        "validated_num_vehicles": 15,
+        "standard": {
+            "profile": "binary64-exact-v1",
+            "objective": "HierarchicalVehicleCost",
+            "num_routes": 15,
+            "routes_sha256": "288a391a9c2dc99f1999202e905e36fdfe0ecf09bdb6c3142603179d05968909",
+            "authoritative_cost": {
+                "numerator": "5730438495882493493",
+                "denominator": "281474976710656"
+            },
+            "display_overflow": false,
+            "evaluation": {
+                "checker": "mamut-routing-lib",
+                "backend": "cpp-dyadic-prepared",
+                "implementation_sha256": "93280715da2a0e48789e5e4b3caef287f5214a05e5344e6416c52bc32d38c1d3",
+                "runtime": "CPython 3.12.12",
+                "verification_status": "incumbent-verified"
+            },
+            "specification": "mamut-routing/0.1-review",
+            "benchmark_revision": "r1",
+            "manifest_sha256": "cd9fc2bbd4c4b00d6f5544eb43ee262f502ac8c6736285a72d464d1ae90aacac"
+        }
     },
     "objective_function": "HierarchicalVehicleCost"
 }

@@ -40,8 +40,29 @@
         "reference": "A hybrid genetic algorithm with adaptive diversity managment for a large class of vehicle routing problems with time-windows",
         "source": "sintef",
         "status": "heuristic",
-        "validated_cost": 16561.285897787155,
-        "validated_num_vehicles": 30
+        "validated_cost": 16561.285897787133,
+        "validated_num_vehicles": 30,
+        "standard": {
+            "profile": "binary64-exact-v1",
+            "objective": "HierarchicalVehicleCost",
+            "num_routes": 30,
+            "routes_sha256": "912a5c44b5144404b6b25611da73f4e3f8f236626e6be419111b0a31b190f3db",
+            "authoritative_cost": {
+                "numerator": "74585400998050383651",
+                "denominator": "4503599627370496"
+            },
+            "display_overflow": false,
+            "evaluation": {
+                "checker": "mamut-routing-lib",
+                "backend": "cpp-dyadic-prepared",
+                "implementation_sha256": "93280715da2a0e48789e5e4b3caef287f5214a05e5344e6416c52bc32d38c1d3",
+                "runtime": "CPython 3.12.12",
+                "verification_status": "incumbent-verified"
+            },
+            "specification": "mamut-routing/0.1-review",
+            "benchmark_revision": "r1",
+            "manifest_sha256": "e91d9d1c86e2863cca7de1712d24f8d8b2915e643dec1a65553e56b39af85b66"
+        }
     },
     "objective_function": "HierarchicalVehicleCost"
 }

@@ -20,7 +20,7 @@
         [927, 273, 316, 350, 517, 162, 143, 135, 360, 52, 602, 954, 68, 806, 778, 776, 150, 784, 716, 950, 361, 675, 576, 446, 117, 552, 813, 896, 665, 345, 637, 963, 219, 35, 594, 131, 274, 223, 282, 198, 646, 429, 750, 209, 558, 413, 187, 92, 294, 895, 156, 921, 79, 151, 555, 964, 109, 270, 153],
         [929, 344, 686, 453, 261, 695, 5, 760, 476, 508, 305, 462, 694, 786, 47, 988, 902, 811, 421, 993, 728, 496, 975, 966, 625, 376, 589, 858, 905, 318, 593, 783, 554, 489, 634, 880, 359, 120, 111, 899, 119, 348, 619, 946, 140, 128, 46, 417, 972, 185, 608, 387, 246]
     ],
-    "cost": 24999.655262847667,
+    "cost": 24999.655262847606,
     "metadata": {
         "instance name": "rc2_10_7",
         "authors": "Piotr Sielski (psielski@emapa.pl), Piotr Cybula, Marek Rogalski, Piotr Beling, Andrzej Jaszkiewicz.  Emapa S.A. (http://www.emapa.pl), research funded by The National Centre for Research and Development.  \"New methods of VRP problem optimization\", project number: POIR.01.01.01.-00-0222/16.",
@@ -28,8 +28,29 @@
         "reference": "\"New methods of VRP problem optimization\", unpublished result.",
         "source": "sintef",
         "status": "heuristic",
-        "validated_cost": 24999.65526284768,
-        "validated_num_vehicles": 18
+        "validated_cost": 24999.655262847606,
+        "validated_num_vehicles": 18,
+        "standard": {
+            "profile": "binary64-exact-v1",
+            "objective": "HierarchicalVehicleCost",
+            "num_routes": 18,
+            "routes_sha256": "26d8c20f5bcef017d17cf0d7bd358c98f63397ad46f7338bfe5be0b907108396",
+            "authoritative_cost": {
+                "numerator": "56294219063075671837",
+                "denominator": "2251799813685248"
+            },
+            "display_overflow": false,
+            "evaluation": {
+                "checker": "mamut-routing-lib",
+                "backend": "cpp-dyadic-prepared",
+                "implementation_sha256": "93280715da2a0e48789e5e4b3caef287f5214a05e5344e6416c52bc32d38c1d3",
+                "runtime": "CPython 3.12.12",
+                "verification_status": "incumbent-verified"
+            },
+            "specification": "mamut-routing/0.1-review",
+            "benchmark_revision": "r1",
+            "manifest_sha256": "6e51df2b34c6ec681ddbd48f96d68df633fb0d91047ec89909b208ba8a3499a2"
+        }
     },
     "objective_function": "HierarchicalVehicleCost"
 }

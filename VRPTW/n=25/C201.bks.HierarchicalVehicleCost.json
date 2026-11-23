@@ -23,7 +23,28 @@
         "num_customers": 25,
         "benchmark": "Sintef2008",
         "validated_cost": 215.54256527689378,
-        "validated_num_vehicles": 2
+        "validated_num_vehicles": 2,
+        "standard": {
+            "profile": "binary64-exact-v1",
+            "objective": "HierarchicalVehicleCost",
+            "num_routes": 2,
+            "routes_sha256": "b56cf1974b88652fa768b70bd4984f22835ee7fde82691973551f4ac86d17341",
+            "authoritative_cost": {
+                "numerator": "485358708331749809",
+                "denominator": "2251799813685248"
+            },
+            "display_overflow": false,
+            "evaluation": {
+                "checker": "mamut-routing-lib",
+                "backend": "cpp-dyadic-prepared",
+                "implementation_sha256": "93280715da2a0e48789e5e4b3caef287f5214a05e5344e6416c52bc32d38c1d3",
+                "runtime": "CPython 3.12.12",
+                "verification_status": "incumbent-verified"
+            },
+            "specification": "mamut-routing/0.1-review",
+            "benchmark_revision": "r1",
+            "manifest_sha256": "d299f328000c90d86336cc84f1172adc9d5d81c9d8b6dff913ec09b923561642"
+        }
     },
     "objective_function": "HierarchicalVehicleCost"
 }

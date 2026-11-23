@@ -16,8 +16,29 @@
         "reference": "\"New methods of VRP problem optimization\", unpublished result.",
         "source": "sintef",
         "status": "heuristic",
-        "validated_cost": 1830.0499880948644,
-        "validated_num_vehicles": 6
+        "validated_cost": 1830.0499880948648,
+        "validated_num_vehicles": 6,
+        "standard": {
+            "profile": "binary64-exact-v1",
+            "objective": "HierarchicalVehicleCost",
+            "num_routes": 6,
+            "routes_sha256": "3015098a6fcd6a681e0b3e8305a1a8158fd2d84b866ff4f08b88700057234d9a",
+            "authoritative_cost": {
+                "numerator": "4120906222226707075",
+                "denominator": "2251799813685248"
+            },
+            "display_overflow": false,
+            "evaluation": {
+                "checker": "mamut-routing-lib",
+                "backend": "cpp-dyadic-prepared",
+                "implementation_sha256": "93280715da2a0e48789e5e4b3caef287f5214a05e5344e6416c52bc32d38c1d3",
+                "runtime": "CPython 3.12.12",
+                "verification_status": "incumbent-verified"
+            },
+            "specification": "mamut-routing/0.1-review",
+            "benchmark_revision": "r1",
+            "manifest_sha256": "963ae69efa85aa83406aaeaacafd28bc2aa2446e8978551fc4a50b9daaddc32e"
+        }
     },
     "objective_function": "HierarchicalVehicleCost"
 }

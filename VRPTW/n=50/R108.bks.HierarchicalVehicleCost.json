@@ -8,7 +8,7 @@
         [18, 7, 19, 11, 10, 32, 20, 30, 31, 27],
         [40, 21, 22, 41, 23, 39, 4, 25, 26]
     ],
-    "cost": 620.2551578564136,
+    "cost": 620.2551578564137,
     "metadata": {
         "source": "pyvrp_hgs",
         "seed": 42,
@@ -21,8 +21,29 @@
         "status": "heuristic",
         "num_customers": 50,
         "benchmark": "Sintef2008",
-        "validated_cost": 620.2551578564136,
-        "validated_num_vehicles": 6
+        "validated_cost": 620.2551578564137,
+        "validated_num_vehicles": 6,
+        "standard": {
+            "profile": "binary64-exact-v1",
+            "objective": "HierarchicalVehicleCost",
+            "num_routes": 6,
+            "routes_sha256": "ef0c2e3d1d10f232ab95a6a697aaf0f3c40e491e53ca123c364ec111231663fd",
+            "authoritative_cost": {
+                "numerator": "349172612224596599",
+                "denominator": "562949953421312"
+            },
+            "display_overflow": false,
+            "evaluation": {
+                "checker": "mamut-routing-lib",
+                "backend": "cpp-dyadic-prepared",
+                "implementation_sha256": "93280715da2a0e48789e5e4b3caef287f5214a05e5344e6416c52bc32d38c1d3",
+                "runtime": "CPython 3.12.12",
+                "verification_status": "incumbent-verified"
+            },
+            "specification": "mamut-routing/0.1-review",
+            "benchmark_revision": "r1",
+            "manifest_sha256": "06c9f5cf8c3459ba6e385557c63ec0df05afd36c2b63eb7f20a09f2ca105ac1a"
+        }
     },
     "objective_function": "HierarchicalVehicleCost"
 }

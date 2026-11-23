@@ -20,15 +20,36 @@
         [469, 207, 295, 210, 162, 26, 394, 31, 287, 455, 555, 411, 38, 7, 291, 128, 588, 246, 233, 435, 292, 275, 303, 232, 206, 244, 86, 403, 53, 354, 422, 408, 4, 108],
         [559, 301, 312, 340, 431, 40, 243, 64, 448, 598, 173, 534, 117, 423, 273, 217, 318, 490, 385, 157, 438, 1, 302, 407, 398, 9, 55, 190, 147, 444, 156, 322, 129, 127]
     ],
-    "cost": 7575.1966113102335,
+    "cost": 7575.196611310248,
     "metadata": {
         "instance name": "c2_6_5",
         "authors": "Piotr Sielski (psielski@emapa.pl), Piotr Cybula, Marek Rogalski, Piotr Beling, Andrzej Jaszkiewicz.  Emapa S.A. (http://www.emapa.pl), research funded by The National Centre for Research and Development.  \"New methods of VRP problem optimization\", project number: POIR.01.01.01.-00-0222/16.",
         "date": "25.05.2018",
         "reference": "\"New methods of VRP problem optimization\", unpublished result.",
-        "validated_cost": 7575.1966113102335,
+        "validated_cost": 7575.196611310248,
         "validated_num_vehicles": 18,
-        "source": "sintef"
+        "source": "sintef",
+        "standard": {
+            "profile": "binary64-exact-v1",
+            "objective": "HierarchicalVehicleCost",
+            "num_routes": 18,
+            "routes_sha256": "fa44c161b33ddef42fb3a1d5d4ed69441787a2aec415acbf9c0f0d34aed62b40",
+            "authoritative_cost": {
+                "numerator": "4264456579494384733",
+                "denominator": "562949953421312"
+            },
+            "display_overflow": false,
+            "evaluation": {
+                "checker": "mamut-routing-lib",
+                "backend": "cpp-dyadic-prepared",
+                "implementation_sha256": "93280715da2a0e48789e5e4b3caef287f5214a05e5344e6416c52bc32d38c1d3",
+                "runtime": "CPython 3.12.12",
+                "verification_status": "incumbent-verified"
+            },
+            "specification": "mamut-routing/0.1-review",
+            "benchmark_revision": "r1",
+            "manifest_sha256": "0219d587eb166b90fb3159727ea6722badac6c42fc459a708e9ada311add09d6"
+        }
     },
     "objective_function": "HierarchicalVehicleCost"
 }

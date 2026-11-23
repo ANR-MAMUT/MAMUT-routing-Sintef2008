@@ -18,8 +18,29 @@
         "reference": "A parallel EAX-based memetic algorithm for the vehicle routing problem with time windows",
         "source": "sintef",
         "status": "heuristic",
-        "validated_cost": 9210.152368824078,
-        "validated_num_vehicles": 8
+        "validated_cost": 9210.152368824081,
+        "validated_num_vehicles": 8,
+        "standard": {
+            "profile": "binary64-exact-v1",
+            "objective": "HierarchicalVehicleCost",
+            "num_routes": 8,
+            "routes_sha256": "2aec48420971d07b90c0ae000db14b37e2a5184ba287c6e9aac26e961dac34b3",
+            "authoritative_cost": {
+                "numerator": "5184854847032703109",
+                "denominator": "562949953421312"
+            },
+            "display_overflow": false,
+            "evaluation": {
+                "checker": "mamut-routing-lib",
+                "backend": "cpp-dyadic-prepared",
+                "implementation_sha256": "93280715da2a0e48789e5e4b3caef287f5214a05e5344e6416c52bc32d38c1d3",
+                "runtime": "CPython 3.12.12",
+                "verification_status": "incumbent-verified"
+            },
+            "specification": "mamut-routing/0.1-review",
+            "benchmark_revision": "r1",
+            "manifest_sha256": "70ee6cc39e557cff08e48cd55d8522cafbe9073fd758d712d6416bbf5e38e001"
+        }
     },
     "objective_function": "HierarchicalVehicleCost"
 }

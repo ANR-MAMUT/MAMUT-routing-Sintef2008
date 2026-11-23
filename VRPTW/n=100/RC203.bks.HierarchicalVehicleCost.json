@@ -5,7 +5,7 @@
         [81, 61, 42, 39, 36, 43, 44, 69, 88, 98, 82, 99, 87, 9, 53, 78, 79, 8, 6, 7, 46, 4, 2, 55, 68, 70, 100],
         [90, 65, 91, 92, 95, 50, 33, 32, 34, 31, 29, 27, 26, 28, 30, 62, 67, 94, 96, 54, 41, 38, 40, 35, 37, 72, 71, 93, 80]
     ],
-    "cost": 1049.624236739795,
+    "cost": 1049.6242367397952,
     "metadata": {
         "source": "sintef",
         "status": "heuristic",
@@ -15,8 +15,29 @@
         "sintef_reported_cost": 1049.6242367397954,
         "notes": "Best-known solution from the SINTEF TOP VRPTW website.",
         "authors": "Victor Allis",
-        "validated_cost": 1049.624236739795,
-        "validated_num_routes": 3
+        "validated_cost": 1049.6242367397952,
+        "validated_num_routes": 3,
+        "standard": {
+            "profile": "binary64-exact-v1",
+            "objective": "HierarchicalVehicleCost",
+            "num_routes": 3,
+            "routes_sha256": "29713b9f1fada9c080007bc5b77d1f2a6d9a6a949868d574121fa514208dd98b",
+            "authoritative_cost": {
+                "numerator": "1181771830365095571",
+                "denominator": "1125899906842624"
+            },
+            "display_overflow": false,
+            "evaluation": {
+                "checker": "mamut-routing-lib",
+                "backend": "cpp-dyadic-prepared",
+                "implementation_sha256": "93280715da2a0e48789e5e4b3caef287f5214a05e5344e6416c52bc32d38c1d3",
+                "runtime": "CPython 3.12.12",
+                "verification_status": "incumbent-verified"
+            },
+            "specification": "mamut-routing/0.1-review",
+            "benchmark_revision": "r1",
+            "manifest_sha256": "9a5bfd53ddb3a1fa14f96e03a689046666ee47ab1bee0bcb270b2f1081177238"
+        }
     },
     "objective_function": "HierarchicalVehicleCost"
 }

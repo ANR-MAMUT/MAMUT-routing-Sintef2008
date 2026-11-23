@@ -6,7 +6,7 @@
         [131, 62, 74, 192, 33, 179, 137, 117, 97, 35, 177, 188, 134, 149, 94, 28, 162, 81, 175, 49, 120, 9, 19, 65, 72, 199, 158, 36, 190, 106, 108, 76, 182, 100, 54, 104, 2, 63, 82, 34, 52, 144, 111],
         [168, 55, 151, 45, 8, 150, 58, 166, 157, 90, 26, 50, 84, 141, 161, 11, 64, 66, 142, 123, 10, 130, 198, 93, 105, 176, 91, 126, 79, 17, 133, 16, 89, 174, 154, 169, 73, 153, 180, 85, 14, 98, 46, 121, 189, 83, 20, 30, 170, 135, 109, 12, 110, 3, 4, 165, 87, 113, 25, 70, 163, 148]
     ],
-    "cost": 1981.304841401832,
+    "cost": 1981.3048414018313,
     "metadata": {
         "instance name": "r2_2_4",
         "authors": "Miroslaw Blocho Zbigniew J. Czech",
@@ -14,8 +14,29 @@
         "reference": "",
         "source": "sintef",
         "status": "heuristic",
-        "validated_cost": 1981.304841401832,
-        "validated_num_vehicles": 4
+        "validated_cost": 1981.3048414018313,
+        "validated_num_vehicles": 4,
+        "standard": {
+            "profile": "binary64-exact-v1",
+            "objective": "HierarchicalVehicleCost",
+            "num_routes": 4,
+            "routes_sha256": "85ebbd928075add4e0807ee6e94b031515f9683a24574ea4a661183b62c03968",
+            "authoritative_cost": {
+                "numerator": "8923003745444646797",
+                "denominator": "4503599627370496"
+            },
+            "display_overflow": false,
+            "evaluation": {
+                "checker": "mamut-routing-lib",
+                "backend": "cpp-dyadic-prepared",
+                "implementation_sha256": "93280715da2a0e48789e5e4b3caef287f5214a05e5344e6416c52bc32d38c1d3",
+                "runtime": "CPython 3.12.12",
+                "verification_status": "incumbent-verified"
+            },
+            "specification": "mamut-routing/0.1-review",
+            "benchmark_revision": "r1",
+            "manifest_sha256": "6a61c1f22841a80786f5ce2b1eef4c44ab3717f3ecaf4fbd1d5a674360886791"
+        }
     },
     "objective_function": "HierarchicalVehicleCost"
 }

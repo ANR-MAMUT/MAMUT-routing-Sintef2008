@@ -14,7 +14,7 @@
         [94, 92, 42, 15, 57, 87, 97, 95, 13],
         [96, 85, 91, 16, 61, 99, 6]
     ],
-    "cost": 1252.0307459949124,
+    "cost": 1252.0307459949117,
     "metadata": {
         "instance name": "R106",
         "authors": "bauke",
@@ -22,8 +22,29 @@
         "reference": "N/A",
         "source": "sintef",
         "status": "heuristic",
-        "validated_cost": 1252.0307459949124,
-        "validated_num_vehicles": 12
+        "validated_cost": 1252.0307459949117,
+        "validated_num_vehicles": 12,
+        "standard": {
+            "profile": "binary64-exact-v1",
+            "objective": "HierarchicalVehicleCost",
+            "num_routes": 12,
+            "routes_sha256": "e3c373c60dbd94648e817f3b0146790b3385d3ed95412df31e5fb114a061c75a",
+            "authoritative_cost": {
+                "numerator": "704830650139886053",
+                "denominator": "562949953421312"
+            },
+            "display_overflow": false,
+            "evaluation": {
+                "checker": "mamut-routing-lib",
+                "backend": "cpp-dyadic-prepared",
+                "implementation_sha256": "93280715da2a0e48789e5e4b3caef287f5214a05e5344e6416c52bc32d38c1d3",
+                "runtime": "CPython 3.12.12",
+                "verification_status": "incumbent-verified"
+            },
+            "specification": "mamut-routing/0.1-review",
+            "benchmark_revision": "r1",
+            "manifest_sha256": "62bdfeb73c29987bde0daafb6e123d573a52f7fcb9458081a203780a17e1ea06"
+        }
     },
     "objective_function": "HierarchicalVehicleCost"
 }

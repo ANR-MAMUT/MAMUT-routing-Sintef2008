@@ -11,7 +11,7 @@
         [363, 194, 202, 315, 328, 9, 381, 333, 232, 78, 40, 372, 392, 152, 286, 305, 82, 397, 148, 253, 254, 311, 275, 251, 62, 6, 69, 209, 221, 325, 193, 262, 104, 41, 59, 322, 135, 94, 99, 45, 283],
         [383, 150, 217, 369, 46, 55, 252, 189, 67, 50, 236, 247, 309, 239, 110, 345, 195, 380, 374, 56, 151, 385, 49, 348, 370, 77, 277, 126, 319, 33, 86, 124, 300, 105, 119, 231, 261, 384, 310, 20, 163, 26, 226, 266, 52, 53, 243, 352, 284]
     ],
-    "cost": 6180.623359077258,
+    "cost": 6180.623359077266,
     "metadata": {
         "instance name": "RC2_4_2",
         "authors": "Miros\u00b3aw B\u00b3ocho, Zbigniew J. Czech",
@@ -19,8 +19,29 @@
         "reference": "A parallel EAX-based memetic algorithm for the vehicle routing problem with time windows",
         "source": "sintef",
         "status": "heuristic",
-        "validated_cost": 6180.623359077255,
-        "validated_num_vehicles": 9
+        "validated_cost": 6180.623359077266,
+        "validated_num_vehicles": 9,
+        "standard": {
+            "profile": "binary64-exact-v1",
+            "objective": "HierarchicalVehicleCost",
+            "num_routes": 9,
+            "routes_sha256": "654187160721ce56dcc001fcf057facf01ad68f2e11cba1093487228e671183d",
+            "authoritative_cost": {
+                "numerator": "27835053056857758659",
+                "denominator": "4503599627370496"
+            },
+            "display_overflow": false,
+            "evaluation": {
+                "checker": "mamut-routing-lib",
+                "backend": "cpp-dyadic-prepared",
+                "implementation_sha256": "93280715da2a0e48789e5e4b3caef287f5214a05e5344e6416c52bc32d38c1d3",
+                "runtime": "CPython 3.12.12",
+                "verification_status": "incumbent-verified"
+            },
+            "specification": "mamut-routing/0.1-review",
+            "benchmark_revision": "r1",
+            "manifest_sha256": "c38bdd87e68be556cf687b93857a71850588ac6e6eae369852c93081c79b2a6f"
+        }
     },
     "objective_function": "HierarchicalVehicleCost"
 }

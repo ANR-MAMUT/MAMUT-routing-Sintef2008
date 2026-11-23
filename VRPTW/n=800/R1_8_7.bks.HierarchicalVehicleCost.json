@@ -82,8 +82,29 @@
         "reference": "\"New methods of VRP problem optimization\", unpublished research funded by The National Centre for Research and Development.  \"New methods of VRP problem optimization\", project number: POIR.01.01.01.-00-0222/16.",
         "source": "sintef",
         "status": "heuristic",
-        "validated_cost": 28823.758871727234,
-        "validated_num_vehicles": 72
+        "validated_cost": 28823.758871727212,
+        "validated_num_vehicles": 72,
+        "standard": {
+            "profile": "binary64-exact-v1",
+            "objective": "HierarchicalVehicleCost",
+            "num_routes": 72,
+            "routes_sha256": "2febde34eb8b3efd3c1a423e5cafe72681e6aa3d352b4ada16a2785a09b7e78e",
+            "authoritative_cost": {
+                "numerator": "129810669714127703943",
+                "denominator": "4503599627370496"
+            },
+            "display_overflow": false,
+            "evaluation": {
+                "checker": "mamut-routing-lib",
+                "backend": "cpp-dyadic-prepared",
+                "implementation_sha256": "93280715da2a0e48789e5e4b3caef287f5214a05e5344e6416c52bc32d38c1d3",
+                "runtime": "CPython 3.12.12",
+                "verification_status": "incumbent-verified"
+            },
+            "specification": "mamut-routing/0.1-review",
+            "benchmark_revision": "r1",
+            "manifest_sha256": "ee72afd8b6d4f382abe5da8e6b64e8bff3d8682e32360eaa22788ed3b94aeb99"
+        }
     },
     "objective_function": "HierarchicalVehicleCost"
 }

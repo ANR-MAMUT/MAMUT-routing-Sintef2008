@@ -13,7 +13,7 @@
         [83, 82, 19, 47, 36, 49, 46, 48],
         [95, 92, 98, 42, 15, 57, 87, 97, 37, 96, 13, 58]
     ],
-    "cost": 1194.7340975446027,
+    "cost": 1194.734097544603,
     "metadata": {
         "instance name": "r109",
         "authors": "Shobb<shobb@narod.ru>",
@@ -21,8 +21,29 @@
         "reference": "http://shobb.narod.ru/vrppd.html",
         "source": "sintef",
         "status": "heuristic",
-        "validated_cost": 1194.734097544604,
-        "validated_num_vehicles": 11
+        "validated_cost": 1194.734097544603,
+        "validated_num_vehicles": 11,
+        "standard": {
+            "profile": "binary64-exact-v1",
+            "objective": "HierarchicalVehicleCost",
+            "num_routes": 11,
+            "routes_sha256": "05d19f835ae96bebea35327f875b575a5812b0a46753e31b2618583c82ae9d5a",
+            "authoritative_cost": {
+                "numerator": "2690302018254349769",
+                "denominator": "2251799813685248"
+            },
+            "display_overflow": false,
+            "evaluation": {
+                "checker": "mamut-routing-lib",
+                "backend": "cpp-dyadic-prepared",
+                "implementation_sha256": "93280715da2a0e48789e5e4b3caef287f5214a05e5344e6416c52bc32d38c1d3",
+                "runtime": "CPython 3.12.12",
+                "verification_status": "incumbent-verified"
+            },
+            "specification": "mamut-routing/0.1-review",
+            "benchmark_revision": "r1",
+            "manifest_sha256": "b36d976555cd9ad55a46b7fe3ae4a19390f3b053768cd53fcbe8e6e0e759a4c9"
+        }
     },
     "objective_function": "HierarchicalVehicleCost"
 }

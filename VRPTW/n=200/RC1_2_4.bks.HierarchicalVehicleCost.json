@@ -20,7 +20,7 @@
         [173, 165, 85, 45, 56, 108, 38, 32, 23, 117, 114, 86],
         [182, 57, 133, 147, 40, 16, 98, 119, 161, 72]
     ],
-    "cost": 2851.6830515888305,
+    "cost": 2851.6830515888328,
     "metadata": {
         "cost": 2845.2,
         "source": "sintef",
@@ -28,12 +28,33 @@
         "provided_date": "2025-12-21",
         "notes": "BKS provided by email from Dr. Eduardo Queiroga on behalf of CVRPLIB",
         "status": "heuristic",
-        "validated_cost": 2851.6830515888305,
+        "validated_cost": 2851.6830515888328,
         "validated_num_vehicles": 18,
         "instance name": "RC1_2_4",
         "authors": "Vidal, Crainic, Gendreau, Prins",
         "date": "31-07-12",
-        "reference": "A hybrid genetic algorithm with adaptive diversity managment for a large class of vehicle routing problems with time-windows"
+        "reference": "A hybrid genetic algorithm with adaptive diversity managment for a large class of vehicle routing problems with time-windows",
+        "standard": {
+            "profile": "binary64-exact-v1",
+            "objective": "HierarchicalVehicleCost",
+            "num_routes": 18,
+            "routes_sha256": "97b379b750495804b4b58a19450c59a630e5f41c1514874f0a8f2f482b630033",
+            "authoritative_cost": {
+                "numerator": "12842838728514225189",
+                "denominator": "4503599627370496"
+            },
+            "display_overflow": false,
+            "evaluation": {
+                "checker": "mamut-routing-lib",
+                "backend": "cpp-dyadic-prepared",
+                "implementation_sha256": "93280715da2a0e48789e5e4b3caef287f5214a05e5344e6416c52bc32d38c1d3",
+                "runtime": "CPython 3.12.12",
+                "verification_status": "incumbent-verified"
+            },
+            "specification": "mamut-routing/0.1-review",
+            "benchmark_revision": "r1",
+            "manifest_sha256": "615b38430aba063409ae2b421d7105aa89f0d06120cead5e3364fd178a2cd3fe"
+        }
     },
     "objective_function": "HierarchicalVehicleCost"
 }

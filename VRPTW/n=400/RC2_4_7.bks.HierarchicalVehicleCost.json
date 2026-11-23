@@ -10,7 +10,7 @@
         [329, 104, 333, 78, 392, 372, 275, 251, 148, 40, 232, 162, 87, 389, 82, 152, 57, 356, 246, 286, 305, 253, 62, 6, 209, 254, 311, 221, 325, 41, 299, 280, 350, 157, 289, 116, 335, 200, 69, 167, 130, 358, 7, 397, 371, 84, 153, 399, 38, 336, 102, 293, 187, 203, 131, 182],
         [383, 150, 245, 355, 375, 391, 288, 295, 236, 247, 16, 89, 10, 239, 4, 307, 91, 324, 151, 373, 330, 380, 271, 109, 345, 111, 279, 195, 110, 364, 1, 114, 206, 235, 291, 309, 227, 216, 244, 80, 5, 347, 172, 58]
     ],
-    "cost": 5334.715503506637,
+    "cost": 5334.715503506642,
     "metadata": {
         "instance name": "rc2_4_7",
         "authors": "Quintiq",
@@ -18,8 +18,29 @@
         "reference": "http://www.quintiq.com/optimization/vrptw-world-records.html",
         "source": "sintef",
         "status": "heuristic",
-        "validated_cost": 5334.715503506638,
-        "validated_num_vehicles": 8
+        "validated_cost": 5334.715503506642,
+        "validated_num_vehicles": 8,
+        "standard": {
+            "profile": "binary64-exact-v1",
+            "objective": "HierarchicalVehicleCost",
+            "num_routes": 8,
+            "routes_sha256": "2801c7d2b9021b0c59594c7d23059db38a6de8a6ffe6793f2b512d6f5fc3e365",
+            "authoritative_cost": {
+                "numerator": "3003177844215015127",
+                "denominator": "562949953421312"
+            },
+            "display_overflow": false,
+            "evaluation": {
+                "checker": "mamut-routing-lib",
+                "backend": "cpp-dyadic-prepared",
+                "implementation_sha256": "93280715da2a0e48789e5e4b3caef287f5214a05e5344e6416c52bc32d38c1d3",
+                "runtime": "CPython 3.12.12",
+                "verification_status": "incumbent-verified"
+            },
+            "specification": "mamut-routing/0.1-review",
+            "benchmark_revision": "r1",
+            "manifest_sha256": "e3b6c68eb729f1a13ae2f4f848905ce2039774ff0aac27de5cb92e12a72cb5f7"
+        }
     },
     "objective_function": "HierarchicalVehicleCost"
 }

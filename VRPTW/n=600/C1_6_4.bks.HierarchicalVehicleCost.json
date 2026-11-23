@@ -58,15 +58,36 @@
         [588, 400, 351, 269, 220, 341, 49, 169, 26, 35],
         [600, 577, 142, 457, 226, 14, 27, 581, 365, 451, 21]
     ],
-    "cost": 13558.537062382005,
+    "cost": 13558.537062381994,
     "metadata": {
         "instance name": "C1_6_4",
         "authors": "Quintiq",
         "date": "Sep 30 2013",
         "reference": "http://www.quintiq.com/optimization-world-records.aspx",
-        "validated_cost": 13558.53706238201,
+        "validated_cost": 13558.537062381994,
         "validated_num_vehicles": 56,
-        "source": "sintef"
+        "source": "sintef",
+        "standard": {
+            "profile": "binary64-exact-v1",
+            "objective": "HierarchicalVehicleCost",
+            "num_routes": 56,
+            "routes_sha256": "fff8066be72653ad3783f44dd19db9b32e315153bc7cea88f846af302b83611d",
+            "authoritative_cost": {
+                "numerator": "15265555615458151479",
+                "denominator": "1125899906842624"
+            },
+            "display_overflow": false,
+            "evaluation": {
+                "checker": "mamut-routing-lib",
+                "backend": "cpp-dyadic-prepared",
+                "implementation_sha256": "93280715da2a0e48789e5e4b3caef287f5214a05e5344e6416c52bc32d38c1d3",
+                "runtime": "CPython 3.12.12",
+                "verification_status": "incumbent-verified"
+            },
+            "specification": "mamut-routing/0.1-review",
+            "benchmark_revision": "r1",
+            "manifest_sha256": "b90c0c1f7e3dc18f0e61b3ff6da8552c11d0f8868910e5bae12cd0858bd86331"
+        }
     },
     "objective_function": "HierarchicalVehicleCost"
 }

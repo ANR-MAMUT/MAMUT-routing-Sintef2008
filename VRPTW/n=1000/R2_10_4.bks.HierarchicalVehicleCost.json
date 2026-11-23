@@ -21,7 +21,7 @@
         [898, 803, 704, 576, 582, 289, 31, 512, 761, 794, 308, 720, 693, 975, 105, 642, 885, 379, 586, 684, 408, 367, 862, 622, 990, 64, 14, 792, 534, 952, 574, 298, 412, 820, 923, 188, 724, 215, 478, 769, 40, 590, 612, 2, 55, 502, 903, 67, 965, 598, 949, 127, 157, 589, 870, 679],
         [984, 848, 752, 386, 1, 890, 214, 435, 474, 155, 533, 660, 281, 307, 303, 338, 364, 139, 896]
     ],
-    "cost": 17851.95861509331,
+    "cost": 17851.95861509332,
     "metadata": {
         "instance name": "r2_10_4",
         "authors": "Zhu He, Longfei Wang, Weibo Lin, Yujie Chen, Haoyuan Hu (haoyuan.huhy@cainiao.com), Yinghui Xu & VRP Team (Ying Zhang, Guotao Wu, Kunpeng Han et al.), unpublished result of CAINIAO AI.",
@@ -30,7 +30,28 @@
         "source": "sintef",
         "status": "heuristic",
         "validated_cost": 17851.95861509332,
-        "validated_num_vehicles": 19
+        "validated_num_vehicles": 19,
+        "standard": {
+            "profile": "binary64-exact-v1",
+            "objective": "HierarchicalVehicleCost",
+            "num_routes": 19,
+            "routes_sha256": "de67dd8ab962c0e02e74c4e8e6e552f4be26d762b7e8e698e0bebe8193ca87a1",
+            "authoritative_cost": {
+                "numerator": "80398074166767801163",
+                "denominator": "4503599627370496"
+            },
+            "display_overflow": false,
+            "evaluation": {
+                "checker": "mamut-routing-lib",
+                "backend": "cpp-dyadic-prepared",
+                "implementation_sha256": "93280715da2a0e48789e5e4b3caef287f5214a05e5344e6416c52bc32d38c1d3",
+                "runtime": "CPython 3.12.12",
+                "verification_status": "incumbent-verified"
+            },
+            "specification": "mamut-routing/0.1-review",
+            "benchmark_revision": "r1",
+            "manifest_sha256": "41407a97c014fdc19e60f12916daeb81282a6fd5ff764fe19d2e69a57c7d4b48"
+        }
     },
     "objective_function": "HierarchicalVehicleCost"
 }

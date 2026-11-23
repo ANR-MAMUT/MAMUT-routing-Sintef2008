@@ -5,7 +5,7 @@
         [28, 76, 12, 29, 39, 67, 23, 75, 72, 73, 21, 40, 53, 18, 7, 62, 64, 49, 36, 46, 8, 45, 17, 84, 96, 37, 100, 91, 97, 13, 58],
         [52, 83, 5, 59, 98, 92, 95, 2, 42, 14, 44, 38, 86, 16, 61, 85, 93, 99, 6, 94, 87, 57, 15, 43, 41, 22, 74, 56, 4, 26, 54, 55, 25, 24, 80, 68, 77, 1]
     ],
-    "cost": 909.1633561606878,
+    "cost": 909.1633561606881,
     "metadata": {
         "instance name": "R209",
         "authors": "Bent & Van Hentenryck",
@@ -13,8 +13,29 @@
         "reference": "Technical Report, CS-01-06, Department of Computer Science, Brown University, September 2001.",
         "source": "sintef",
         "status": "heuristic",
-        "validated_cost": 909.1633561606889,
-        "validated_num_vehicles": 3
+        "validated_cost": 909.1633561606881,
+        "validated_num_vehicles": 3,
+        "standard": {
+            "profile": "binary64-exact-v1",
+            "objective": "HierarchicalVehicleCost",
+            "num_routes": 3,
+            "routes_sha256": "5a45d3dde3646ef892076a5b5c8af64018c8395ec550d3c76adf942bf662e5a6",
+            "authoritative_cost": {
+                "numerator": "255906734501511531",
+                "denominator": "281474976710656"
+            },
+            "display_overflow": false,
+            "evaluation": {
+                "checker": "mamut-routing-lib",
+                "backend": "cpp-dyadic-prepared",
+                "implementation_sha256": "93280715da2a0e48789e5e4b3caef287f5214a05e5344e6416c52bc32d38c1d3",
+                "runtime": "CPython 3.12.12",
+                "verification_status": "incumbent-verified"
+            },
+            "specification": "mamut-routing/0.1-review",
+            "benchmark_revision": "r1",
+            "manifest_sha256": "3d1e133acb4997951cd5441c72ae336c4aee7966f44910f8a08547666c1cb03c"
+        }
     },
     "objective_function": "HierarchicalVehicleCost"
 }

@@ -13,15 +13,36 @@
         [487, 418, 290, 33, 221, 580, 420, 429, 325, 521, 268, 368, 384, 125, 85, 152, 187, 50, 279, 376, 39, 25, 582, 65, 210, 467, 262, 592, 30, 176, 165, 207, 500, 501, 32, 209, 517, 56, 238, 194, 263, 128, 333, 19, 482, 567, 457, 99, 416, 230, 293, 446],
         [547, 566, 488, 28, 375, 2, 275, 352, 284, 62, 63, 600, 162, 427, 522, 518, 476, 143, 198, 188, 133, 173, 382, 425, 66, 358, 104, 419, 412, 78, 43, 58, 243, 310, 94, 560, 4, 208, 304, 421, 370, 246, 5, 354, 553, 564, 379, 423, 474, 55, 270]
     ],
-    "cost": 7057.940148893919,
+    "cost": 7057.940148893929,
     "metadata": {
         "instance name": "rc2_6_4",
         "authors": "Zhu He, Longfei Wang, Weibo Lin, Yujie Chen, Haoyuan Hu (haoyuan.huhy@cainiao.com), Yinghui Xu & VRP Team (Ying Zhang, Guotao Wu, Kunpeng Han et al.), unpublished result of CAINIAO AI.",
         "date": "13-11-2018",
         "reference": "\"New Algorithm for VRPTW\", unpublished result of CAINIAO AI.",
-        "validated_cost": 7057.940148893919,
+        "validated_cost": 7057.940148893929,
         "validated_num_vehicles": 11,
-        "source": "sintef"
+        "source": "sintef",
+        "standard": {
+            "profile": "binary64-exact-v1",
+            "objective": "HierarchicalVehicleCost",
+            "num_routes": 11,
+            "routes_sha256": "4fcc087820e9153df592790e03abfc8623736df75f3270b9b164384499506dbe",
+            "authoritative_cost": {
+                "numerator": "7946534156140491237",
+                "denominator": "1125899906842624"
+            },
+            "display_overflow": false,
+            "evaluation": {
+                "checker": "mamut-routing-lib",
+                "backend": "cpp-dyadic-prepared",
+                "implementation_sha256": "93280715da2a0e48789e5e4b3caef287f5214a05e5344e6416c52bc32d38c1d3",
+                "runtime": "CPython 3.12.12",
+                "verification_status": "incumbent-verified"
+            },
+            "specification": "mamut-routing/0.1-review",
+            "benchmark_revision": "r1",
+            "manifest_sha256": "4cef9628443b0275ca3fb100c37f7a06e7f9f628b733fb5f1ca12821499522fc"
+        }
     },
     "objective_function": "HierarchicalVehicleCost"
 }

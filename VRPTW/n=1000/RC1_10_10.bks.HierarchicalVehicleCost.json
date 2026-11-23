@@ -92,7 +92,7 @@
         [989, 971, 713, 428, 573, 560, 123, 683, 854, 678, 677, 711, 269, 384],
         [991, 244, 65, 374, 464, 349, 126, 838, 911, 427]
     ],
-    "cost": 43551.69045802451,
+    "cost": 43551.690458024525,
     "metadata": {
         "instance name": "rc1_10_10",
         "authors": "Piotr Sielski, Akif Corduk, Nicolas Blin, Hugo Linsenmaier, Alex Fender, Rajesh Gandham",
@@ -100,8 +100,29 @@
         "reference": "Nvidia",
         "source": "sintef",
         "status": "heuristic",
-        "validated_cost": 43551.69045802443,
-        "validated_num_vehicles": 90
+        "validated_cost": 43551.690458024525,
+        "validated_num_vehicles": 90,
+        "standard": {
+            "profile": "binary64-exact-v1",
+            "objective": "HierarchicalVehicleCost",
+            "num_routes": 90,
+            "routes_sha256": "c5f394c102c0f1c5ab35aa4b5cb08d25bac6a6c0733af2da1dcc3c468d261225",
+            "authoritative_cost": {
+                "numerator": "98069688459057214807",
+                "denominator": "2251799813685248"
+            },
+            "display_overflow": false,
+            "evaluation": {
+                "checker": "mamut-routing-lib",
+                "backend": "cpp-dyadic-prepared",
+                "implementation_sha256": "93280715da2a0e48789e5e4b3caef287f5214a05e5344e6416c52bc32d38c1d3",
+                "runtime": "CPython 3.12.12",
+                "verification_status": "incumbent-verified"
+            },
+            "specification": "mamut-routing/0.1-review",
+            "benchmark_revision": "r1",
+            "manifest_sha256": "ccc958a74506e9a6c51daf0b793b88dd227702fbc49113ba911e5226bed8d4a0"
+        }
     },
     "objective_function": "HierarchicalVehicleCost"
 }

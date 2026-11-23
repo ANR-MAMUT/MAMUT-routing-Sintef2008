@@ -17,7 +17,7 @@
         [764, 495, 697, 379, 156, 450, 149, 683, 744, 631, 94, 572, 752, 54, 275, 387, 689, 557, 473, 739, 260, 16, 134, 730, 447, 59, 101, 362, 695, 232, 374, 397, 743, 408, 768, 414, 267, 302, 113, 188, 502, 676, 670, 682, 417, 43, 678, 167, 780, 748, 111],
         [772, 443, 713, 288, 746, 614, 774, 720, 549, 481, 661, 358, 373, 37, 790, 95, 69, 419, 628, 756, 494, 558, 21, 207, 125, 363, 565, 712, 681, 537, 90, 599, 324, 581, 382, 792, 415, 329, 413, 740, 775, 186, 92, 429, 339, 108, 84, 468, 305]
     ],
-    "cost": 19074.023755681665,
+    "cost": 19074.023755681643,
     "metadata": {
         "instance name": "rc2_8_5",
         "authors": "Zhu He, Longfei Wang, Weibo Lin, Yujie Chen, Haoyuan Hu (haoyuan.huhy@cainiao.com), Yinghui Xu & VRP Team (Ying Zhang, Guotao Wu, Kunpeng Han et al.), unpublished result of CAINIAO AI.",
@@ -25,8 +25,29 @@
         "reference": "\"New Algorithm for VRPTW\", unpublished result of CAINIAO AI.",
         "source": "sintef",
         "status": "heuristic",
-        "validated_cost": 19074.023755681665,
-        "validated_num_vehicles": 15
+        "validated_cost": 19074.023755681643,
+        "validated_num_vehicles": 15,
+        "standard": {
+            "profile": "binary64-exact-v1",
+            "objective": "HierarchicalVehicleCost",
+            "num_routes": 15,
+            "routes_sha256": "120f332fb7c105963038deb4495208d9ae3d19f81ea5bc594ac2137f6b969517",
+            "authoritative_cost": {
+                "numerator": "2684430196204494605",
+                "denominator": "140737488355328"
+            },
+            "display_overflow": false,
+            "evaluation": {
+                "checker": "mamut-routing-lib",
+                "backend": "cpp-dyadic-prepared",
+                "implementation_sha256": "93280715da2a0e48789e5e4b3caef287f5214a05e5344e6416c52bc32d38c1d3",
+                "runtime": "CPython 3.12.12",
+                "verification_status": "incumbent-verified"
+            },
+            "specification": "mamut-routing/0.1-review",
+            "benchmark_revision": "r1",
+            "manifest_sha256": "4d6e0e826fcad0202b986a691421072ad114836330c0d5b9158df801bf81c90e"
+        }
     },
     "objective_function": "HierarchicalVehicleCost"
 }

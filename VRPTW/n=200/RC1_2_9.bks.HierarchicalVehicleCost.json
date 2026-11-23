@@ -20,7 +20,7 @@
         [173, 165, 85, 45, 56, 108, 38, 32, 23, 117, 114, 86],
         [177, 65, 128, 168, 99, 94, 151, 160, 109, 112]
     ],
-    "cost": 3081.126921344032,
+    "cost": 3081.1269213440337,
     "metadata": {
         "instance name": "RC1_2_9",
         "authors": "Vidal, Crainic, Gendreau, Prins",
@@ -29,7 +29,28 @@
         "source": "sintef",
         "status": "heuristic",
         "validated_cost": 3081.1269213440337,
-        "validated_num_vehicles": 18
+        "validated_num_vehicles": 18,
+        "standard": {
+            "profile": "binary64-exact-v1",
+            "objective": "HierarchicalVehicleCost",
+            "num_routes": 18,
+            "routes_sha256": "15a937d3e50d0d10bf1f00ad7317edf4506b343b4262369e4fea0423fa5d9128",
+            "authoritative_cost": {
+                "numerator": "6938081027423096971",
+                "denominator": "2251799813685248"
+            },
+            "display_overflow": false,
+            "evaluation": {
+                "checker": "mamut-routing-lib",
+                "backend": "cpp-dyadic-prepared",
+                "implementation_sha256": "93280715da2a0e48789e5e4b3caef287f5214a05e5344e6416c52bc32d38c1d3",
+                "runtime": "CPython 3.12.12",
+                "verification_status": "incumbent-verified"
+            },
+            "specification": "mamut-routing/0.1-review",
+            "benchmark_revision": "r1",
+            "manifest_sha256": "edc8250aeaa82f2af062ee2bdb1488a545211a1760739791f75011b6a2e131ac"
+        }
     },
     "objective_function": "HierarchicalVehicleCost"
 }

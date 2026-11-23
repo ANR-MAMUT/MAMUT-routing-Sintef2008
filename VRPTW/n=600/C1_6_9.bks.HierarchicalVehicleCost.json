@@ -58,15 +58,36 @@
         [598, 367, 250, 99, 320, 579, 252, 289],
         [600, 21, 344, 142, 457, 226, 298, 14, 27, 581, 365, 451]
     ],
-    "cost": 13693.421868321002,
+    "cost": 13693.421868320995,
     "metadata": {
         "instance name": "C1_6_9",
         "authors": "Vidal, Crainic, Gendreau, Prins",
         "date": "31-07-12",
         "reference": "A hybrid genetic algorithm with adaptive diversity managment for a large class of vehicle routing problems with time-windows",
-        "validated_cost": 13693.421868321007,
+        "validated_cost": 13693.421868320995,
         "validated_num_vehicles": 56,
-        "source": "sintef"
+        "source": "sintef",
+        "standard": {
+            "profile": "binary64-exact-v1",
+            "objective": "HierarchicalVehicleCost",
+            "num_routes": 56,
+            "routes_sha256": "3b96295f60c714340a4b9d9d50d0558b9bba3f4fba20992e14f3968fcc24aa09",
+            "authoritative_cost": {
+                "numerator": "7708711202949679571",
+                "denominator": "562949953421312"
+            },
+            "display_overflow": false,
+            "evaluation": {
+                "checker": "mamut-routing-lib",
+                "backend": "cpp-dyadic-prepared",
+                "implementation_sha256": "93280715da2a0e48789e5e4b3caef287f5214a05e5344e6416c52bc32d38c1d3",
+                "runtime": "CPython 3.12.12",
+                "verification_status": "incumbent-verified"
+            },
+            "specification": "mamut-routing/0.1-review",
+            "benchmark_revision": "r1",
+            "manifest_sha256": "6d675be5ecde73004a81c61f03db100594b8c7418cbc4df685a8299d52317937"
+        }
     },
     "objective_function": "HierarchicalVehicleCost"
 }

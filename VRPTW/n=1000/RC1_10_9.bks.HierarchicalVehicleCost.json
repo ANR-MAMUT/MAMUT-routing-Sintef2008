@@ -92,7 +92,7 @@
         [989, 556, 973, 201, 63, 826, 24, 863, 758, 202, 398, 224],
         [991, 252, 244, 65, 647, 484, 547, 698, 173, 744, 911, 735]
     ],
-    "cost": 43897.21321492645,
+    "cost": 43897.21321492641,
     "metadata": {
         "instance name": "RC1_10_9",
         "authors": "Piotr Sielski (piotr.sielski@wmii.uni.lodz.pl), Piotr Cybula, Marek Rogalski (marek.rogalski@wmii.uni.lodz.pl), Mariusz Kok, Piotr Beling, Andrzej Jaszkiewicz, Przemys\u0142aw Pe\u0142ka.  Emapa S.A. (http://www.emapa.pl).",
@@ -100,8 +100,29 @@
         "reference": "\"New methods of VRP problem optimization\", unpublished research funded by The National Centre for Research and Development.  \"New methods of VRP problem optimization\", project number: POIR.01.01.01.-00-0222/16.",
         "source": "sintef",
         "status": "heuristic",
-        "validated_cost": 43897.2132149264,
-        "validated_num_vehicles": 90
+        "validated_cost": 43897.21321492641,
+        "validated_num_vehicles": 90,
+        "standard": {
+            "profile": "binary64-exact-v1",
+            "objective": "HierarchicalVehicleCost",
+            "num_routes": 90,
+            "routes_sha256": "4c019616d9ff76a69586a35ce388a8126efb987d2b47bf2408061e5bcf021297",
+            "authoritative_cost": {
+                "numerator": "12355967067334110879",
+                "denominator": "281474976710656"
+            },
+            "display_overflow": false,
+            "evaluation": {
+                "checker": "mamut-routing-lib",
+                "backend": "cpp-dyadic-prepared",
+                "implementation_sha256": "93280715da2a0e48789e5e4b3caef287f5214a05e5344e6416c52bc32d38c1d3",
+                "runtime": "CPython 3.12.12",
+                "verification_status": "incumbent-verified"
+            },
+            "specification": "mamut-routing/0.1-review",
+            "benchmark_revision": "r1",
+            "manifest_sha256": "c32a807ad59aeb87649c41c615aa7e8bb8ec87813ae1d84624f5d1438137fff3"
+        }
     },
     "objective_function": "HierarchicalVehicleCost"
 }

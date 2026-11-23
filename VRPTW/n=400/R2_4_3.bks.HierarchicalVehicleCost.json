@@ -10,7 +10,7 @@
         [302, 36, 316, 5, 110, 375, 279, 347, 86, 203, 66, 307, 250, 189, 290, 339, 80, 16, 263, 310, 319, 333, 15, 178, 157, 150, 82, 161, 112, 322, 149, 6, 305, 344, 368, 108, 280, 297, 122, 223, 254, 338, 22, 335, 325, 376, 389, 182, 81, 140],
         [350, 278, 179, 309, 92, 294, 282, 188, 360, 8, 382, 172, 300, 51, 131, 245, 256, 396, 89, 214, 281, 7, 232, 383, 308, 374, 193, 315, 251, 328, 185, 54, 390, 369, 351, 341, 257, 148, 9, 77, 229, 373, 25, 392, 292, 330, 152, 136, 177, 70]
     ],
-    "cost": 5911.070155929862,
+    "cost": 5911.070155929865,
     "metadata": {
         "instance name": "R2_4_3",
         "authors": "Vidal, Crainic, Gendreau, Prins",
@@ -18,8 +18,29 @@
         "reference": "A hybrid genetic algorithm with adaptive diversity managment for a large class of vehicle routing problems with time-windows",
         "source": "sintef",
         "status": "heuristic",
-        "validated_cost": 5911.070155929858,
-        "validated_num_vehicles": 8
+        "validated_cost": 5911.070155929865,
+        "validated_num_vehicles": 8,
+        "standard": {
+            "profile": "binary64-exact-v1",
+            "objective": "HierarchicalVehicleCost",
+            "num_routes": 8,
+            "routes_sha256": "c17603064e1b75ff132fa1602fb3f90b0bd14811fd24237f69a4e79fdfd4e6f4",
+            "authoritative_cost": {
+                "numerator": "26621093351606598037",
+                "denominator": "4503599627370496"
+            },
+            "display_overflow": false,
+            "evaluation": {
+                "checker": "mamut-routing-lib",
+                "backend": "cpp-dyadic-prepared",
+                "implementation_sha256": "93280715da2a0e48789e5e4b3caef287f5214a05e5344e6416c52bc32d38c1d3",
+                "runtime": "CPython 3.12.12",
+                "verification_status": "incumbent-verified"
+            },
+            "specification": "mamut-routing/0.1-review",
+            "benchmark_revision": "r1",
+            "manifest_sha256": "e4688b60ebb4e7fddf94934c18dbca6e4a0857b7dff3428cb489d98f563e4b84"
+        }
     },
     "objective_function": "HierarchicalVehicleCost"
 }

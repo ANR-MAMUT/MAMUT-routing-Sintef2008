@@ -5,7 +5,7 @@
         [11, 15, 16, 14, 12, 10, 9, 13, 17],
         [23, 21, 18, 19, 20, 22, 25, 24]
     ],
-    "cost": 346.5054460682915,
+    "cost": 346.50544606829146,
     "metadata": {
         "source": "ortools",
         "scale": 1000,
@@ -23,8 +23,29 @@
         "authors": "Florian Rascoussier (0nyr), using Google OR-Tools",
         "num_customers": 25,
         "benchmark": "Sintef2008",
-        "validated_cost": 346.5054460682915,
-        "validated_num_vehicles": 3
+        "validated_cost": 346.50544606829146,
+        "validated_num_vehicles": 3,
+        "standard": {
+            "profile": "binary64-exact-v1",
+            "objective": "HierarchicalVehicleCost",
+            "num_routes": 3,
+            "routes_sha256": "6ad33cfcdfd021fb86cae418d739183454c52e520b06f6a9b41aab7cf5d4ef08",
+            "authoritative_cost": {
+                "numerator": "195065224724375617",
+                "denominator": "562949953421312"
+            },
+            "display_overflow": false,
+            "evaluation": {
+                "checker": "mamut-routing-lib",
+                "backend": "cpp-dyadic-prepared",
+                "implementation_sha256": "93280715da2a0e48789e5e4b3caef287f5214a05e5344e6416c52bc32d38c1d3",
+                "runtime": "CPython 3.12.12",
+                "verification_status": "incumbent-verified"
+            },
+            "specification": "mamut-routing/0.1-review",
+            "benchmark_revision": "r1",
+            "manifest_sha256": "85d3904fcff89860e74a91d342d3b4ddc02050a1b257b3b89339c32b4436e6b8"
+        }
     },
     "objective_function": "HierarchicalVehicleCost"
 }

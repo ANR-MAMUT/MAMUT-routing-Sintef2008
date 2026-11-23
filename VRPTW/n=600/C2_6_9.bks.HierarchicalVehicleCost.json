@@ -19,15 +19,36 @@
         [559, 52, 162, 26, 301, 243, 40, 64, 448, 598, 173, 534, 117, 217, 423, 273, 175, 60, 318, 490, 385, 157, 1, 438, 302, 407, 398, 9, 55, 190, 147, 444, 156, 129, 127],
         [591, 472, 195, 87, 432, 406, 532, 381, 124, 250, 440, 323, 12, 361, 237, 30, 505, 370, 278, 405, 445, 583, 314, 556, 348, 68, 69, 512, 561, 378, 76, 235, 341, 93, 571, 193]
     ],
-    "cost": 7911.609130961456,
+    "cost": 7911.609130961468,
     "metadata": {
         "instance name": "c2_6_9",
         "authors": "Zhu He, Longfei Wang, Weibo Lin, Yujie Chen, Haoyuan Hu (haoyuan.huhy@cainiao.com), Yinghui Xu & VRP Team (Ying Zhang, Guotao Wu, Kunpeng Han et al.), unpublished result of CAINIAO AI.",
         "date": "30-09-2018",
         "reference": "\"New Algorithm for VRPTW\", unpublished result of CAINIAO AI.",
-        "validated_cost": 7911.60913096145,
+        "validated_cost": 7911.609130961468,
         "validated_num_vehicles": 17,
-        "source": "sintef"
+        "source": "sintef",
+        "standard": {
+            "profile": "binary64-exact-v1",
+            "objective": "HierarchicalVehicleCost",
+            "num_routes": 17,
+            "routes_sha256": "c499f2720171254ac9a04c5751f4ad049eb2f70361cb793bb4f0ff67c825bc83",
+            "authoritative_cost": {
+                "numerator": "17815359967049538741",
+                "denominator": "2251799813685248"
+            },
+            "display_overflow": false,
+            "evaluation": {
+                "checker": "mamut-routing-lib",
+                "backend": "cpp-dyadic-prepared",
+                "implementation_sha256": "93280715da2a0e48789e5e4b3caef287f5214a05e5344e6416c52bc32d38c1d3",
+                "runtime": "CPython 3.12.12",
+                "verification_status": "incumbent-verified"
+            },
+            "specification": "mamut-routing/0.1-review",
+            "benchmark_revision": "r1",
+            "manifest_sha256": "ff2b6802ce69de4981e589a1546e6f26197081e2c039ddef880b0e646432a803"
+        }
     },
     "objective_function": "HierarchicalVehicleCost"
 }

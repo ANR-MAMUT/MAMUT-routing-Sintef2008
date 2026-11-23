@@ -16,7 +16,7 @@
         [72, 39, 23, 67, 55, 54, 4, 25],
         [95, 92, 98, 99, 94, 6, 96]
     ],
-    "cost": 1377.111017910284,
+    "cost": 1377.1110179102834,
     "metadata": {
         "instance name": "r105",
         "authors": "Geir Hasle, Oddvar Kloster",
@@ -25,7 +25,28 @@
         "source": "sintef",
         "status": "heuristic",
         "validated_cost": 1377.1110179102834,
-        "validated_num_vehicles": 14
+        "validated_num_vehicles": 14,
+        "standard": {
+            "profile": "binary64-exact-v1",
+            "objective": "HierarchicalVehicleCost",
+            "num_routes": 14,
+            "routes_sha256": "89117451536f7a7b443e40fbe6116bcceff54f98b9fc1e062adb5f874ae5f62b",
+            "authoritative_cost": {
+                "numerator": "1550489166777139191",
+                "denominator": "1125899906842624"
+            },
+            "display_overflow": false,
+            "evaluation": {
+                "checker": "mamut-routing-lib",
+                "backend": "cpp-dyadic-prepared",
+                "implementation_sha256": "93280715da2a0e48789e5e4b3caef287f5214a05e5344e6416c52bc32d38c1d3",
+                "runtime": "CPython 3.12.12",
+                "verification_status": "incumbent-verified"
+            },
+            "specification": "mamut-routing/0.1-review",
+            "benchmark_revision": "r1",
+            "manifest_sha256": "2481765084c0ebada8bec083e1204046478684a64100910d9d9952252dbe19fd"
+        }
     },
     "objective_function": "HierarchicalVehicleCost"
 }

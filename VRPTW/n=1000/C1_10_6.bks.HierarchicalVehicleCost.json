@@ -101,7 +101,7 @@
         [985, 774, 478, 410, 136, 900, 644, 25, 1000],
         [997, 585, 365, 120, 521, 5, 477, 398]
     ],
-    "cost": 43830.21254489782,
+    "cost": 43830.212544897884,
     "metadata": {
         "instance name": "C1_10_6",
         "authors": "huichang dong(huichangdong@smail.nju.edu.cn)",
@@ -109,8 +109,29 @@
         "reference": "Not published yet",
         "source": "sintef",
         "status": "heuristic",
-        "validated_cost": 43830.21254489782,
-        "validated_num_vehicles": 99
+        "validated_cost": 43830.212544897884,
+        "validated_num_vehicles": 99,
+        "standard": {
+            "profile": "binary64-exact-v1",
+            "objective": "HierarchicalVehicleCost",
+            "num_routes": 99,
+            "routes_sha256": "862a0541adb997ff185751b5543bdf94d12b735c5bc5f003fa868d7558dce64c",
+            "authoritative_cost": {
+                "numerator": "49348432221192941469",
+                "denominator": "1125899906842624"
+            },
+            "display_overflow": false,
+            "evaluation": {
+                "checker": "mamut-routing-lib",
+                "backend": "cpp-dyadic-prepared",
+                "implementation_sha256": "93280715da2a0e48789e5e4b3caef287f5214a05e5344e6416c52bc32d38c1d3",
+                "runtime": "CPython 3.12.12",
+                "verification_status": "incumbent-verified"
+            },
+            "specification": "mamut-routing/0.1-review",
+            "benchmark_revision": "r1",
+            "manifest_sha256": "1b92a9a8c36c99c23a5ce6ca9aa97d0ffa40811ac10452bcd307bcc9b1a3cc7f"
+        }
     },
     "objective_function": "HierarchicalVehicleCost"
 }

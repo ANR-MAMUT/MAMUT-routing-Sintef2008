@@ -10,7 +10,7 @@
         [329, 104, 333, 232, 78, 40, 372, 9, 381, 298, 100, 162, 87, 389, 82, 152, 286, 57, 392, 148, 253, 275, 251, 62, 6, 305, 246, 356, 157, 350, 289, 280, 299, 200, 69, 209, 325, 41, 59, 167, 358, 130, 397, 7, 84, 153, 399, 38, 336, 293, 102, 187, 203, 131, 182],
         [383, 150, 245, 391, 288, 295, 236, 16, 89, 10, 4, 307, 330, 91, 324, 151, 373, 56, 374, 380, 110, 239, 247, 279, 195, 345, 111, 109, 271, 364, 1, 385, 34, 117, 332, 190, 206, 235, 309, 291, 114, 5, 347, 172, 58]
     ],
-    "cost": 5766.611738496967,
+    "cost": 5766.611738496978,
     "metadata": {
         "instance name": "RC2_4_6",
         "authors": "Miros\u00b3aw B\u00b3ocho, Zbigniew J. Czech",
@@ -18,8 +18,29 @@
         "reference": "A parallel EAX-based memetic algorithm for the vehicle routing problem with time windows",
         "source": "sintef",
         "status": "heuristic",
-        "validated_cost": 5766.611738496968,
-        "validated_num_vehicles": 8
+        "validated_cost": 5766.611738496978,
+        "validated_num_vehicles": 8,
+        "standard": {
+            "profile": "binary64-exact-v1",
+            "objective": "HierarchicalVehicleCost",
+            "num_routes": 8,
+            "routes_sha256": "0a209d74140224599e0b03dc7d14ba42de8662881926a6f133f9aaa31494a8d6",
+            "authoritative_cost": {
+                "numerator": "12985255238342660835",
+                "denominator": "2251799813685248"
+            },
+            "display_overflow": false,
+            "evaluation": {
+                "checker": "mamut-routing-lib",
+                "backend": "cpp-dyadic-prepared",
+                "implementation_sha256": "93280715da2a0e48789e5e4b3caef287f5214a05e5344e6416c52bc32d38c1d3",
+                "runtime": "CPython 3.12.12",
+                "verification_status": "incumbent-verified"
+            },
+            "specification": "mamut-routing/0.1-review",
+            "benchmark_revision": "r1",
+            "manifest_sha256": "f7d640e6e3622f266ec94c3fce27d77b1bbca1e3a7ac6f565e94426a0d705aa6"
+        }
     },
     "objective_function": "HierarchicalVehicleCost"
 }

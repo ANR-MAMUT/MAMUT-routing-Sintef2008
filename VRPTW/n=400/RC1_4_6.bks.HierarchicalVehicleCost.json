@@ -38,7 +38,7 @@
         [383, 217, 136, 181, 297, 190, 369, 178, 120, 376, 28],
         [398, 250, 359, 270, 128, 386, 353, 43, 8, 36]
     ],
-    "cost": 8164.9777781940375,
+    "cost": 8164.977778194046,
     "metadata": {
         "instance name": "RC1_4_",
         "authors": "Eirik Krogen Hagen, EOE Koordinering DA",
@@ -46,8 +46,29 @@
         "reference": "Exploring infeasible and feasible regions of the VRPTW and PDPTW through penalty based tabu search. Working paper.",
         "source": "sintef",
         "status": "heuristic",
-        "validated_cost": 8164.977778194032,
-        "validated_num_vehicles": 36
+        "validated_cost": 8164.977778194046,
+        "validated_num_vehicles": 36,
+        "standard": {
+            "profile": "binary64-exact-v1",
+            "objective": "HierarchicalVehicleCost",
+            "num_routes": 36,
+            "routes_sha256": "6e1318cbc5089ff6880aa7ad0d41e163c1f6948f4803dad3fcbd41840fb8cadc",
+            "authoritative_cost": {
+                "numerator": "9192947719840770805",
+                "denominator": "1125899906842624"
+            },
+            "display_overflow": false,
+            "evaluation": {
+                "checker": "mamut-routing-lib",
+                "backend": "cpp-dyadic-prepared",
+                "implementation_sha256": "93280715da2a0e48789e5e4b3caef287f5214a05e5344e6416c52bc32d38c1d3",
+                "runtime": "CPython 3.12.12",
+                "verification_status": "incumbent-verified"
+            },
+            "specification": "mamut-routing/0.1-review",
+            "benchmark_revision": "r1",
+            "manifest_sha256": "b83d786011e77e60dd9fa453a3c57008302eefa1e4b57fda912a25af5e76a37e"
+        }
     },
     "objective_function": "HierarchicalVehicleCost"
 }

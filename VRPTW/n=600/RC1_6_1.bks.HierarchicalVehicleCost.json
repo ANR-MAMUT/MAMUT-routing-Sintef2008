@@ -57,7 +57,7 @@
         [565, 12, 105, 236, 499, 312, 506, 478, 261, 230],
         [586, 240, 60, 170, 576, 141, 95, 466, 435, 356, 342, 523, 472]
     ],
-    "cost": 16982.855612524065,
+    "cost": 16982.85561252407,
     "metadata": {
         "instance name": "rc1_6_1",
         "authors": "Piotr Sielski (psielski@emapa.pl), Piotr Cybula, Marek Rogalski, Piotr Beling, Andrzej Jaszkiewicz.  Emapa S.A. (http://www.emapa.pl), research funded by The National Centre for Research and Development.  \"New methods of VRP problem optimization\", project number: POIR.01.01.01.-00-0222/16.",
@@ -65,8 +65,29 @@
         "reference": "\"New methods of VRP problem optimization\", unpublished result.",
         "source": "sintef",
         "status": "heuristic",
-        "validated_cost": 16982.855612524065,
-        "validated_num_vehicles": 55
+        "validated_cost": 16982.85561252407,
+        "validated_num_vehicles": 55,
+        "standard": {
+            "profile": "binary64-exact-v1",
+            "objective": "HierarchicalVehicleCost",
+            "num_routes": 55,
+            "routes_sha256": "06e595b715dd53f560532d57b6a8a33e4d7a17435087fd5ac66d2dde1849255f",
+            "authoritative_cost": {
+                "numerator": "76483982208250326277",
+                "denominator": "4503599627370496"
+            },
+            "display_overflow": false,
+            "evaluation": {
+                "checker": "mamut-routing-lib",
+                "backend": "cpp-dyadic-prepared",
+                "implementation_sha256": "93280715da2a0e48789e5e4b3caef287f5214a05e5344e6416c52bc32d38c1d3",
+                "runtime": "CPython 3.12.12",
+                "verification_status": "incumbent-verified"
+            },
+            "specification": "mamut-routing/0.1-review",
+            "benchmark_revision": "r1",
+            "manifest_sha256": "30beb38b5b821a6a11cc370d75e01a5ad5732c4c3fe045e585508b2502e375c4"
+        }
     },
     "objective_function": "HierarchicalVehicleCost"
 }

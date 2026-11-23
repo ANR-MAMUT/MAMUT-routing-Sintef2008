@@ -38,7 +38,7 @@
         [383, 217, 136, 400, 375, 391, 288, 295, 190, 332, 117],
         [396, 340, 272, 129, 267, 15, 327, 301, 343, 12]
     ],
-    "cost": 7733.3542203874,
+    "cost": 7733.354220387413,
     "metadata": {
         "instance name": "rc1_4_9",
         "authors": "Zhu He, Longfei Wang, Weibo Lin, Yujie Chen, Haoyuan Hu (haoyuan.huhy@cainiao.com), Yinghui Xu & VRP Team (Ying Zhang, Guotao Wu, Kunpeng Han et al.), unpublished result of CAINIAO AI.",
@@ -46,8 +46,29 @@
         "reference": "\"New Algorithm for VRPTW\", unpublished result of CAINIAO AI.",
         "source": "sintef",
         "status": "heuristic",
-        "validated_cost": 7733.354220387399,
-        "validated_num_vehicles": 36
+        "validated_cost": 7733.354220387413,
+        "validated_num_vehicles": 36,
+        "standard": {
+            "profile": "binary64-exact-v1",
+            "objective": "HierarchicalVehicleCost",
+            "num_routes": 36,
+            "routes_sha256": "00ec1ee97050c202795b68fb438a54f933ea9aeef2c4056b60d45357354b3b20",
+            "authoritative_cost": {
+                "numerator": "4353491398157600797",
+                "denominator": "562949953421312"
+            },
+            "display_overflow": false,
+            "evaluation": {
+                "checker": "mamut-routing-lib",
+                "backend": "cpp-dyadic-prepared",
+                "implementation_sha256": "93280715da2a0e48789e5e4b3caef287f5214a05e5344e6416c52bc32d38c1d3",
+                "runtime": "CPython 3.12.12",
+                "verification_status": "incumbent-verified"
+            },
+            "specification": "mamut-routing/0.1-review",
+            "benchmark_revision": "r1",
+            "manifest_sha256": "28a3f807625517f24ed066d14b267d4206a31251df2b7b515df8b272292e3594"
+        }
     },
     "objective_function": "HierarchicalVehicleCost"
 }

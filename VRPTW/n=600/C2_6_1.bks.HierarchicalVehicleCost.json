@@ -20,7 +20,7 @@
         [553, 111, 517, 573, 362, 511, 558, 205, 97, 260, 6, 337, 196, 265, 153, 351, 483, 123, 36, 587, 172, 268, 595, 429, 485, 453, 263, 84, 100, 264, 224, 167],
         [591, 472, 195, 87, 432, 406, 532, 381, 124, 323, 250, 440, 12, 361, 237, 30, 505, 370, 278, 445, 314, 600, 348, 44, 378, 556, 415, 76, 235, 341, 571, 93, 193, 102, 45, 130]
     ],
-    "cost": 7774.155814618205,
+    "cost": 7774.155814618218,
     "metadata": {
         "cost": 7752.2,
         "source": "sintef",
@@ -28,12 +28,33 @@
         "provided_date": "2025-12-21",
         "notes": "BKS provided by email from Dr. Eduardo Queiroga on behalf of CVRPLIB",
         "status": "heuristic",
-        "validated_cost": 7774.155814618206,
+        "validated_cost": 7774.155814618218,
         "validated_num_vehicles": 18,
         "instance name": "c2_6_1",
         "authors": "Miroslaw Blocho Zbigniew J. Czech",
         "date": "",
-        "reference": ""
+        "reference": "",
+        "standard": {
+            "profile": "binary64-exact-v1",
+            "objective": "HierarchicalVehicleCost",
+            "num_routes": 18,
+            "routes_sha256": "29dc7bc611068cb3a2ee761ad774ca70908b6314755c9936a8ce29fa4b45eaaf",
+            "authoritative_cost": {
+                "numerator": "35011685229834780485",
+                "denominator": "4503599627370496"
+            },
+            "display_overflow": false,
+            "evaluation": {
+                "checker": "mamut-routing-lib",
+                "backend": "cpp-dyadic-prepared",
+                "implementation_sha256": "93280715da2a0e48789e5e4b3caef287f5214a05e5344e6416c52bc32d38c1d3",
+                "runtime": "CPython 3.12.12",
+                "verification_status": "incumbent-verified"
+            },
+            "specification": "mamut-routing/0.1-review",
+            "benchmark_revision": "r1",
+            "manifest_sha256": "d60298eeee698a89be82e371a224b4df11c9e53a6880008a135dcd2747e0f58e"
+        }
     },
     "objective_function": "HierarchicalVehicleCost"
 }

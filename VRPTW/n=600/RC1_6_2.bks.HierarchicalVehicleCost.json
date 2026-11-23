@@ -57,7 +57,7 @@
         [577, 515, 70, 195, 169, 285, 595, 286, 417],
         [586, 83, 394, 29, 314, 95, 396, 576, 250, 249, 469, 351]
     ],
-    "cost": 15914.70351520995,
+    "cost": 15914.703515209969,
     "metadata": {
         "cost": 15890.6,
         "source": "sintef",
@@ -65,12 +65,33 @@
         "provided_date": "2025-12-21",
         "notes": "BKS provided by email from Dr. Eduardo Queiroga on behalf of CVRPLIB",
         "status": "heuristic",
-        "validated_cost": 15914.70351520995,
+        "validated_cost": 15914.703515209969,
         "validated_num_vehicles": 55,
         "instance name": "rc1_6_2",
         "authors": "Zhu He, Longfei Wang, Weibo Lin, Yujie Chen, Haoyuan Hu (haoyuan.huhy@cainiao.com), Yinghui Xu & VRP Team (Ying Zhang, Guotao Wu, Kunpeng Han et al.), unpublished result of CAINIAO AI.",
         "date": "07-10-2018",
-        "reference": "\"New Algorithm for VRPTW\", unpublished result of CAINIAO AI."
+        "reference": "\"New Algorithm for VRPTW\", unpublished result of CAINIAO AI.",
+        "standard": {
+            "profile": "binary64-exact-v1",
+            "objective": "HierarchicalVehicleCost",
+            "num_routes": 55,
+            "routes_sha256": "83b72e572d37912b8ff4a91048eb8d3aa9ab1a5343d4e006bc23e4ec80ff9795",
+            "authoritative_cost": {
+                "numerator": "35836726410405768085",
+                "denominator": "2251799813685248"
+            },
+            "display_overflow": false,
+            "evaluation": {
+                "checker": "mamut-routing-lib",
+                "backend": "cpp-dyadic-prepared",
+                "implementation_sha256": "93280715da2a0e48789e5e4b3caef287f5214a05e5344e6416c52bc32d38c1d3",
+                "runtime": "CPython 3.12.12",
+                "verification_status": "incumbent-verified"
+            },
+            "specification": "mamut-routing/0.1-review",
+            "benchmark_revision": "r1",
+            "manifest_sha256": "2e58fcd4e74119d80c9e42eb88d258700fedbec1f89b965b768958b4988da327"
+        }
     },
     "objective_function": "HierarchicalVehicleCost"
 }
