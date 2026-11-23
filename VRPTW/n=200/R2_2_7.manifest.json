@@ -1,0 +1,30 @@
+{
+  "benchmark_revision": "r1",
+  "cost_is_travel_time": true,
+  "default_profile": "binary64-exact-v1",
+  "family": "Sintef2008",
+  "features": [
+    "single-depot",
+    "homogeneous-capacity",
+    "mandatory-visits",
+    "service-start-windows"
+  ],
+  "instance": {
+    "path": "VRPTW/n=200/R2_2_7.vrp.json",
+    "sha256": "6013e5715e376617a105ea543edc7867e675b4fe85264167bc8bf7f2f619cc8c"
+  },
+  "instance_name": "R2_2_7",
+  "materialization": {
+    "interpretation": "binary64",
+    "kind": "embedded-matrix",
+    "matrix_sha256": "7e26ecadb228b08bc822ba94a236cf5d4fcb423695bd434c887fe54ab252ab80"
+  },
+  "objective": "HierarchicalVehicleCost",
+  "problem": "VRPTW",
+  "sidecars": [],
+  "specification": "mamut-routing/0.1-review",
+  "units": {
+    "cost": "Solomon/Homberger benchmark unit",
+    "time": "Solomon/Homberger benchmark unit"
+  }
+}

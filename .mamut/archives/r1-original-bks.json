@@ -1,0 +1,1882 @@
+{
+  "family": "Sintef2008",
+  "archive": {
+    "path": ".mamut/artifacts/d857efb7b026bc229b5d6406671fd0dfff7b9ad6b30c1197126911c5ab7e5501/Sintef2008-r1-original-bks.tar.gz",
+    "scope": "file",
+    "sha256": "d857efb7b026bc229b5d6406671fd0dfff7b9ad6b30c1197126911c5ab7e5501"
+  },
+  "members": [
+    {
+      "path": "VRPTW/n=100/C101.bks.HierarchicalVehicleCost.json",
+      "sha256": "15d3e88a9eba3d2fdc1ab65dda6c7beaac98b1eddf8cf3ec7f3e6e58500e2c0c"
+    },
+    {
+      "path": "VRPTW/n=100/C102.bks.HierarchicalVehicleCost.json",
+      "sha256": "e0d31c351c97c2c5721f0777b460ed616deb7b02a0869b2e334b6b0838fb3725"
+    },
+    {
+      "path": "VRPTW/n=100/C103.bks.HierarchicalVehicleCost.json",
+      "sha256": "40aaa6b0cae181ef58e1ff24c59cd1741e29e83011aee775384dd908e3972c90"
+    },
+    {
+      "path": "VRPTW/n=100/C104.bks.HierarchicalVehicleCost.json",
+      "sha256": "e7c5e86be3a92958f8eaaabd488608ee951f22e26a03cb7a65db3ebe013fe17b"
+    },
+    {
+      "path": "VRPTW/n=100/C105.bks.HierarchicalVehicleCost.json",
+      "sha256": "0949e7b60bd6576d8ec2b461651be46928ccba07ea51e339d14cdc8902d8bcca"
+    },
+    {
+      "path": "VRPTW/n=100/C106.bks.HierarchicalVehicleCost.json",
+      "sha256": "8d84ac9e35456452b949aef07f637cf0f77e69704dc3d125da1525e3efc647a8"
+    },
+    {
+      "path": "VRPTW/n=100/C107.bks.HierarchicalVehicleCost.json",
+      "sha256": "88ab1a7ccf4e36ffb39f08e23b1a08aa98191bda5e9adab0b0b59a99d32302ac"
+    },
+    {
+      "path": "VRPTW/n=100/C108.bks.HierarchicalVehicleCost.json",
+      "sha256": "d112fab4951702215cb4fd5cf2ddd3bcc158ee8466bcf5e964e29b4be85c66b1"
+    },
+    {
+      "path": "VRPTW/n=100/C109.bks.HierarchicalVehicleCost.json",
+      "sha256": "e05a7febb6f1962fcc057430a6db86b7e2280bf182c56292ea03fba882141dc1"
+    },
+    {
+      "path": "VRPTW/n=100/C201.bks.HierarchicalVehicleCost.json",
+      "sha256": "a58cf7adf71e49d6cb4a01fa6f9fffd35f9f9a20ee09b683df0da5159ef8bd32"
+    },
+    {
+      "path": "VRPTW/n=100/C202.bks.HierarchicalVehicleCost.json",
+      "sha256": "dc84b82630850515dda05c5a88fe3483dfd54cfef9691d0349f2f3266a84c91f"
+    },
+    {
+      "path": "VRPTW/n=100/C203.bks.HierarchicalVehicleCost.json",
+      "sha256": "3b676c69725412b2b9ac4a495476e99f5b65a779c2b8ca765316a4ee2bebd9e5"
+    },
+    {
+      "path": "VRPTW/n=100/C204.bks.HierarchicalVehicleCost.json",
+      "sha256": "e6e55bf8122856dfc2fca261349377db2a0185cbc900cfa5b63e482add6c189e"
+    },
+    {
+      "path": "VRPTW/n=100/C205.bks.HierarchicalVehicleCost.json",
+      "sha256": "677eab7c4125c0512b17690cc0b20300afc8d6587fe72f83af44cdeb02dcd324"
+    },
+    {
+      "path": "VRPTW/n=100/C206.bks.HierarchicalVehicleCost.json",
+      "sha256": "37be46eec9c30410af06f8ce5e0d2d20b16fe16f985f384165946250481a5edd"
+    },
+    {
+      "path": "VRPTW/n=100/C207.bks.HierarchicalVehicleCost.json",
+      "sha256": "d646af9ee6d866dfaffe07810b637263362fb616b731533413bf7a321c9b6f7d"
+    },
+    {
+      "path": "VRPTW/n=100/C208.bks.HierarchicalVehicleCost.json",
+      "sha256": "5de09fb42e755b5519330ca40e09863cb33a259433ebf8c3232b95b24e2208d4"
+    },
+    {
+      "path": "VRPTW/n=100/R101.bks.HierarchicalVehicleCost.json",
+      "sha256": "24a65aa637310aaefdbc3b7693700b06b2fd7ea14d7db873cd8b033090fc1a4c"
+    },
+    {
+      "path": "VRPTW/n=100/R102.bks.HierarchicalVehicleCost.json",
+      "sha256": "e1fe983707312493f0495514133e0b62303b472e5f003db16dd2094eada3faa8"
+    },
+    {
+      "path": "VRPTW/n=100/R103.bks.HierarchicalVehicleCost.json",
+      "sha256": "021d3afbd1972d9628e8834436dafb1047cba934264e64a679425640e67082d0"
+    },
+    {
+      "path": "VRPTW/n=100/R104.bks.HierarchicalVehicleCost.json",
+      "sha256": "e33c6b0f86fde6a9d6ee9065faced2ab25414e014dc5305ecf44edbfbf5d1dd2"
+    },
+    {
+      "path": "VRPTW/n=100/R105.bks.HierarchicalVehicleCost.json",
+      "sha256": "35e61c175372220e28e399dc1f4da2eb74754bfd0ac4a989956911cb83342763"
+    },
+    {
+      "path": "VRPTW/n=100/R106.bks.HierarchicalVehicleCost.json",
+      "sha256": "ddc55a84ed588e92b746e1a3f32b206242cac2b3289e06bd70d69c20eb6433c9"
+    },
+    {
+      "path": "VRPTW/n=100/R107.bks.HierarchicalVehicleCost.json",
+      "sha256": "c5433f70cb34b7a4f4c16572dceeb0757ab1df2a84be10f775dfcf3cd84c99b4"
+    },
+    {
+      "path": "VRPTW/n=100/R108.bks.HierarchicalVehicleCost.json",
+      "sha256": "b7c797bb771a6ae03cd51ce7585a8a7fc8294582ea4b61e9924c1e1d8ecf5ffd"
+    },
+    {
+      "path": "VRPTW/n=100/R109.bks.HierarchicalVehicleCost.json",
+      "sha256": "6aacf8c6c6b99af145c12383e2741428419d9d4e2bd6e3adf240009dd46d000f"
+    },
+    {
+      "path": "VRPTW/n=100/R110.bks.HierarchicalVehicleCost.json",
+      "sha256": "cd5c8eff18f7b74239fb31ec2911b82ccf9e581055b365eafc19b302c65f5e94"
+    },
+    {
+      "path": "VRPTW/n=100/R111.bks.HierarchicalVehicleCost.json",
+      "sha256": "7b1ff2dc05b02ae9adae9df1534cbaef9d1a2b5a2863c031a020760be64bdce8"
+    },
+    {
+      "path": "VRPTW/n=100/R112.bks.HierarchicalVehicleCost.json",
+      "sha256": "aaf6ea659486a26bcf7265994fb759cfcf11fdca9ed2b20827a2eb6652d23a99"
+    },
+    {
+      "path": "VRPTW/n=100/R201.bks.HierarchicalVehicleCost.json",
+      "sha256": "7a96a71b79435b0935ed1fe4294ee6f99969f22ce7058bca483392a432069b5c"
+    },
+    {
+      "path": "VRPTW/n=100/R202.bks.HierarchicalVehicleCost.json",
+      "sha256": "b845396acdced737d8b10b0a319605b5a00b6ea9b080b83909a4d4e5c76e0271"
+    },
+    {
+      "path": "VRPTW/n=100/R203.bks.HierarchicalVehicleCost.json",
+      "sha256": "05b716de1820d315b213bcf101cd37cc2883356c4423d0ba0f4113798a2accf6"
+    },
+    {
+      "path": "VRPTW/n=100/R204.bks.HierarchicalVehicleCost.json",
+      "sha256": "0a0180ee3fd2c6a37c5a237c2e478517e8ff1318805761b3df6de0e0c20ddd99"
+    },
+    {
+      "path": "VRPTW/n=100/R205.bks.HierarchicalVehicleCost.json",
+      "sha256": "3fcffe9cec43d2af510e083eaeb0cee6a47d7e6d0a38bb49177627e511298356"
+    },
+    {
+      "path": "VRPTW/n=100/R206.bks.HierarchicalVehicleCost.json",
+      "sha256": "86cc188c00538d570ea0111e3cb892df1c1fec542b6616d27a36a63a9e534fb6"
+    },
+    {
+      "path": "VRPTW/n=100/R207.bks.HierarchicalVehicleCost.json",
+      "sha256": "2390c5779bb0e28eac02a8bee9ca1d8a31cb138f09d8ef35815bd6693c4b7f89"
+    },
+    {
+      "path": "VRPTW/n=100/R208.bks.HierarchicalVehicleCost.json",
+      "sha256": "b9bca584e13b4418912b03c39d00e256248797d20dac3b0180db2db38fb037af"
+    },
+    {
+      "path": "VRPTW/n=100/R209.bks.HierarchicalVehicleCost.json",
+      "sha256": "727c38c73937c7d8050fe2ddfbe31f9254bf4dd4f7296407fca240e2500ce04b"
+    },
+    {
+      "path": "VRPTW/n=100/R210.bks.HierarchicalVehicleCost.json",
+      "sha256": "ef457ddbc59d41273ee77615e9ec7fc2018a769e638f8437629f977c4b4fe108"
+    },
+    {
+      "path": "VRPTW/n=100/R211.bks.HierarchicalVehicleCost.json",
+      "sha256": "89f8fb5041657b59977443c57225113b96e45f13eef4f9e937782435fdec71e7"
+    },
+    {
+      "path": "VRPTW/n=100/RC101.bks.HierarchicalVehicleCost.json",
+      "sha256": "bcf9005f160ae222ee7f8ae43f83e9ad8121650004f965c357e43e5265fe433a"
+    },
+    {
+      "path": "VRPTW/n=100/RC102.bks.HierarchicalVehicleCost.json",
+      "sha256": "703f108e216beccc486356cbeac9463369459b6661858a96701b4d1e69b42912"
+    },
+    {
+      "path": "VRPTW/n=100/RC103.bks.HierarchicalVehicleCost.json",
+      "sha256": "38c7187738c67175e9ca6403009ddb07a10b7fee81c208b8617690852660bb88"
+    },
+    {
+      "path": "VRPTW/n=100/RC104.bks.HierarchicalVehicleCost.json",
+      "sha256": "5f35a31f9d436d8fb885989a24ce536e9d3cb9955a89733ebcacbee1a082736a"
+    },
+    {
+      "path": "VRPTW/n=100/RC105.bks.HierarchicalVehicleCost.json",
+      "sha256": "455545dd23760ab836c8e2ff6c9a0ee2ed4bd7ea7574280ccd3db2668640fab4"
+    },
+    {
+      "path": "VRPTW/n=100/RC106.bks.HierarchicalVehicleCost.json",
+      "sha256": "25c8aa4bd88b58a0d504612d440bc9bd34f157499736a8fdaa733058d68c74d3"
+    },
+    {
+      "path": "VRPTW/n=100/RC107.bks.HierarchicalVehicleCost.json",
+      "sha256": "a9ff186e8ce2b34f60f6dc74d7b79ac2f5f734a7345acdae3c0b3b1f6c03456f"
+    },
+    {
+      "path": "VRPTW/n=100/RC108.bks.HierarchicalVehicleCost.json",
+      "sha256": "20232b21283e5d25cea4892912afda81cc81a41262ae1b5e5e629e867c9bd230"
+    },
+    {
+      "path": "VRPTW/n=100/RC201.bks.HierarchicalVehicleCost.json",
+      "sha256": "418eba4c22efbf38b1265115f47c8668be78fe04dd71a4cc6c132a3d7149fd3d"
+    },
+    {
+      "path": "VRPTW/n=100/RC202.bks.HierarchicalVehicleCost.json",
+      "sha256": "658ef4a3ad49e6ec86642fb1247e9b6a330d2784563f8fc9091a59ef80b36774"
+    },
+    {
+      "path": "VRPTW/n=100/RC203.bks.HierarchicalVehicleCost.json",
+      "sha256": "262de45f6e497eac551028a9dc44a82ec901f507ec2716c39f0a734451a9408e"
+    },
+    {
+      "path": "VRPTW/n=100/RC204.bks.HierarchicalVehicleCost.json",
+      "sha256": "0477a16d198fed4637ff36c716eee4ee560c815946eb25ac554f416a08392227"
+    },
+    {
+      "path": "VRPTW/n=100/RC205.bks.HierarchicalVehicleCost.json",
+      "sha256": "a0fdbbf667233b9fb3a1392718f2de5221f0eb3b00e0800aaddb2153ee0ef187"
+    },
+    {
+      "path": "VRPTW/n=100/RC206.bks.HierarchicalVehicleCost.json",
+      "sha256": "165030239edb69fa5fdeb5505152f0b3d65de6777ac00c86ea90e6306de64093"
+    },
+    {
+      "path": "VRPTW/n=100/RC207.bks.HierarchicalVehicleCost.json",
+      "sha256": "95f3cf23712e0223e42ff5f8967d038ece858721667b373630b54c889c49dd32"
+    },
+    {
+      "path": "VRPTW/n=100/RC208.bks.HierarchicalVehicleCost.json",
+      "sha256": "8338877ea68d75c3961415760d4c354d3cff2b55bb3df0bce054db2e9a1fd8c2"
+    },
+    {
+      "path": "VRPTW/n=1000/C1_10_1.bks.HierarchicalVehicleCost.json",
+      "sha256": "d2cb3a16202f91a2bf3afe92e3377005c6be18d058adfbd26978ca1d6be22444"
+    },
+    {
+      "path": "VRPTW/n=1000/C1_10_10.bks.HierarchicalVehicleCost.json",
+      "sha256": "5e8524a94e991b81edb6876905dcf7d71bf28159bf110faf4fa0bed3b07ced32"
+    },
+    {
+      "path": "VRPTW/n=1000/C1_10_2.bks.HierarchicalVehicleCost.json",
+      "sha256": "23aa6fb4344e191c12a4a760a7e6b9cd148dcd8c3dfac5205fa0d59d727db1bd"
+    },
+    {
+      "path": "VRPTW/n=1000/C1_10_3.bks.HierarchicalVehicleCost.json",
+      "sha256": "08d8e2f042902f41ed9037990be24e16f4c4971bd451c2b49ce86c71b6d50a5d"
+    },
+    {
+      "path": "VRPTW/n=1000/C1_10_4.bks.HierarchicalVehicleCost.json",
+      "sha256": "f393c8d4c0fe66e9ce7de885895e14a1264ba94a957e1c23dd07703f4c7f7c7f"
+    },
+    {
+      "path": "VRPTW/n=1000/C1_10_5.bks.HierarchicalVehicleCost.json",
+      "sha256": "5a8d9f160cd59edc9dac2fe3d2e4a69b48df43c5bbd11974d399f7b374fc9c69"
+    },
+    {
+      "path": "VRPTW/n=1000/C1_10_6.bks.HierarchicalVehicleCost.json",
+      "sha256": "09998aa7611aac4190b05a1b68da2048ac09cc9f1e9da7fbf7232291e00e0724"
+    },
+    {
+      "path": "VRPTW/n=1000/C1_10_7.bks.HierarchicalVehicleCost.json",
+      "sha256": "87d48c766321d3b186a43641979a9f3299e8efd4c35d5d3aaead8779f39e3d3b"
+    },
+    {
+      "path": "VRPTW/n=1000/C1_10_8.bks.HierarchicalVehicleCost.json",
+      "sha256": "7d4965358461c79ce4e8b5cd9fad739d296e28b55bde5ddda0c67e74ee5c6ac9"
+    },
+    {
+      "path": "VRPTW/n=1000/C1_10_9.bks.HierarchicalVehicleCost.json",
+      "sha256": "21c944dc6afb27ab2db5d5bc1f6b3f27728ddb85eb93629f52a4dca91bc4b88a"
+    },
+    {
+      "path": "VRPTW/n=1000/C2_10_1.bks.HierarchicalVehicleCost.json",
+      "sha256": "7075d67b5c8aca5571a113596afa5305f927553bf9d7056946b732f0cbfb6ec9"
+    },
+    {
+      "path": "VRPTW/n=1000/C2_10_10.bks.HierarchicalVehicleCost.json",
+      "sha256": "c80b389f30b648e1c1575cbfa3531fb8cdee1a1cc4c83522e67872cf1c92edb8"
+    },
+    {
+      "path": "VRPTW/n=1000/C2_10_2.bks.HierarchicalVehicleCost.json",
+      "sha256": "4c8e819fc58b61449c7218674e5a74c2a7fae04d6909601f67995a97fb98fe51"
+    },
+    {
+      "path": "VRPTW/n=1000/C2_10_3.bks.HierarchicalVehicleCost.json",
+      "sha256": "849d86ea9d8902d7be235968fc841e95eff20e1c47fabd22bc4a0d9d78a746e8"
+    },
+    {
+      "path": "VRPTW/n=1000/C2_10_4.bks.HierarchicalVehicleCost.json",
+      "sha256": "b346c9da23c8f6b0ecd6ea6885083dbf49e5138f582a49747dbcc132d617fe97"
+    },
+    {
+      "path": "VRPTW/n=1000/C2_10_5.bks.HierarchicalVehicleCost.json",
+      "sha256": "b55e08565be3b0f8871e4e867cfe0bc54b9ae8d0c1ab83a15ea2787f4becff22"
+    },
+    {
+      "path": "VRPTW/n=1000/C2_10_6.bks.HierarchicalVehicleCost.json",
+      "sha256": "c8520d53a95108f0819e89401352317aee9a8c74e6165508bbee12e39531943b"
+    },
+    {
+      "path": "VRPTW/n=1000/C2_10_7.bks.HierarchicalVehicleCost.json",
+      "sha256": "7cf3658a254039c431668469eeb79ddb3a42a73bb1465823031e821960610d50"
+    },
+    {
+      "path": "VRPTW/n=1000/C2_10_8.bks.HierarchicalVehicleCost.json",
+      "sha256": "89f075bec5cc5d43906db05aa5c55cf50b4cccf47e2ee66839acedc3510bf9a8"
+    },
+    {
+      "path": "VRPTW/n=1000/C2_10_9.bks.HierarchicalVehicleCost.json",
+      "sha256": "1adeea26a50a41f250227f089cba0c096ea877f472797c0f52e6c3449bc5df6f"
+    },
+    {
+      "path": "VRPTW/n=1000/R1_10_1.bks.HierarchicalVehicleCost.json",
+      "sha256": "5e91c6e6e8eb4e7f296d5b3c1019c828c51fae2f59175487e79145a30cda8b70"
+    },
+    {
+      "path": "VRPTW/n=1000/R1_10_10.bks.HierarchicalVehicleCost.json",
+      "sha256": "fc690f0b2ec6855aa4e0c861154d3d30958f3e8988df3bfe6d372bb169304cc8"
+    },
+    {
+      "path": "VRPTW/n=1000/R1_10_2.bks.HierarchicalVehicleCost.json",
+      "sha256": "34a8137a52c0332897ba8c3b3202e1827a9b9d99c677ad688a64133ea472e4b5"
+    },
+    {
+      "path": "VRPTW/n=1000/R1_10_3.bks.HierarchicalVehicleCost.json",
+      "sha256": "9d0ed41b9da03c65f514d2b8fd410d3907920b2b783b65b80cb47a4cde77bbae"
+    },
+    {
+      "path": "VRPTW/n=1000/R1_10_4.bks.HierarchicalVehicleCost.json",
+      "sha256": "38b350a461f315bc8f9c26539f5b2c6646308f25a01c99e5e9866199d95f2db7"
+    },
+    {
+      "path": "VRPTW/n=1000/R1_10_5.bks.HierarchicalVehicleCost.json",
+      "sha256": "f8bf269c4757f8d66a15cc11d3001f220538521e7a5fde5ceb5ee408b6af51ab"
+    },
+    {
+      "path": "VRPTW/n=1000/R1_10_6.bks.HierarchicalVehicleCost.json",
+      "sha256": "1d5823e52399eb6c29f99567fe998a56c23910f7fcecfdf2a13f6d62593debd5"
+    },
+    {
+      "path": "VRPTW/n=1000/R1_10_7.bks.HierarchicalVehicleCost.json",
+      "sha256": "6cd3482bebb5094be01e00caeb1b9b856b6cb38ba2a165ed584b48787082a154"
+    },
+    {
+      "path": "VRPTW/n=1000/R1_10_8.bks.HierarchicalVehicleCost.json",
+      "sha256": "c1ce2c0c55874f98abcda5ecdc6f7e2b72e642bd318b776c8b2be43b4a65409d"
+    },
+    {
+      "path": "VRPTW/n=1000/R1_10_9.bks.HierarchicalVehicleCost.json",
+      "sha256": "0303ee00d1fc273be81204d89b095d98985960cd4ba5c340badc839aa688c714"
+    },
+    {
+      "path": "VRPTW/n=1000/R2_10_1.bks.HierarchicalVehicleCost.json",
+      "sha256": "ac032b1b7c975d25958018152adf3c25e2b06205b7ea980dee3ba881ae25d393"
+    },
+    {
+      "path": "VRPTW/n=1000/R2_10_10.bks.HierarchicalVehicleCost.json",
+      "sha256": "a4525d999a51626d60a1dc8ae310de74b5ab8d4c2da8e44a2cbc7d39638561bf"
+    },
+    {
+      "path": "VRPTW/n=1000/R2_10_2.bks.HierarchicalVehicleCost.json",
+      "sha256": "6270317ee441eee9a2df4fba537b44750cf9182b3ad3d00ac3940879602102ad"
+    },
+    {
+      "path": "VRPTW/n=1000/R2_10_3.bks.HierarchicalVehicleCost.json",
+      "sha256": "15d7d641740981a74d8a350e69b1bec0ecf150c7d45e92922e9995205a7bb411"
+    },
+    {
+      "path": "VRPTW/n=1000/R2_10_4.bks.HierarchicalVehicleCost.json",
+      "sha256": "7be566eb04b145e049a0022527dd7d251f740b1fdc3076de53448e412dad8183"
+    },
+    {
+      "path": "VRPTW/n=1000/R2_10_5.bks.HierarchicalVehicleCost.json",
+      "sha256": "5de38751c9a154ab8929ed7a8e7354ff2be86bccfb68c7d5edff1b149b40bafd"
+    },
+    {
+      "path": "VRPTW/n=1000/R2_10_6.bks.HierarchicalVehicleCost.json",
+      "sha256": "541bf2052b6fd487f59bde0ef6b79655093802a28ed5471da96c49f008d16213"
+    },
+    {
+      "path": "VRPTW/n=1000/R2_10_7.bks.HierarchicalVehicleCost.json",
+      "sha256": "cca177822c6491941a95a367eb311f57f5b1f5c4776fafcd056522f017e02cad"
+    },
+    {
+      "path": "VRPTW/n=1000/R2_10_8.bks.HierarchicalVehicleCost.json",
+      "sha256": "746cc1792491181c817bed6a86b194e668d1b8f15b43efbaa566e4602acd68d9"
+    },
+    {
+      "path": "VRPTW/n=1000/R2_10_9.bks.HierarchicalVehicleCost.json",
+      "sha256": "1f5c79dfcb65aaccc7930768871f25af0cca568ef44343e64800bff4f0d15f1e"
+    },
+    {
+      "path": "VRPTW/n=1000/RC1_10_1.bks.HierarchicalVehicleCost.json",
+      "sha256": "e737e137d31906dfe906ae82902885e3fc666a5d6877e55bfa6f8db56be58af1"
+    },
+    {
+      "path": "VRPTW/n=1000/RC1_10_10.bks.HierarchicalVehicleCost.json",
+      "sha256": "dee888d6f641f4e954d05af2ce26a22d3572c7d5dcbe62287ee7ec934a8fbb33"
+    },
+    {
+      "path": "VRPTW/n=1000/RC1_10_2.bks.HierarchicalVehicleCost.json",
+      "sha256": "d5ae9caad2ae38d63ed4dfa549f69d200fcb8b88c1e48e2d0d90de1970eceb82"
+    },
+    {
+      "path": "VRPTW/n=1000/RC1_10_3.bks.HierarchicalVehicleCost.json",
+      "sha256": "e2a5d45ae4e7bf32a4ef61109691e148ea783a5479ad1b05d5363d2f2c004a78"
+    },
+    {
+      "path": "VRPTW/n=1000/RC1_10_4.bks.HierarchicalVehicleCost.json",
+      "sha256": "360ffedd4c3ec422aa674eef9fd7fc873f4b0cb0ae77c0cc36511ebc06894798"
+    },
+    {
+      "path": "VRPTW/n=1000/RC1_10_5.bks.HierarchicalVehicleCost.json",
+      "sha256": "2859b68018e4454686ac0f0f6f9f5e9e4bf53584eed67474b19934233911c78c"
+    },
+    {
+      "path": "VRPTW/n=1000/RC1_10_6.bks.HierarchicalVehicleCost.json",
+      "sha256": "53a44634d7cae51bb51ab70331f3d4a4e6361180473b7c53771a68f587df1bbc"
+    },
+    {
+      "path": "VRPTW/n=1000/RC1_10_7.bks.HierarchicalVehicleCost.json",
+      "sha256": "d69eb11d8076976c742efef26696349e38471d6528fc5eec1d8344870ce38d03"
+    },
+    {
+      "path": "VRPTW/n=1000/RC1_10_8.bks.HierarchicalVehicleCost.json",
+      "sha256": "bf9969d1b3db558d61f61e6e4614cb3c8fb7d5d7069e3c5a92d1761ac6e71397"
+    },
+    {
+      "path": "VRPTW/n=1000/RC1_10_9.bks.HierarchicalVehicleCost.json",
+      "sha256": "253316c1eb4224a2ee9ffde4136e2e456623a81c6ded8c47476dcfe61b3ed7d8"
+    },
+    {
+      "path": "VRPTW/n=1000/RC2_10_1.bks.HierarchicalVehicleCost.json",
+      "sha256": "8b6341a2d074192a98a3ee63a410942f2c12c641726e52247978e6c67caac361"
+    },
+    {
+      "path": "VRPTW/n=1000/RC2_10_10.bks.HierarchicalVehicleCost.json",
+      "sha256": "5dac04f5624bdd4619b8855de3e4bfbd76bfc6ad666b96e77bb92d11cc27e957"
+    },
+    {
+      "path": "VRPTW/n=1000/RC2_10_2.bks.HierarchicalVehicleCost.json",
+      "sha256": "80e895ece91058ffd97480423937b00c949d528f582952714fd2dce9f0c40880"
+    },
+    {
+      "path": "VRPTW/n=1000/RC2_10_3.bks.HierarchicalVehicleCost.json",
+      "sha256": "97cc7d9d1157f4223a0e508943d66ce72f3461d6d77aac0e7ecca15ca94256f6"
+    },
+    {
+      "path": "VRPTW/n=1000/RC2_10_4.bks.HierarchicalVehicleCost.json",
+      "sha256": "c7320a84cc8f685fb9521b3f7182ef8353b4a0991c28a5da353d835cccc24f72"
+    },
+    {
+      "path": "VRPTW/n=1000/RC2_10_5.bks.HierarchicalVehicleCost.json",
+      "sha256": "65ccad2b4cba7aad51317e84cbcda7b12e1fff1a5ef002c72dff951c84a350e6"
+    },
+    {
+      "path": "VRPTW/n=1000/RC2_10_6.bks.HierarchicalVehicleCost.json",
+      "sha256": "ad9d16a270a9628c53edfa43791f2e5eb5f37813077afd8353b97e77fc0a82d2"
+    },
+    {
+      "path": "VRPTW/n=1000/RC2_10_7.bks.HierarchicalVehicleCost.json",
+      "sha256": "e6fbfb89437ff19b91a887ef4a522c82a17c9086073730cd7a96784d03f376ea"
+    },
+    {
+      "path": "VRPTW/n=1000/RC2_10_8.bks.HierarchicalVehicleCost.json",
+      "sha256": "f11ec5f77b434dcc0e591c570c65648b63c7f223aaa64d295ed3faf5604c2359"
+    },
+    {
+      "path": "VRPTW/n=1000/RC2_10_9.bks.HierarchicalVehicleCost.json",
+      "sha256": "a74e4a649e4f983b325ecc7baf630f5848d2298bf4e7665572df1ea7d48b3752"
+    },
+    {
+      "path": "VRPTW/n=200/C1_2_1.bks.HierarchicalVehicleCost.json",
+      "sha256": "c1e39c8047d51f018878d2da6da0fd07de119295485090eae7d6156f3e25e9ac"
+    },
+    {
+      "path": "VRPTW/n=200/C1_2_10.bks.HierarchicalVehicleCost.json",
+      "sha256": "d8ef7afa4fca04418f1f5dd364a17e5dbab1949843ab852a74a23f6844ea3b95"
+    },
+    {
+      "path": "VRPTW/n=200/C1_2_2.bks.HierarchicalVehicleCost.json",
+      "sha256": "d02a6b531ff90455dbfcaaf84e9b95c0201a5c15899fbb163fb4df5090576fc6"
+    },
+    {
+      "path": "VRPTW/n=200/C1_2_3.bks.HierarchicalVehicleCost.json",
+      "sha256": "ade60fb973d31fe11402f7245d8788fd5c17a078cd38592cd9dc2df8f4be7424"
+    },
+    {
+      "path": "VRPTW/n=200/C1_2_4.bks.HierarchicalVehicleCost.json",
+      "sha256": "482294e0d5f9e0d9c5ef3240c17e53620b2c488fe3fae1bca904663569633c44"
+    },
+    {
+      "path": "VRPTW/n=200/C1_2_5.bks.HierarchicalVehicleCost.json",
+      "sha256": "eb13bd512f77e6f8184a8e9d8e3cf4640a61c137a92929fc11d9915cc1d9c336"
+    },
+    {
+      "path": "VRPTW/n=200/C1_2_6.bks.HierarchicalVehicleCost.json",
+      "sha256": "2a2c605ab2234029390d05437c409f383c9494dbee6ba97e8bbf88e390be683e"
+    },
+    {
+      "path": "VRPTW/n=200/C1_2_7.bks.HierarchicalVehicleCost.json",
+      "sha256": "9fa4e6a282b306ffc5a585eeec14df59698b7f1ad6c150a2ef645831ef84d7e3"
+    },
+    {
+      "path": "VRPTW/n=200/C1_2_8.bks.HierarchicalVehicleCost.json",
+      "sha256": "d3194a701b0503c9083dbe70a0919411bd6b294cb3bf8c81b086b6798dd3ea9f"
+    },
+    {
+      "path": "VRPTW/n=200/C1_2_9.bks.HierarchicalVehicleCost.json",
+      "sha256": "27a580c2fc6d4e8a0f6f5f6cde2d5721bf0da5d938e2e96c502ba51d8367ec82"
+    },
+    {
+      "path": "VRPTW/n=200/C2_2_1.bks.HierarchicalVehicleCost.json",
+      "sha256": "21e88446bb89ec086f8250e9bf34e2902672d4a5afce143f4bfcc6737992c6ec"
+    },
+    {
+      "path": "VRPTW/n=200/C2_2_10.bks.HierarchicalVehicleCost.json",
+      "sha256": "f7d4098949050cd2bbb8adbdb2758d019e525ed2a859da1c5dfcca78b9927a16"
+    },
+    {
+      "path": "VRPTW/n=200/C2_2_2.bks.HierarchicalVehicleCost.json",
+      "sha256": "5d3a266d93d9a5e9da7376505c33382ae7b39faff4d503b89f3d897af4a480bd"
+    },
+    {
+      "path": "VRPTW/n=200/C2_2_3.bks.HierarchicalVehicleCost.json",
+      "sha256": "bebfc254c994c3056849ab9369b78dd8ed112eaf4d0bfb5f3cba414943fe074f"
+    },
+    {
+      "path": "VRPTW/n=200/C2_2_4.bks.HierarchicalVehicleCost.json",
+      "sha256": "28dc9d65265bd996d516081ac14365fd0981ea9de453d672e3612f58beae9f80"
+    },
+    {
+      "path": "VRPTW/n=200/C2_2_5.bks.HierarchicalVehicleCost.json",
+      "sha256": "5e0198a765e780b70a37ac89cba8944666c9b13e5120c4af054f594362a84451"
+    },
+    {
+      "path": "VRPTW/n=200/C2_2_6.bks.HierarchicalVehicleCost.json",
+      "sha256": "9e6816c1811c94cdae8ea97b431183a3f2fc824f8793eb8b3835a5d3c6b42f3c"
+    },
+    {
+      "path": "VRPTW/n=200/C2_2_7.bks.HierarchicalVehicleCost.json",
+      "sha256": "0a846505a7b9d50930cd766ce40691ebb85a0aa8f4f1548820c7e81b933cb6c4"
+    },
+    {
+      "path": "VRPTW/n=200/C2_2_8.bks.HierarchicalVehicleCost.json",
+      "sha256": "1eb83eab79df74ae43b3fb8698f6328aced1b69446aa5546d382c5154f22e685"
+    },
+    {
+      "path": "VRPTW/n=200/C2_2_9.bks.HierarchicalVehicleCost.json",
+      "sha256": "2b5cb7d8955dfd92a97c6628bf3a0bd76205be4a524634de6669477537a44701"
+    },
+    {
+      "path": "VRPTW/n=200/R1_2_1.bks.HierarchicalVehicleCost.json",
+      "sha256": "51e6035e580d6773bc614d50492f58f2e98367afa29725b0fe5495e6183e2fe5"
+    },
+    {
+      "path": "VRPTW/n=200/R1_2_10.bks.HierarchicalVehicleCost.json",
+      "sha256": "a16c20755347ea0cbb5c5b2f031bb905ecfcb6943575bacc07d151dd62243b19"
+    },
+    {
+      "path": "VRPTW/n=200/R1_2_2.bks.HierarchicalVehicleCost.json",
+      "sha256": "70398e567d3982cce5e3bcfc394f49cfd0fff65879f290ec5d7212012e60c631"
+    },
+    {
+      "path": "VRPTW/n=200/R1_2_3.bks.HierarchicalVehicleCost.json",
+      "sha256": "5834058b70fa332a34024e1b49ca18ee1266f5615fd6e7d3e48a3d0f99d133a0"
+    },
+    {
+      "path": "VRPTW/n=200/R1_2_4.bks.HierarchicalVehicleCost.json",
+      "sha256": "c0f854e6ff75d1a41d325e96baf7eac3fb0da65bcd1b6e060ab8d2265b4f7224"
+    },
+    {
+      "path": "VRPTW/n=200/R1_2_5.bks.HierarchicalVehicleCost.json",
+      "sha256": "5b38113d93eec50464faf1b935020e17c91b79bd3e68df721a3ad4ff67e7922f"
+    },
+    {
+      "path": "VRPTW/n=200/R1_2_6.bks.HierarchicalVehicleCost.json",
+      "sha256": "1bcdcd6fd8db13068a944bc596a75478cb69d4638bf4f64436aab8978e884205"
+    },
+    {
+      "path": "VRPTW/n=200/R1_2_7.bks.HierarchicalVehicleCost.json",
+      "sha256": "0e780c6af012863328afd0c3ab135b5ee34d7133ecddd501ca4aaf7ce5f9f3ce"
+    },
+    {
+      "path": "VRPTW/n=200/R1_2_8.bks.HierarchicalVehicleCost.json",
+      "sha256": "4625a64c52fd1ab4a918ed62563538f36af8baa894f3047c897051103acdef6b"
+    },
+    {
+      "path": "VRPTW/n=200/R1_2_9.bks.HierarchicalVehicleCost.json",
+      "sha256": "f40dca66f1d046444cec1dfc1f4242511a145a638c81b77ce77a5d39a76c4bb0"
+    },
+    {
+      "path": "VRPTW/n=200/R2_2_1.bks.HierarchicalVehicleCost.json",
+      "sha256": "a9cf97426ef53446b6bb5e5c136ad95ea3f93540313da1440140f9f24d1fe7f5"
+    },
+    {
+      "path": "VRPTW/n=200/R2_2_10.bks.HierarchicalVehicleCost.json",
+      "sha256": "b9cc7cf9dc06c6097708c6046989b310949bb4d2e7bd581aa529a53aebb5565e"
+    },
+    {
+      "path": "VRPTW/n=200/R2_2_2.bks.HierarchicalVehicleCost.json",
+      "sha256": "489e5c54a7cb0512b5b0ef476886bfe90cffee1236c81f32e20c4801d61ba2ea"
+    },
+    {
+      "path": "VRPTW/n=200/R2_2_3.bks.HierarchicalVehicleCost.json",
+      "sha256": "eabff04d4fb932154b9278dbb19c12323799d6e3f18b279533540dfdded384ba"
+    },
+    {
+      "path": "VRPTW/n=200/R2_2_4.bks.HierarchicalVehicleCost.json",
+      "sha256": "a851139b8a7f99c23bb7f776e23b891c703ad565dfc709e72d39a9b54ccef505"
+    },
+    {
+      "path": "VRPTW/n=200/R2_2_5.bks.HierarchicalVehicleCost.json",
+      "sha256": "365d9746890469eadfeac0a0aedcf83cf0f293e9ed3412285e6740c967f51007"
+    },
+    {
+      "path": "VRPTW/n=200/R2_2_6.bks.HierarchicalVehicleCost.json",
+      "sha256": "40860168ac6981f48bf3841e779f38e19d39f3db0182b0d9e1cd779f8c29b318"
+    },
+    {
+      "path": "VRPTW/n=200/R2_2_7.bks.HierarchicalVehicleCost.json",
+      "sha256": "fa0e60e1fb24161f6d90fef36786f2fb43795d0d89fad7ffd0a2153401515373"
+    },
+    {
+      "path": "VRPTW/n=200/R2_2_8.bks.HierarchicalVehicleCost.json",
+      "sha256": "c0ee0ebd09c58f2d19ee824043a98cd0236910bc7c16095174c36297cb290e05"
+    },
+    {
+      "path": "VRPTW/n=200/R2_2_9.bks.HierarchicalVehicleCost.json",
+      "sha256": "de6724aa71203eb2a3f44049eb38ee0aae1efaec6d1ecb85ab35403d63043a0f"
+    },
+    {
+      "path": "VRPTW/n=200/RC1_2_1.bks.HierarchicalVehicleCost.json",
+      "sha256": "8d51e99bc1ec1c1ea9f21b7d704f3bb59047f1dc357b0411051c9eb2d5696e72"
+    },
+    {
+      "path": "VRPTW/n=200/RC1_2_10.bks.HierarchicalVehicleCost.json",
+      "sha256": "4417b7ee1fba557432dcb32ab42b73fd9f98875ff33c49b1cc4c18067dc2f3d0"
+    },
+    {
+      "path": "VRPTW/n=200/RC1_2_2.bks.HierarchicalVehicleCost.json",
+      "sha256": "f61d55b3efea3769bac5c56c82a65aa82ef22524058ad518dbaeda0708360efc"
+    },
+    {
+      "path": "VRPTW/n=200/RC1_2_3.bks.HierarchicalVehicleCost.json",
+      "sha256": "b21efac4df8a5c32a43ac61a6d2c47e2e75f372c0df2949874bc70044a7e19c4"
+    },
+    {
+      "path": "VRPTW/n=200/RC1_2_4.bks.HierarchicalVehicleCost.json",
+      "sha256": "c9ff946b4a1dc992a5216b6de2627f5b693790fe7faeb9221d4ee8242da1fc0f"
+    },
+    {
+      "path": "VRPTW/n=200/RC1_2_5.bks.HierarchicalVehicleCost.json",
+      "sha256": "4eba7cba5ac7b7ae7805b84027182dd6d806880d2a13bf41e75f54648b0e73c7"
+    },
+    {
+      "path": "VRPTW/n=200/RC1_2_6.bks.HierarchicalVehicleCost.json",
+      "sha256": "4c4e4b8db7426754925b6eba53063f47eabc8f2ed60183a416f4746f75d14273"
+    },
+    {
+      "path": "VRPTW/n=200/RC1_2_7.bks.HierarchicalVehicleCost.json",
+      "sha256": "7d8837ea5ab6149a64fd8d21ff57c4b04cd22e3c718fcc3b721bdf4e1dd9ff33"
+    },
+    {
+      "path": "VRPTW/n=200/RC1_2_8.bks.HierarchicalVehicleCost.json",
+      "sha256": "509c711d66cc84681623157d86edfb200d4c1dfeab00aebee0e1c1a09af1986b"
+    },
+    {
+      "path": "VRPTW/n=200/RC1_2_9.bks.HierarchicalVehicleCost.json",
+      "sha256": "66f28c278a6a308f2781e656d439aa2b7f16f698ad29762376369683d9cde037"
+    },
+    {
+      "path": "VRPTW/n=200/RC2_2_1.bks.HierarchicalVehicleCost.json",
+      "sha256": "fe847da3ed4a8ccb3314622ef3af8b424bf34f197727a3492965078fc76bb84d"
+    },
+    {
+      "path": "VRPTW/n=200/RC2_2_10.bks.HierarchicalVehicleCost.json",
+      "sha256": "018eb6dd22953a352b6f4d184f82d52deaaade9689cbe24d5ac69710a3611739"
+    },
+    {
+      "path": "VRPTW/n=200/RC2_2_2.bks.HierarchicalVehicleCost.json",
+      "sha256": "99eb1d63d42915576eebac88082a19c5a8143b4768102a8fe2bbc59180a2cfaf"
+    },
+    {
+      "path": "VRPTW/n=200/RC2_2_3.bks.HierarchicalVehicleCost.json",
+      "sha256": "5d662400c9cdc1c60e306d5ae26217882d37228e5966822497dbd8a656de4dd4"
+    },
+    {
+      "path": "VRPTW/n=200/RC2_2_4.bks.HierarchicalVehicleCost.json",
+      "sha256": "1e778be1c14c7cbdb77fbccb947f3085f62792cefce0396dc27b53fba285b60d"
+    },
+    {
+      "path": "VRPTW/n=200/RC2_2_5.bks.HierarchicalVehicleCost.json",
+      "sha256": "23f04ce476d9e3020fa584eb6044c3f9d02760a605e4ba55e21116ef832a9d7a"
+    },
+    {
+      "path": "VRPTW/n=200/RC2_2_6.bks.HierarchicalVehicleCost.json",
+      "sha256": "3b8fbbaf04f5c3393d9318bbb2e032e2afdd29cfb6f912d71ec2ddb6d342e734"
+    },
+    {
+      "path": "VRPTW/n=200/RC2_2_7.bks.HierarchicalVehicleCost.json",
+      "sha256": "083945bf262b62e9bcc4b05293596ae41d0c5d2f974d6461cba6a74807b68028"
+    },
+    {
+      "path": "VRPTW/n=200/RC2_2_8.bks.HierarchicalVehicleCost.json",
+      "sha256": "6d235ab519802157a4d4979b971024ff3e2eb16021cc932713e87b01fdc08cbc"
+    },
+    {
+      "path": "VRPTW/n=200/RC2_2_9.bks.HierarchicalVehicleCost.json",
+      "sha256": "1b89fd5dfac54f322b39464d5cd41fc8d00fdfb1efe73bd98521d3ed9f007b60"
+    },
+    {
+      "path": "VRPTW/n=25/C101.bks.HierarchicalVehicleCost.json",
+      "sha256": "7102d5c69550e1313a17aae2366c84c3624ba7f37149eee0ac73f3aa8ae442dd"
+    },
+    {
+      "path": "VRPTW/n=25/C102.bks.HierarchicalVehicleCost.json",
+      "sha256": "7b33d8dd78cdd510b338749d64ce4bde512fa9915023aa60b9041c3eb4b3d157"
+    },
+    {
+      "path": "VRPTW/n=25/C103.bks.HierarchicalVehicleCost.json",
+      "sha256": "11e7fbc98704e5641b0d460a269d52c49050202d25431698a1e0146dc9f99927"
+    },
+    {
+      "path": "VRPTW/n=25/C104.bks.HierarchicalVehicleCost.json",
+      "sha256": "519889d9ef383a62dd013e397062666b76988fcf5f1495f967f401ba0ff17062"
+    },
+    {
+      "path": "VRPTW/n=25/C105.bks.HierarchicalVehicleCost.json",
+      "sha256": "40ebdcc5bd82125b323912147bfb8b4f3d9704a95358c7ae5a60a17698e0d64d"
+    },
+    {
+      "path": "VRPTW/n=25/C106.bks.HierarchicalVehicleCost.json",
+      "sha256": "2c828f2ff5862216e1e036302ea8160e9fd76017ddaab6b7bfc05a99e3f560ac"
+    },
+    {
+      "path": "VRPTW/n=25/C107.bks.HierarchicalVehicleCost.json",
+      "sha256": "913ad5916665068842a3459d661f4a90202548c500b8b61a7da4a0b1c90f0d81"
+    },
+    {
+      "path": "VRPTW/n=25/C108.bks.HierarchicalVehicleCost.json",
+      "sha256": "751bafcf89dfee79c2e4186d05fa282b9375f754ad4ad51a6070ef2d2686108c"
+    },
+    {
+      "path": "VRPTW/n=25/C109.bks.HierarchicalVehicleCost.json",
+      "sha256": "1296500c8119c8ae314eb5ba46f5aedceea27c39e6aa105298f23233eefd012f"
+    },
+    {
+      "path": "VRPTW/n=25/C201.bks.HierarchicalVehicleCost.json",
+      "sha256": "fd68510dee37a1e745b8dcacd3ea4649653f195576f632bd51498c0efa21148a"
+    },
+    {
+      "path": "VRPTW/n=25/C202.bks.HierarchicalVehicleCost.json",
+      "sha256": "5c2ed893dd40935deb5a00c6eb4ef7182363b8afa087228377b6981b69e7b620"
+    },
+    {
+      "path": "VRPTW/n=25/C203.bks.HierarchicalVehicleCost.json",
+      "sha256": "4f37aa74e49ec9f1a8e91bc03d75fd139828feb4cde061ea0a4be89d3b742d25"
+    },
+    {
+      "path": "VRPTW/n=25/C204.bks.HierarchicalVehicleCost.json",
+      "sha256": "dc1e39a5afa213accfbc215ca21719f62bd6133b1d52b99deffdc42b516e3eea"
+    },
+    {
+      "path": "VRPTW/n=25/C205.bks.HierarchicalVehicleCost.json",
+      "sha256": "c3cb881c1e1e5fcc70820565fc3cf5399faf970caf1b74cb29df5aec31cd0c44"
+    },
+    {
+      "path": "VRPTW/n=25/C206.bks.HierarchicalVehicleCost.json",
+      "sha256": "23a56d4daac601d8646a1951986b1ce952ab7e6cd434a65ccfbed7d487563ba3"
+    },
+    {
+      "path": "VRPTW/n=25/C207.bks.HierarchicalVehicleCost.json",
+      "sha256": "b11f9034e0a1f773b4d10aeafbedf2fa9dd44dcb2e32d37b6dfae22c3e8304c2"
+    },
+    {
+      "path": "VRPTW/n=25/C208.bks.HierarchicalVehicleCost.json",
+      "sha256": "56892af16f3d213d7c6c6ea1ec6d6e9914bcc19fc9eae7ff48a66847e7cf8f26"
+    },
+    {
+      "path": "VRPTW/n=25/R101.bks.HierarchicalVehicleCost.json",
+      "sha256": "75d116b01022fefa27e64c90a54f0499dc8a5d144d26c7656081514e097e2486"
+    },
+    {
+      "path": "VRPTW/n=25/R102.bks.HierarchicalVehicleCost.json",
+      "sha256": "bcb6793558ed177ee567c5e7627c1c4ed31547ff430fb1c48f17ad7005502248"
+    },
+    {
+      "path": "VRPTW/n=25/R103.bks.HierarchicalVehicleCost.json",
+      "sha256": "b9e9082880a089dbad1803fbb2c5ef28f4e4f1a8171fc21762eb63789dc79005"
+    },
+    {
+      "path": "VRPTW/n=25/R104.bks.HierarchicalVehicleCost.json",
+      "sha256": "eb1b776dee433cdcdd2f665b72a13fc76258c267c33c0d993670b8c08a6e91f3"
+    },
+    {
+      "path": "VRPTW/n=25/R105.bks.HierarchicalVehicleCost.json",
+      "sha256": "71e739ea67202ec2a9a63e5ad901345fff2c3dbfa1a88604767743aa5ba46ab3"
+    },
+    {
+      "path": "VRPTW/n=25/R106.bks.HierarchicalVehicleCost.json",
+      "sha256": "3ba7de5eacf26efddffc2525825a0db4b39f90d1b503706822caaed02f41b31f"
+    },
+    {
+      "path": "VRPTW/n=25/R107.bks.HierarchicalVehicleCost.json",
+      "sha256": "8cd51cb608e19812911ca5848843b86a8f1697e3a745ed41c86b0227340ba1d3"
+    },
+    {
+      "path": "VRPTW/n=25/R108.bks.HierarchicalVehicleCost.json",
+      "sha256": "59813bf7ac654fd6fb6f87ed7f392bad3883f4d333eaa34a715778e39d11efac"
+    },
+    {
+      "path": "VRPTW/n=25/R109.bks.HierarchicalVehicleCost.json",
+      "sha256": "caf9e0fb39d1f04596b37c17d049d82facdaad7cc824d0f938a3fcc564ed2fbc"
+    },
+    {
+      "path": "VRPTW/n=25/R110.bks.HierarchicalVehicleCost.json",
+      "sha256": "63a6dbabd322ebec793d321e6fda32765a431be15852d6c07ce2e72fc00735c8"
+    },
+    {
+      "path": "VRPTW/n=25/R111.bks.HierarchicalVehicleCost.json",
+      "sha256": "e931eb8930090878be3ea9afa85a35b73ab7a2573026e12c82a7e5a448d08e13"
+    },
+    {
+      "path": "VRPTW/n=25/R112.bks.HierarchicalVehicleCost.json",
+      "sha256": "204c327dbf3d5322d8f0c9c6f6fa6656e0001e3de5b9e0b2c531c6f8d60693f8"
+    },
+    {
+      "path": "VRPTW/n=25/R201.bks.HierarchicalVehicleCost.json",
+      "sha256": "1d951073ad1fc39262ad48e33535e321ec882c7947c5d643f1c4d93a6dc45c14"
+    },
+    {
+      "path": "VRPTW/n=25/R202.bks.HierarchicalVehicleCost.json",
+      "sha256": "d7ecf5b90ee10a0d847916005ff854cba5560029860f25da5bff676682e0e32e"
+    },
+    {
+      "path": "VRPTW/n=25/R203.bks.HierarchicalVehicleCost.json",
+      "sha256": "de2bf55af9ad48fac903544941f9f766374b18cf66d9f910bf87c450f008ef7e"
+    },
+    {
+      "path": "VRPTW/n=25/R204.bks.HierarchicalVehicleCost.json",
+      "sha256": "58383c26f940372ed81396ba30b213257175379924ce2af0270bca1617f59b39"
+    },
+    {
+      "path": "VRPTW/n=25/R205.bks.HierarchicalVehicleCost.json",
+      "sha256": "7a12c433ac66beb74845729745225c24123d96bad3a22bca5e2b37e57fb7ab37"
+    },
+    {
+      "path": "VRPTW/n=25/R206.bks.HierarchicalVehicleCost.json",
+      "sha256": "f4efbd8a93c0ba562b9e60f99eac2deee7472c71b5709b7fa8dc83cf9bff99a6"
+    },
+    {
+      "path": "VRPTW/n=25/R207.bks.HierarchicalVehicleCost.json",
+      "sha256": "e1439df11f1e6d2fde322cb367624ecb3a2eb9232860894a4e8e30ffd34a5393"
+    },
+    {
+      "path": "VRPTW/n=25/R208.bks.HierarchicalVehicleCost.json",
+      "sha256": "eb306c0fbcee76a6dcd7cf8049aed738e9d5ce67d996dd235526790e7a51281a"
+    },
+    {
+      "path": "VRPTW/n=25/R209.bks.HierarchicalVehicleCost.json",
+      "sha256": "eee6e998218e201cfe68dcdcaec3612da229a5395371c90f69c3ff41d44406b4"
+    },
+    {
+      "path": "VRPTW/n=25/R210.bks.HierarchicalVehicleCost.json",
+      "sha256": "a4dc4a3c7fa13e771bd779428a422fb256101ba5539300b553309a584bfb4415"
+    },
+    {
+      "path": "VRPTW/n=25/R211.bks.HierarchicalVehicleCost.json",
+      "sha256": "68281d19c9edec32f382a2a65cce774bb605869e0d5f9aea94b9418c85ed2b86"
+    },
+    {
+      "path": "VRPTW/n=25/RC101.bks.HierarchicalVehicleCost.json",
+      "sha256": "a7e727070937234a4cfd15b33a71a8a4499cec5e3be0d940279c3c9b1326d46d"
+    },
+    {
+      "path": "VRPTW/n=25/RC102.bks.HierarchicalVehicleCost.json",
+      "sha256": "c3cd2d7751dee2bfbb9f482f20ca7997b7f74eaa87af1c765e51a39d875d8b79"
+    },
+    {
+      "path": "VRPTW/n=25/RC103.bks.HierarchicalVehicleCost.json",
+      "sha256": "7877a5caffcf5f7eef8a4cabeed47a8afe51ddea7df7a6fdc7dcd22b53d20d11"
+    },
+    {
+      "path": "VRPTW/n=25/RC104.bks.HierarchicalVehicleCost.json",
+      "sha256": "68d18bdd8f97b96129bbc19f7847fdd61d458a3bf90cd10276c1c85a0c40952d"
+    },
+    {
+      "path": "VRPTW/n=25/RC105.bks.HierarchicalVehicleCost.json",
+      "sha256": "330ece2fd02e17ade8996d5c740f9b1ff36573db098b7392e6d3c23c77e0b29e"
+    },
+    {
+      "path": "VRPTW/n=25/RC106.bks.HierarchicalVehicleCost.json",
+      "sha256": "31f6ce42792325b5d22113ec63bbe8908dd8ad1338ce8f99b08284cba0f72f37"
+    },
+    {
+      "path": "VRPTW/n=25/RC107.bks.HierarchicalVehicleCost.json",
+      "sha256": "f7db9047d6870e73bdc90f1eaafa7abfb8f5e09f9698b0b7903877b320a925fb"
+    },
+    {
+      "path": "VRPTW/n=25/RC108.bks.HierarchicalVehicleCost.json",
+      "sha256": "210d7a3bf8212bbb7e731760da5599cb34aff011eda0baf939d653eb589a6333"
+    },
+    {
+      "path": "VRPTW/n=25/RC201.bks.HierarchicalVehicleCost.json",
+      "sha256": "0433b378af932d6ddd13576e184460cd61106bd7ea1f1e8921bce52755272545"
+    },
+    {
+      "path": "VRPTW/n=25/RC202.bks.HierarchicalVehicleCost.json",
+      "sha256": "8a013af0fd6f06090583b0956abb5b055b3c3ac6b4862c5a76ae81b432081c8e"
+    },
+    {
+      "path": "VRPTW/n=25/RC203.bks.HierarchicalVehicleCost.json",
+      "sha256": "14853bd572b5dc7e9b3494a37fd359021603d1849723feab254143584daf8388"
+    },
+    {
+      "path": "VRPTW/n=25/RC204.bks.HierarchicalVehicleCost.json",
+      "sha256": "4a093895d3951e8e1ecaa7a01edc3253ccee48d98920e389c215dd659ca9fbfb"
+    },
+    {
+      "path": "VRPTW/n=25/RC205.bks.HierarchicalVehicleCost.json",
+      "sha256": "0336bb29af23f1ac5d6be57b6e6a13fc844a67cf442947d74fd7891fac37517c"
+    },
+    {
+      "path": "VRPTW/n=25/RC206.bks.HierarchicalVehicleCost.json",
+      "sha256": "e4c5f6e2bd6347deed2ccb820a5e3d6a3688cb6c0d95ae0f0fb4023f44a91dc1"
+    },
+    {
+      "path": "VRPTW/n=25/RC207.bks.HierarchicalVehicleCost.json",
+      "sha256": "bebb32460d8573980cfc9559a2619c288b7b8fad212291b2c7b631f6afbd5875"
+    },
+    {
+      "path": "VRPTW/n=25/RC208.bks.HierarchicalVehicleCost.json",
+      "sha256": "670a6bcc98d4f4be248678fd32ccbc064f2c181e9f5e451543689be4aa952047"
+    },
+    {
+      "path": "VRPTW/n=400/C1_4_1.bks.HierarchicalVehicleCost.json",
+      "sha256": "06f555f5f8221f15360bc2169ab1ac60f8556fcdafee7f2797075155444163f5"
+    },
+    {
+      "path": "VRPTW/n=400/C1_4_10.bks.HierarchicalVehicleCost.json",
+      "sha256": "d4dd2825e3a6dba717fc92b2beb52d93f685135551a4f1ba0e09ef1431419c71"
+    },
+    {
+      "path": "VRPTW/n=400/C1_4_2.bks.HierarchicalVehicleCost.json",
+      "sha256": "6b317b1d1c73a38e2fcd6f5e1a5d575e4acb939f5cd7a4bcceb6d49c02433c5e"
+    },
+    {
+      "path": "VRPTW/n=400/C1_4_3.bks.HierarchicalVehicleCost.json",
+      "sha256": "fed5e260edb4d1aacabaec737fe2db0d0343c5d6ffd6c9d25f1ef3b53bef502e"
+    },
+    {
+      "path": "VRPTW/n=400/C1_4_4.bks.HierarchicalVehicleCost.json",
+      "sha256": "3aa2012989e8b16e2668ba687fc050fb87d138474904bbe52fa4dd67c34ea9e7"
+    },
+    {
+      "path": "VRPTW/n=400/C1_4_5.bks.HierarchicalVehicleCost.json",
+      "sha256": "8904660e7d052a426fbd8b4e03e3ace4655fd5272db7b0514adeaddad6d22746"
+    },
+    {
+      "path": "VRPTW/n=400/C1_4_6.bks.HierarchicalVehicleCost.json",
+      "sha256": "20350d8dff2045a03ff41594e3a7d91b389c6c28dd433978065a7cb88f6cbf3c"
+    },
+    {
+      "path": "VRPTW/n=400/C1_4_7.bks.HierarchicalVehicleCost.json",
+      "sha256": "9e8992b6a9cef7d523512e1c1de7df4174a47a6b874a8f4a55f4a24c02832d20"
+    },
+    {
+      "path": "VRPTW/n=400/C1_4_8.bks.HierarchicalVehicleCost.json",
+      "sha256": "f30185da54962719aa5e7f64e43e3c2f781e6aa12b6f3e1d1d336cf212c816a8"
+    },
+    {
+      "path": "VRPTW/n=400/C1_4_9.bks.HierarchicalVehicleCost.json",
+      "sha256": "ee23b54e2c1efca79b863698bdd26c558386a8295ec82415435e9b4c4a507e0a"
+    },
+    {
+      "path": "VRPTW/n=400/C2_4_1.bks.HierarchicalVehicleCost.json",
+      "sha256": "b6d7e1711a16e71e8d8d4b24086aec80c6f50eeb5c023b2183590d4eef0a7eb3"
+    },
+    {
+      "path": "VRPTW/n=400/C2_4_10.bks.HierarchicalVehicleCost.json",
+      "sha256": "6b6167bbfc770c76783fe6303625e2976e93bc48f544309ccdea555a7c5e9c85"
+    },
+    {
+      "path": "VRPTW/n=400/C2_4_2.bks.HierarchicalVehicleCost.json",
+      "sha256": "bf31f1477df52d8948b7b061e6517f62af6d77d94f535608150220f6ad2f4167"
+    },
+    {
+      "path": "VRPTW/n=400/C2_4_3.bks.HierarchicalVehicleCost.json",
+      "sha256": "7df5706e8c922e47cbea0051b339c1f9f80b67ed44afbc57c613acaf2dd6d132"
+    },
+    {
+      "path": "VRPTW/n=400/C2_4_4.bks.HierarchicalVehicleCost.json",
+      "sha256": "1aefaac556ada03baa6e30ba3e1f4ff3df3980b28845d9a4381d63a2506def6d"
+    },
+    {
+      "path": "VRPTW/n=400/C2_4_5.bks.HierarchicalVehicleCost.json",
+      "sha256": "5cf013fb07d298d02b122d424f97981cb4f61c04c1a99d8d8d181615e7f914ec"
+    },
+    {
+      "path": "VRPTW/n=400/C2_4_6.bks.HierarchicalVehicleCost.json",
+      "sha256": "038ecba8a0fd84f0a6e6a61a1e81f7ed6b48bb9353cdbbdda6e283b58ada434a"
+    },
+    {
+      "path": "VRPTW/n=400/C2_4_7.bks.HierarchicalVehicleCost.json",
+      "sha256": "113b178fda33b313a146e09b4745c4ead4555b1c714bccc7d975783ce374bf01"
+    },
+    {
+      "path": "VRPTW/n=400/C2_4_8.bks.HierarchicalVehicleCost.json",
+      "sha256": "5ed8b7ee4e4ac45d1444e655b377dc766553bebf520098dcb1d5c9b3cce8e082"
+    },
+    {
+      "path": "VRPTW/n=400/C2_4_9.bks.HierarchicalVehicleCost.json",
+      "sha256": "478f07101870b70bab21ee4557373c892c0f8b514fc6eeb180030521ef1893a9"
+    },
+    {
+      "path": "VRPTW/n=400/R1_4_1.bks.HierarchicalVehicleCost.json",
+      "sha256": "82c8888c3b9dad556a808e23a80a0fd3356539be09c928525f444ea85d8fc976"
+    },
+    {
+      "path": "VRPTW/n=400/R1_4_10.bks.HierarchicalVehicleCost.json",
+      "sha256": "a28841bfe28e99c2f1fead13384074ca56e62546fc80d21b12a61ec54b231741"
+    },
+    {
+      "path": "VRPTW/n=400/R1_4_2.bks.HierarchicalVehicleCost.json",
+      "sha256": "48f18a5c53e89f0901bfe3c1b63e0f793ee1deda9a10033b87041112df5fa33f"
+    },
+    {
+      "path": "VRPTW/n=400/R1_4_3.bks.HierarchicalVehicleCost.json",
+      "sha256": "1119113fd83f756380386544e71f1e2095ff82a7252e2e812ba6af999aff9f8a"
+    },
+    {
+      "path": "VRPTW/n=400/R1_4_4.bks.HierarchicalVehicleCost.json",
+      "sha256": "eb8d7d9befca52930a76a7bfffab81f846b4531ef3121c6bddeae76290a3b937"
+    },
+    {
+      "path": "VRPTW/n=400/R1_4_5.bks.HierarchicalVehicleCost.json",
+      "sha256": "5620696881893e9e9f77f2923b976421f07a2acd76afd1f58b195257c8bfbabb"
+    },
+    {
+      "path": "VRPTW/n=400/R1_4_6.bks.HierarchicalVehicleCost.json",
+      "sha256": "5829475527ea8a1a551f5351d2302021aa42e3c9c9edf9e6f6b8e32c56869404"
+    },
+    {
+      "path": "VRPTW/n=400/R1_4_7.bks.HierarchicalVehicleCost.json",
+      "sha256": "a743d63d8165567db66e8a784dd31e9d9e05a81b52e24a15bd1d09e7eecae20a"
+    },
+    {
+      "path": "VRPTW/n=400/R1_4_8.bks.HierarchicalVehicleCost.json",
+      "sha256": "cd351386c487e6831a35d1d8b13e28011288be8da7e1fd9e67628e2f8b36cb6b"
+    },
+    {
+      "path": "VRPTW/n=400/R1_4_9.bks.HierarchicalVehicleCost.json",
+      "sha256": "cd481f681f9dea975f8ee622345986da8fe0db372cf962ef92ec6e5b1ec123a5"
+    },
+    {
+      "path": "VRPTW/n=400/R2_4_1.bks.HierarchicalVehicleCost.json",
+      "sha256": "423c402ffe58a2b552b59974cc5ad4934256be06a93470722f0b4a27911c02af"
+    },
+    {
+      "path": "VRPTW/n=400/R2_4_10.bks.HierarchicalVehicleCost.json",
+      "sha256": "86455c5afc876401fd6a719e10ab2ed8bfe9792fa7cc59d3b21eaf4634628f12"
+    },
+    {
+      "path": "VRPTW/n=400/R2_4_2.bks.HierarchicalVehicleCost.json",
+      "sha256": "f3eae75c92c929d225027e139878eafe44eee4ef9f6027a64fb77e9755e9bd95"
+    },
+    {
+      "path": "VRPTW/n=400/R2_4_3.bks.HierarchicalVehicleCost.json",
+      "sha256": "9d1e50919ce89079b6a25664e2d3ac20f7538bb0e1c39b4f535fd89026147778"
+    },
+    {
+      "path": "VRPTW/n=400/R2_4_4.bks.HierarchicalVehicleCost.json",
+      "sha256": "ffbaa502cefa23016e5295bbcd8c165fe32c196d456f6fdd692e02c8f7297e13"
+    },
+    {
+      "path": "VRPTW/n=400/R2_4_5.bks.HierarchicalVehicleCost.json",
+      "sha256": "e356f7d580efeaee48390c6c096617de2a688241783776ec58c91f6c59c64d64"
+    },
+    {
+      "path": "VRPTW/n=400/R2_4_6.bks.HierarchicalVehicleCost.json",
+      "sha256": "53f053272858e14272e7dd8b757180ee82091adcd0b5fa172598ef5c8e17b05d"
+    },
+    {
+      "path": "VRPTW/n=400/R2_4_7.bks.HierarchicalVehicleCost.json",
+      "sha256": "5b50b77e38e260e27c148f9f1ae23f11a317eebf511d5bd57378177e2f71c7ea"
+    },
+    {
+      "path": "VRPTW/n=400/R2_4_8.bks.HierarchicalVehicleCost.json",
+      "sha256": "6f2e3206eccd69342f91e1475c1320213012009956d812e879754a92c17562d8"
+    },
+    {
+      "path": "VRPTW/n=400/R2_4_9.bks.HierarchicalVehicleCost.json",
+      "sha256": "f54a64e5cf64aeefd7bf86b99a8c92336880ea25af76d946948fa7a558d38ffd"
+    },
+    {
+      "path": "VRPTW/n=400/RC1_4_1.bks.HierarchicalVehicleCost.json",
+      "sha256": "3f6f27740bbfc66764c7d9816dcb7dbf7be4da06cf0f04214c35950e16f8a9a8"
+    },
+    {
+      "path": "VRPTW/n=400/RC1_4_10.bks.HierarchicalVehicleCost.json",
+      "sha256": "3d147d666832c2557df6c1810861fe86f2b375a3c3ee681392d6c586e365e5fb"
+    },
+    {
+      "path": "VRPTW/n=400/RC1_4_2.bks.HierarchicalVehicleCost.json",
+      "sha256": "9bba4d6f0f8abfd88195fef4cd323fe39d00e143c3dde8cd5698fa97c3d9bda9"
+    },
+    {
+      "path": "VRPTW/n=400/RC1_4_3.bks.HierarchicalVehicleCost.json",
+      "sha256": "4f078c397ea8bbc7704b69a09f3a0d1b5c321a8485df9aa13ce9273752e62c26"
+    },
+    {
+      "path": "VRPTW/n=400/RC1_4_4.bks.HierarchicalVehicleCost.json",
+      "sha256": "6c3caab9bb44c4de76036be6aef00523b7434b6f18e1da3fd52e00032cda6029"
+    },
+    {
+      "path": "VRPTW/n=400/RC1_4_5.bks.HierarchicalVehicleCost.json",
+      "sha256": "156c619d526d5d5775b08625354b1891c190c398b8473d0f51f3ead8824e45e0"
+    },
+    {
+      "path": "VRPTW/n=400/RC1_4_6.bks.HierarchicalVehicleCost.json",
+      "sha256": "7fdbdf5261653bc56194f4dbac91b1ae232308f5418afac151c15e19bba48c75"
+    },
+    {
+      "path": "VRPTW/n=400/RC1_4_7.bks.HierarchicalVehicleCost.json",
+      "sha256": "08cff045c8d0b3ff3bb6bb6353f894895dab77757fc12124708c01637c481e26"
+    },
+    {
+      "path": "VRPTW/n=400/RC1_4_8.bks.HierarchicalVehicleCost.json",
+      "sha256": "f173314235b58a9e937935e1271999e521c5bf192bc4087f23a06edc495e778d"
+    },
+    {
+      "path": "VRPTW/n=400/RC1_4_9.bks.HierarchicalVehicleCost.json",
+      "sha256": "078ef5d97e87463c8b6eb9bf4fc589cc30d2cd0c81af1294f3f29f8296e40eba"
+    },
+    {
+      "path": "VRPTW/n=400/RC2_4_1.bks.HierarchicalVehicleCost.json",
+      "sha256": "3f616439e07598b861e572f0cd724b01d78d30deb723ec4cf9e3abe58d66ed1f"
+    },
+    {
+      "path": "VRPTW/n=400/RC2_4_10.bks.HierarchicalVehicleCost.json",
+      "sha256": "8cc4de576440ca866cf438921a00cca11987337d1a8bbd7c2653187ffc311f14"
+    },
+    {
+      "path": "VRPTW/n=400/RC2_4_2.bks.HierarchicalVehicleCost.json",
+      "sha256": "21c66f5d34b5e346bd5ce4e62ff93f7fa07b3c22c4697a537c2f0991b4ea3ad5"
+    },
+    {
+      "path": "VRPTW/n=400/RC2_4_3.bks.HierarchicalVehicleCost.json",
+      "sha256": "fb70e9fcd808728eea5c00089e0cc2ec882d21ec684274534a61a7558e51cf09"
+    },
+    {
+      "path": "VRPTW/n=400/RC2_4_4.bks.HierarchicalVehicleCost.json",
+      "sha256": "9a27551e9bf93f846c264e0670af024eb55e49aeb8e3cedc44f99f85c79a7bdd"
+    },
+    {
+      "path": "VRPTW/n=400/RC2_4_5.bks.HierarchicalVehicleCost.json",
+      "sha256": "550d6827bc79030979a25ffa6aab18eab148b1eadf2ccdc2a85e73156983825f"
+    },
+    {
+      "path": "VRPTW/n=400/RC2_4_6.bks.HierarchicalVehicleCost.json",
+      "sha256": "ae558ae9aea621509e51fb7d185927c771c58121981ffde845153ff35ec5f96c"
+    },
+    {
+      "path": "VRPTW/n=400/RC2_4_7.bks.HierarchicalVehicleCost.json",
+      "sha256": "6cf8d8db3dde60f4de464036b3623ef1f70209046030858f8eb0405f4edeea2d"
+    },
+    {
+      "path": "VRPTW/n=400/RC2_4_8.bks.HierarchicalVehicleCost.json",
+      "sha256": "317cda5feb8771a44df165c66c940790ee8b64c63720c333c01049561555b79c"
+    },
+    {
+      "path": "VRPTW/n=400/RC2_4_9.bks.HierarchicalVehicleCost.json",
+      "sha256": "cc0ef5f83a712772872c939a8f3b661653b17905fdc1bb8a29e2ea79d3a7400b"
+    },
+    {
+      "path": "VRPTW/n=50/C101.bks.HierarchicalVehicleCost.json",
+      "sha256": "60c9eaca1a75f8cf6369f643d77599722d76046d33cc0d8380a62bc203b18fa6"
+    },
+    {
+      "path": "VRPTW/n=50/C102.bks.HierarchicalVehicleCost.json",
+      "sha256": "b74b0b0d589c45ab6c92eed1fd89a75fb33e846495dce5f4148faec09f072233"
+    },
+    {
+      "path": "VRPTW/n=50/C103.bks.HierarchicalVehicleCost.json",
+      "sha256": "b5758b6cd46821002672b8d3e4181ab78ea448b94ab870f4a899a30625bf66be"
+    },
+    {
+      "path": "VRPTW/n=50/C104.bks.HierarchicalVehicleCost.json",
+      "sha256": "f1596d1f0f3d598d467d7e5af861e7b8669be1342aa9f256365feddf3494c138"
+    },
+    {
+      "path": "VRPTW/n=50/C105.bks.HierarchicalVehicleCost.json",
+      "sha256": "939e5f1bced0faa5f96da95cbeef81387af7d2b9d497485d260fe2413804b53d"
+    },
+    {
+      "path": "VRPTW/n=50/C106.bks.HierarchicalVehicleCost.json",
+      "sha256": "f3b5f4a905f11cffc50cf14884801851ae7a30d1b290f697c9e207d6af809c0d"
+    },
+    {
+      "path": "VRPTW/n=50/C107.bks.HierarchicalVehicleCost.json",
+      "sha256": "2d626c5bf39a26f76059033c342d3522d9aa1edc968f1b612846d24161999e25"
+    },
+    {
+      "path": "VRPTW/n=50/C108.bks.HierarchicalVehicleCost.json",
+      "sha256": "c79c833ac1cdd5a376a164d42dc2a018e8407b3b4d291c38c10c7ad69c2471d6"
+    },
+    {
+      "path": "VRPTW/n=50/C109.bks.HierarchicalVehicleCost.json",
+      "sha256": "09cf22201c35925e101b8b25e30c2bb0ab0065b0d45d4d4972fd5bbed617da17"
+    },
+    {
+      "path": "VRPTW/n=50/C201.bks.HierarchicalVehicleCost.json",
+      "sha256": "e81ec7aa87cf65063d299eb5c3ed068f6191b17be3edf08e0e2441098ea80e5b"
+    },
+    {
+      "path": "VRPTW/n=50/C202.bks.HierarchicalVehicleCost.json",
+      "sha256": "3ba9770f8003aaa8030c0d44a2015e8e41adda0338c0744fb31de354e29a8eb8"
+    },
+    {
+      "path": "VRPTW/n=50/C203.bks.HierarchicalVehicleCost.json",
+      "sha256": "0e657e1adc1708c42340be811a95424a1d20e8270fe68fbbcef25edde9618a61"
+    },
+    {
+      "path": "VRPTW/n=50/C204.bks.HierarchicalVehicleCost.json",
+      "sha256": "920ed90d9134919920ce058af17f8844a200da8c9e4da6d8912a408fd1346735"
+    },
+    {
+      "path": "VRPTW/n=50/C205.bks.HierarchicalVehicleCost.json",
+      "sha256": "34849f1f27d428ef66e141c5e5ab28291fe2f56384a9df566489da54df4690bf"
+    },
+    {
+      "path": "VRPTW/n=50/C206.bks.HierarchicalVehicleCost.json",
+      "sha256": "cdf8f6828078921825e7e0da392f5f5eff877404dfbdc1fbef83cf286b76f05d"
+    },
+    {
+      "path": "VRPTW/n=50/C207.bks.HierarchicalVehicleCost.json",
+      "sha256": "a7429b59dd17938b411c29227f1611e21b405202e1600340df0166ad19009bd5"
+    },
+    {
+      "path": "VRPTW/n=50/C208.bks.HierarchicalVehicleCost.json",
+      "sha256": "e54f2ab3f9c3ee59d186a0a7b1b76fccf5e0a24775ac65cca97cc8422f7d5548"
+    },
+    {
+      "path": "VRPTW/n=50/R101.bks.HierarchicalVehicleCost.json",
+      "sha256": "06402b97d68b35f8b0d344fdbc6a2d7220c2cb7ea835afd85ddf461fe4d34e88"
+    },
+    {
+      "path": "VRPTW/n=50/R102.bks.HierarchicalVehicleCost.json",
+      "sha256": "93d0d706d457bba1f2f14954971de1ff09a458a6ef484a8fa5a7694fa2b7ef82"
+    },
+    {
+      "path": "VRPTW/n=50/R103.bks.HierarchicalVehicleCost.json",
+      "sha256": "7172c97780c83bcf9f54581067d9ec0d2214e6e7f17b6f0f24ace14f99e3ec0d"
+    },
+    {
+      "path": "VRPTW/n=50/R104.bks.HierarchicalVehicleCost.json",
+      "sha256": "77453ebbb2b931541e59ad9d6dfe8575b8de7ca4de35db951b84a7d6aa07da09"
+    },
+    {
+      "path": "VRPTW/n=50/R105.bks.HierarchicalVehicleCost.json",
+      "sha256": "1b03e0b2846fb66be71564a749ea0a6d403941c69ad8932ebf212b1b8394a25d"
+    },
+    {
+      "path": "VRPTW/n=50/R106.bks.HierarchicalVehicleCost.json",
+      "sha256": "5f8d66b865ff96207853c002e9a9b0eff26a5d47dde0c2488a7557833f4266d5"
+    },
+    {
+      "path": "VRPTW/n=50/R107.bks.HierarchicalVehicleCost.json",
+      "sha256": "38861991d8b98c94e1eb1a5bb78ec9bbc49e7a0f11b00f69bd8dbd93a7903dcc"
+    },
+    {
+      "path": "VRPTW/n=50/R108.bks.HierarchicalVehicleCost.json",
+      "sha256": "94f03a1879789105a12362d59b32ab4ba0d755e448edaff5b38453143222c89c"
+    },
+    {
+      "path": "VRPTW/n=50/R109.bks.HierarchicalVehicleCost.json",
+      "sha256": "0dbbdb0ea92087ad82ce844331fed8e6bb10fb65a46bc6affbfbf3af98fc07e2"
+    },
+    {
+      "path": "VRPTW/n=50/R110.bks.HierarchicalVehicleCost.json",
+      "sha256": "d5d255b91122c02c70d144866450202f891675fa186dc364a5b44122e32933ba"
+    },
+    {
+      "path": "VRPTW/n=50/R111.bks.HierarchicalVehicleCost.json",
+      "sha256": "d4883497f491e21f4399cf9e77f57ddad27632d80aba0784d71dc21ac7db4fe2"
+    },
+    {
+      "path": "VRPTW/n=50/R112.bks.HierarchicalVehicleCost.json",
+      "sha256": "a8e6b9689a6eb8fcd39c96ffc675e14d66a6ad92a3a3a3bc740a7900e0c1cca8"
+    },
+    {
+      "path": "VRPTW/n=50/R201.bks.HierarchicalVehicleCost.json",
+      "sha256": "e2069348fb87876f57310175c478582d9470913fbcfd11b7d42f9b01f14b2dff"
+    },
+    {
+      "path": "VRPTW/n=50/R202.bks.HierarchicalVehicleCost.json",
+      "sha256": "0a7e4304d44c1daae9b2084081f847f9aca80f5aefde174241f01009cb473d73"
+    },
+    {
+      "path": "VRPTW/n=50/R203.bks.HierarchicalVehicleCost.json",
+      "sha256": "8162870667a55ea32b0da9cba65c5b58b471aeb616cdc84d335663403f6991e4"
+    },
+    {
+      "path": "VRPTW/n=50/R204.bks.HierarchicalVehicleCost.json",
+      "sha256": "49462fe9933abdef61e7db5967ad1adc611e1fd7195e9addc2f91c36c92949ed"
+    },
+    {
+      "path": "VRPTW/n=50/R205.bks.HierarchicalVehicleCost.json",
+      "sha256": "289754cde5d1474fea809545d0b742db098a8dd2e4397532c2fd02674ab270f2"
+    },
+    {
+      "path": "VRPTW/n=50/R206.bks.HierarchicalVehicleCost.json",
+      "sha256": "162a0825cacaf13b689fe0a5966b4c66fdb200e8c89b5e0d398dd958cf4cdf56"
+    },
+    {
+      "path": "VRPTW/n=50/R207.bks.HierarchicalVehicleCost.json",
+      "sha256": "35091b396e918f75fcc75f47baf90a1abf2592b10eef530ffdfded808fe78c80"
+    },
+    {
+      "path": "VRPTW/n=50/R208.bks.HierarchicalVehicleCost.json",
+      "sha256": "2d0879e89f3b88aa5a3679559f460dbc129014a2dabdc12d6d95bff28e07f979"
+    },
+    {
+      "path": "VRPTW/n=50/R209.bks.HierarchicalVehicleCost.json",
+      "sha256": "32293d0f94108e54d25a8ce04e2ef96c7d286b61b09bbba95f8a6511e8cebacd"
+    },
+    {
+      "path": "VRPTW/n=50/R210.bks.HierarchicalVehicleCost.json",
+      "sha256": "3b3ce6d4b17ee687ca97bff909d7ceb3ea98368ecccea0446432fb2408addc2e"
+    },
+    {
+      "path": "VRPTW/n=50/R211.bks.HierarchicalVehicleCost.json",
+      "sha256": "6d4bc2e69ecc957ef2dcd701e76d5cb271ba9c1a43c932ec1fbb36fdf24810f7"
+    },
+    {
+      "path": "VRPTW/n=50/RC101.bks.HierarchicalVehicleCost.json",
+      "sha256": "5150ab188810bc781d6fb98f38d2b8c3f6caad4ab8d6c9889eb68534b9575174"
+    },
+    {
+      "path": "VRPTW/n=50/RC102.bks.HierarchicalVehicleCost.json",
+      "sha256": "2003049f169960bd0e273eedffcd4dde6f15a2351dd407c71a2ca28619c17d23"
+    },
+    {
+      "path": "VRPTW/n=50/RC103.bks.HierarchicalVehicleCost.json",
+      "sha256": "e8c5b87b877241da7f8120f1bd7f0e45a8f7823199d821703a97f4e907e79386"
+    },
+    {
+      "path": "VRPTW/n=50/RC104.bks.HierarchicalVehicleCost.json",
+      "sha256": "241aa80fd65bfda8e56d51d160f63803fd1773e523fe928711f936567dd58b58"
+    },
+    {
+      "path": "VRPTW/n=50/RC105.bks.HierarchicalVehicleCost.json",
+      "sha256": "485c2652791c4d3ab3db005cab462180db245bb6ecc8a776974900c2a260707d"
+    },
+    {
+      "path": "VRPTW/n=50/RC106.bks.HierarchicalVehicleCost.json",
+      "sha256": "28d3920312bcea29e8d94335b5ab3b86373c7797559163d9e5fe551f803caf24"
+    },
+    {
+      "path": "VRPTW/n=50/RC107.bks.HierarchicalVehicleCost.json",
+      "sha256": "58af34d02c210f32ca037a7f1c3a40bc2164593829ff7e88bfad6b556d7ad56c"
+    },
+    {
+      "path": "VRPTW/n=50/RC108.bks.HierarchicalVehicleCost.json",
+      "sha256": "c9d1be6f6d465d4d858a0dd0e73ee92a219f1042df2b873f3f5527f9b455a754"
+    },
+    {
+      "path": "VRPTW/n=50/RC201.bks.HierarchicalVehicleCost.json",
+      "sha256": "14f91dd49c436412c3fcd4a831d03617ba70f0585646d4c0616ce202da5d5645"
+    },
+    {
+      "path": "VRPTW/n=50/RC202.bks.HierarchicalVehicleCost.json",
+      "sha256": "8c294b12d563bf56578ebbd24dd773a1912dff169988e95831de61bf48ae761f"
+    },
+    {
+      "path": "VRPTW/n=50/RC203.bks.HierarchicalVehicleCost.json",
+      "sha256": "74bcee7db7cc2ef64f800229cb02f003c810e44755da8d9c3fae865d2c7c94da"
+    },
+    {
+      "path": "VRPTW/n=50/RC204.bks.HierarchicalVehicleCost.json",
+      "sha256": "dabc16903bb4d5e6cfbc0b8cceb4314ca267c13d966d95a65d1169dd3a92a982"
+    },
+    {
+      "path": "VRPTW/n=50/RC205.bks.HierarchicalVehicleCost.json",
+      "sha256": "cebe90d1ca38fc118d49587cc617d18d5b2de90953a2de90be80b88bb1296fdf"
+    },
+    {
+      "path": "VRPTW/n=50/RC206.bks.HierarchicalVehicleCost.json",
+      "sha256": "cd8748a3c91bc343b6be5b790e352c011fcf1a0b76c4d7b6ad47066d15293227"
+    },
+    {
+      "path": "VRPTW/n=50/RC207.bks.HierarchicalVehicleCost.json",
+      "sha256": "40978bc817e2d166a7c4c909bfc61b5a4163c1572d714240870fe8114101e0fd"
+    },
+    {
+      "path": "VRPTW/n=50/RC208.bks.HierarchicalVehicleCost.json",
+      "sha256": "b0b518a47a81e413fa06c05faf0ea6d59f539dea3d75fb0d0247f4b8eb2223df"
+    },
+    {
+      "path": "VRPTW/n=600/C1_6_1.bks.HierarchicalVehicleCost.json",
+      "sha256": "387f42ffd99e36d69cb61dd42c259fd67bc25357152e737d7e71873c37b66ac4"
+    },
+    {
+      "path": "VRPTW/n=600/C1_6_10.bks.HierarchicalVehicleCost.json",
+      "sha256": "72c4a7c66bf56087270998514546c4eab5cbc422ed08bfb7958811a936a20012"
+    },
+    {
+      "path": "VRPTW/n=600/C1_6_2.bks.HierarchicalVehicleCost.json",
+      "sha256": "da1fc06a1940805fc71a84076f96bba70387cfe1a7c78c14e2094e2a5d2ae999"
+    },
+    {
+      "path": "VRPTW/n=600/C1_6_3.bks.HierarchicalVehicleCost.json",
+      "sha256": "ef708991ef3ae8bae4406e25fed1831a2ba50d57c8c800cf3c68864681baa2be"
+    },
+    {
+      "path": "VRPTW/n=600/C1_6_4.bks.HierarchicalVehicleCost.json",
+      "sha256": "e008e87abe2deb469ec655e96ae26faf9e6a032312a5d272ee6f417512e84991"
+    },
+    {
+      "path": "VRPTW/n=600/C1_6_5.bks.HierarchicalVehicleCost.json",
+      "sha256": "c7351dd566dcf3afa28694c72f96a97ec56adb66cd91925542f0af4398acd180"
+    },
+    {
+      "path": "VRPTW/n=600/C1_6_6.bks.HierarchicalVehicleCost.json",
+      "sha256": "af7fe7bc881abf32779e272fd6202ce67b39d15d76095881c9d29585736b11b1"
+    },
+    {
+      "path": "VRPTW/n=600/C1_6_7.bks.HierarchicalVehicleCost.json",
+      "sha256": "a5833b36386019d733d7126a3bf6f411157f58a647fad25ecc6976a4867fa545"
+    },
+    {
+      "path": "VRPTW/n=600/C1_6_8.bks.HierarchicalVehicleCost.json",
+      "sha256": "08ac9f88cb58df29cab87e9705031da0b23865c991b5dfeb4c2095f1098485ee"
+    },
+    {
+      "path": "VRPTW/n=600/C1_6_9.bks.HierarchicalVehicleCost.json",
+      "sha256": "478504d32da86df4d5ac280cf3bee556144557c957d1426487bdccdbd750c070"
+    },
+    {
+      "path": "VRPTW/n=600/C2_6_1.bks.HierarchicalVehicleCost.json",
+      "sha256": "542521e61efe67876cf5577583c272b2e7f92132d7fbff1e1852ce90a1b0e4dd"
+    },
+    {
+      "path": "VRPTW/n=600/C2_6_10.bks.HierarchicalVehicleCost.json",
+      "sha256": "005abb7954e2fefce45c65377e18732cdb845f4ec781805380b03c7283ce5e0d"
+    },
+    {
+      "path": "VRPTW/n=600/C2_6_2.bks.HierarchicalVehicleCost.json",
+      "sha256": "42198548deb95269b2181dcef0150d74c66330912dbb0e16b3909c5d206346a3"
+    },
+    {
+      "path": "VRPTW/n=600/C2_6_3.bks.HierarchicalVehicleCost.json",
+      "sha256": "a8505be29704d1847c15be1b65007791ec73e248b16a089d5258df1d353436d9"
+    },
+    {
+      "path": "VRPTW/n=600/C2_6_4.bks.HierarchicalVehicleCost.json",
+      "sha256": "a9618e3968d99f5a0d6fbd733f908c1e230075bef1a2d58edb2e4c58be1e149b"
+    },
+    {
+      "path": "VRPTW/n=600/C2_6_5.bks.HierarchicalVehicleCost.json",
+      "sha256": "da8d9c10d504d68abad06213464184f5d8a57ab0f3cae347dcb7d4fb0822af3f"
+    },
+    {
+      "path": "VRPTW/n=600/C2_6_6.bks.HierarchicalVehicleCost.json",
+      "sha256": "068252b00221c6549aff87539e8a17ba64e47f0e46407f3ddaefa48d49b33b18"
+    },
+    {
+      "path": "VRPTW/n=600/C2_6_7.bks.HierarchicalVehicleCost.json",
+      "sha256": "453510a4f6e4b23f1924e4f70b8427f67b7cfaef6ac9af7d33e1519f6e5d29b3"
+    },
+    {
+      "path": "VRPTW/n=600/C2_6_8.bks.HierarchicalVehicleCost.json",
+      "sha256": "3d91114e0af5897eda0057bf3d93e1fef7ba95d108bdb79bde29ad1101de0c11"
+    },
+    {
+      "path": "VRPTW/n=600/C2_6_9.bks.HierarchicalVehicleCost.json",
+      "sha256": "b7bc40da91998bf054648a4a443d779032b16589aa3bbb747c7cb2f7cbd2f123"
+    },
+    {
+      "path": "VRPTW/n=600/R1_6_1.bks.HierarchicalVehicleCost.json",
+      "sha256": "8fe55af21fd3a8f382de3cb92e65701c507c374e8e5f62a34142889848d46f4c"
+    },
+    {
+      "path": "VRPTW/n=600/R1_6_10.bks.HierarchicalVehicleCost.json",
+      "sha256": "67e76678de92527e33f2347230f3590ccdb7050783961cf5e8bb57722ebbf53d"
+    },
+    {
+      "path": "VRPTW/n=600/R1_6_2.bks.HierarchicalVehicleCost.json",
+      "sha256": "cf64fb4fb71a3e4169a53426ba86dc588dffb76f314de4b578b59768e113a65d"
+    },
+    {
+      "path": "VRPTW/n=600/R1_6_3.bks.HierarchicalVehicleCost.json",
+      "sha256": "f15a54d50ecb30f10e0fd7b84105f4cbdbae02f78d3061909391acc1c19a9aa2"
+    },
+    {
+      "path": "VRPTW/n=600/R1_6_4.bks.HierarchicalVehicleCost.json",
+      "sha256": "f78047700a83f2bad074f6d83776f87ab74a359b372d65e58d0deaaf6f61ef6a"
+    },
+    {
+      "path": "VRPTW/n=600/R1_6_5.bks.HierarchicalVehicleCost.json",
+      "sha256": "ec4cb054faa190185e69d9a1d96fb537e60c6fa47d7d3c5c316c35140ab24dab"
+    },
+    {
+      "path": "VRPTW/n=600/R1_6_6.bks.HierarchicalVehicleCost.json",
+      "sha256": "79f6aa73de8e18d06633f3a423b3b98c6e9e7254e1f75c852c810dae3713463a"
+    },
+    {
+      "path": "VRPTW/n=600/R1_6_7.bks.HierarchicalVehicleCost.json",
+      "sha256": "f1757cd687efdb1775817adae929ab74d2583217d47cbb81c7e0293bfec94e78"
+    },
+    {
+      "path": "VRPTW/n=600/R1_6_8.bks.HierarchicalVehicleCost.json",
+      "sha256": "808189bcd73a6c8c5d24cef253b5c1c1eb0079bced70338ba6f690e3249c0790"
+    },
+    {
+      "path": "VRPTW/n=600/R1_6_9.bks.HierarchicalVehicleCost.json",
+      "sha256": "72544ef02f0c61752d65dae60cb4f0869d2b718a3d5138eb72dc7abe119bb045"
+    },
+    {
+      "path": "VRPTW/n=600/R2_6_1.bks.HierarchicalVehicleCost.json",
+      "sha256": "8125f637fa5b709a008af1aa7570b1da81abf8557c6eb345bbabddb412eff803"
+    },
+    {
+      "path": "VRPTW/n=600/R2_6_10.bks.HierarchicalVehicleCost.json",
+      "sha256": "293ba23a031a81bbbcd0d8ea33d19c7f712499b0af67b6e093a9c915272b783c"
+    },
+    {
+      "path": "VRPTW/n=600/R2_6_2.bks.HierarchicalVehicleCost.json",
+      "sha256": "4bbd0291300c91177b17826862db26a9b02474361a9b6aaae9fc9a8611a7c8bc"
+    },
+    {
+      "path": "VRPTW/n=600/R2_6_3.bks.HierarchicalVehicleCost.json",
+      "sha256": "575d911e0e7d5dd2380bd164ab2a9a1fe365c8e3844078e54e0aee59e0ccd682"
+    },
+    {
+      "path": "VRPTW/n=600/R2_6_4.bks.HierarchicalVehicleCost.json",
+      "sha256": "6e99ce211132567c8a2068658e161a75661cd319fa7e4051d4b2c26bbf297e41"
+    },
+    {
+      "path": "VRPTW/n=600/R2_6_5.bks.HierarchicalVehicleCost.json",
+      "sha256": "119a380ea0f825d8fa143646244bf4f8e5b5a3dd6a097faa88a4327c22634202"
+    },
+    {
+      "path": "VRPTW/n=600/R2_6_6.bks.HierarchicalVehicleCost.json",
+      "sha256": "efbc93b775648a6a93539edcea68a8469ced26c6b49e30ae4be8750fe987aada"
+    },
+    {
+      "path": "VRPTW/n=600/R2_6_7.bks.HierarchicalVehicleCost.json",
+      "sha256": "c8c36c19766cd238307f5a230ea9f483fedebc2b74b557abc3f030322555faf3"
+    },
+    {
+      "path": "VRPTW/n=600/R2_6_8.bks.HierarchicalVehicleCost.json",
+      "sha256": "6e91bb01e89cc6eed461a65dd5b106f536e167bd6da1a88cb1b4318181c2bfcb"
+    },
+    {
+      "path": "VRPTW/n=600/R2_6_9.bks.HierarchicalVehicleCost.json",
+      "sha256": "6ab44cf8fdfce3743d7b2b55339e781787d7512c8fb7f030d91b9c671f0bc274"
+    },
+    {
+      "path": "VRPTW/n=600/RC1_6_1.bks.HierarchicalVehicleCost.json",
+      "sha256": "706e66df59d921a4317b632a0344d0d19ed7cb4f3de5bdaa8e24b907313007bb"
+    },
+    {
+      "path": "VRPTW/n=600/RC1_6_10.bks.HierarchicalVehicleCost.json",
+      "sha256": "d51d376f5d70446daaae995db6fab7c34c036efd505974de6de6cdc97550200f"
+    },
+    {
+      "path": "VRPTW/n=600/RC1_6_2.bks.HierarchicalVehicleCost.json",
+      "sha256": "b9628c110f1667ab69547e431d68256c9b5a891edfd22c0779b40e6355a92987"
+    },
+    {
+      "path": "VRPTW/n=600/RC1_6_3.bks.HierarchicalVehicleCost.json",
+      "sha256": "9bda37a9b0e48582381a84ddd772a4bbaec6a58099cc51d25b2a7036be7eb32e"
+    },
+    {
+      "path": "VRPTW/n=600/RC1_6_4.bks.HierarchicalVehicleCost.json",
+      "sha256": "4130c4dd26da965d672abd8c9544cb2890710e6a1410640b0924cb802158f05f"
+    },
+    {
+      "path": "VRPTW/n=600/RC1_6_5.bks.HierarchicalVehicleCost.json",
+      "sha256": "48dfe467c046786ecfe3fe7c67455c402bb3cef8e891187c96f7b6eee22c8d60"
+    },
+    {
+      "path": "VRPTW/n=600/RC1_6_6.bks.HierarchicalVehicleCost.json",
+      "sha256": "175886fd517fd44eaae29d84ea06d48f374d6bec2e61f5423e96c4986a9f8bd2"
+    },
+    {
+      "path": "VRPTW/n=600/RC1_6_7.bks.HierarchicalVehicleCost.json",
+      "sha256": "6e09f9427763615c4483f9079cd83ad75237f230174a6e860d06e63c7b9d37c7"
+    },
+    {
+      "path": "VRPTW/n=600/RC1_6_8.bks.HierarchicalVehicleCost.json",
+      "sha256": "103ae0086910d5a34c43e4dd1c18839927421e91188baa970a6ca0bba3bb93b7"
+    },
+    {
+      "path": "VRPTW/n=600/RC1_6_9.bks.HierarchicalVehicleCost.json",
+      "sha256": "f9cb20a6a0eb8075707d385808af4eb976beae18a17437ef5277e94ef43533c3"
+    },
+    {
+      "path": "VRPTW/n=600/RC2_6_1.bks.HierarchicalVehicleCost.json",
+      "sha256": "afa15df639d3f6c9be855a5a9f3e70a6138bfeab5ba68b360df1ede71a40d50b"
+    },
+    {
+      "path": "VRPTW/n=600/RC2_6_10.bks.HierarchicalVehicleCost.json",
+      "sha256": "0f4d195353393de2e893afcf396b1b33fc1384c2b974e4c740b2f43f7c8b1c1c"
+    },
+    {
+      "path": "VRPTW/n=600/RC2_6_2.bks.HierarchicalVehicleCost.json",
+      "sha256": "4f22801668b113656e3255f44dabd3c740fefc5b1e8e5de823c08c1cc7116d0b"
+    },
+    {
+      "path": "VRPTW/n=600/RC2_6_3.bks.HierarchicalVehicleCost.json",
+      "sha256": "29972dc5df555c7bbbcb13a76f66abbedd4826fcdd4e11d551ed138d0f49fde4"
+    },
+    {
+      "path": "VRPTW/n=600/RC2_6_4.bks.HierarchicalVehicleCost.json",
+      "sha256": "f17a941f8f9ad1bfc6afc8ca5969cef2a278a571333144f479599d6c9636202d"
+    },
+    {
+      "path": "VRPTW/n=600/RC2_6_5.bks.HierarchicalVehicleCost.json",
+      "sha256": "859844089bedcaca8f8d884ae4c5dc3917a7ae10cdf51a887a00423538bdd3f6"
+    },
+    {
+      "path": "VRPTW/n=600/RC2_6_6.bks.HierarchicalVehicleCost.json",
+      "sha256": "374c78aee8a773d8053fe4ae195d1f9343c990a37e2b22a2b5db6dbc61ec9459"
+    },
+    {
+      "path": "VRPTW/n=600/RC2_6_7.bks.HierarchicalVehicleCost.json",
+      "sha256": "8110a51260f7b957d6e60714ac7d8e64f4e83ede0b47327a9e7d232a853e7ec9"
+    },
+    {
+      "path": "VRPTW/n=600/RC2_6_8.bks.HierarchicalVehicleCost.json",
+      "sha256": "c9f3f06fbb3dcffaadf20d7a01fa7d7f74c5d9922bb8352bd6df0481d6b2eec3"
+    },
+    {
+      "path": "VRPTW/n=600/RC2_6_9.bks.HierarchicalVehicleCost.json",
+      "sha256": "726c2435d85ca2fd1f80821ce23386299ddde1e341bd122148c7ea885edcb6f6"
+    },
+    {
+      "path": "VRPTW/n=800/C1_8_1.bks.HierarchicalVehicleCost.json",
+      "sha256": "ddae8e526f6b5acc9575284212656ee6ed9b4f08cc388ef652e7704dbe81e1ad"
+    },
+    {
+      "path": "VRPTW/n=800/C1_8_10.bks.HierarchicalVehicleCost.json",
+      "sha256": "e06e8c141c2bb0b842635c3ac92124a9e9e63313630bb347acbccd04be24ded9"
+    },
+    {
+      "path": "VRPTW/n=800/C1_8_2.bks.HierarchicalVehicleCost.json",
+      "sha256": "45b18abd842e6243fe1b8b851cfeada45860a2c72d87f82d63393d1fcea2d2a2"
+    },
+    {
+      "path": "VRPTW/n=800/C1_8_3.bks.HierarchicalVehicleCost.json",
+      "sha256": "8fb53f5fd2e1db6ad734a8a02e40e22ffa814a0f47bc4871603b24967f388243"
+    },
+    {
+      "path": "VRPTW/n=800/C1_8_4.bks.HierarchicalVehicleCost.json",
+      "sha256": "3bd30c3deec2a5b14dccc2f0326db211cf6052bf188332bd256ccd63477f0e1f"
+    },
+    {
+      "path": "VRPTW/n=800/C1_8_5.bks.HierarchicalVehicleCost.json",
+      "sha256": "46e329f3d14c15bcb6e04e9d8af44a3b5d5ea2fd906d1086835c8d5e2a4ca715"
+    },
+    {
+      "path": "VRPTW/n=800/C1_8_6.bks.HierarchicalVehicleCost.json",
+      "sha256": "a754b1801ee58ec05540e65cf7f71cd24921abe4c407b47772ef9c049e25d56b"
+    },
+    {
+      "path": "VRPTW/n=800/C1_8_7.bks.HierarchicalVehicleCost.json",
+      "sha256": "c722e3d501b773dbdc834c57d3fa0bdb8199f42be641b4d2e9aea07d0842c4fb"
+    },
+    {
+      "path": "VRPTW/n=800/C1_8_8.bks.HierarchicalVehicleCost.json",
+      "sha256": "65e6e908cd048fed236c0d7daaa431a7f39628ba70c240320867cd4c430c39f9"
+    },
+    {
+      "path": "VRPTW/n=800/C1_8_9.bks.HierarchicalVehicleCost.json",
+      "sha256": "1c958839d0364953c4479b994fd1bb330f11e878e0f8dcf85adc3df7c526d271"
+    },
+    {
+      "path": "VRPTW/n=800/C2_8_1.bks.HierarchicalVehicleCost.json",
+      "sha256": "546b98e54efe9ff8bae9c6bd98c0e13e46ff0dd9b89dc35bc6d710aec6684374"
+    },
+    {
+      "path": "VRPTW/n=800/C2_8_10.bks.HierarchicalVehicleCost.json",
+      "sha256": "50d206df95d89873ba84c14c1f6ca8a8640885ea83782146444d610a4d8a2cb6"
+    },
+    {
+      "path": "VRPTW/n=800/C2_8_2.bks.HierarchicalVehicleCost.json",
+      "sha256": "2e80f7ae610c6feac2d15f72109b9448490c9113315068c46c3df911e1003014"
+    },
+    {
+      "path": "VRPTW/n=800/C2_8_3.bks.HierarchicalVehicleCost.json",
+      "sha256": "9516033ea67f38ca81d097054f3b0283d1e3d5b9eb8d733ec135720f8fe74b00"
+    },
+    {
+      "path": "VRPTW/n=800/C2_8_4.bks.HierarchicalVehicleCost.json",
+      "sha256": "7caff7faacf58d40bc0f22b95afa396166ffe3c23a62591c9375a4a3f01978a1"
+    },
+    {
+      "path": "VRPTW/n=800/C2_8_5.bks.HierarchicalVehicleCost.json",
+      "sha256": "6ed85ef9246a8af022ad491f55a928c174c6424918f1fdb8e72e391efc89ad0d"
+    },
+    {
+      "path": "VRPTW/n=800/C2_8_6.bks.HierarchicalVehicleCost.json",
+      "sha256": "c8ac8336ed0a612cbe1678032ebbb206ccb9aa08c177b2ec280c5386380d5863"
+    },
+    {
+      "path": "VRPTW/n=800/C2_8_7.bks.HierarchicalVehicleCost.json",
+      "sha256": "756d627dde980d6a31c0833d77e06b806ba6ecf9f42594a738e028eca1438373"
+    },
+    {
+      "path": "VRPTW/n=800/C2_8_8.bks.HierarchicalVehicleCost.json",
+      "sha256": "887487e6c1b67efe3f1465d2421055cc66da1c06ecd02529a21ac7a00e77ae8a"
+    },
+    {
+      "path": "VRPTW/n=800/C2_8_9.bks.HierarchicalVehicleCost.json",
+      "sha256": "7e8673ac302348aff317eed125ab3ad045900121df4f3ae642e35a882bfa0419"
+    },
+    {
+      "path": "VRPTW/n=800/R1_8_1.bks.HierarchicalVehicleCost.json",
+      "sha256": "336d2fa80fd4ce9a2340f2b9eb1e68eddb4a65f5f737bb37d8f3e340ebc83111"
+    },
+    {
+      "path": "VRPTW/n=800/R1_8_10.bks.HierarchicalVehicleCost.json",
+      "sha256": "78b104fb7be03ec923d7621559af955eaccac7faa20b9118223892ec8339bd6e"
+    },
+    {
+      "path": "VRPTW/n=800/R1_8_2.bks.HierarchicalVehicleCost.json",
+      "sha256": "785647d5532dd8ceacfac623b4fc0ba3ccc0f1aa34d541311d062463c57bbd74"
+    },
+    {
+      "path": "VRPTW/n=800/R1_8_3.bks.HierarchicalVehicleCost.json",
+      "sha256": "a6b4d262e1271107c5b87316e52497f223ba500ae2b708ebc9a194464e2cdb37"
+    },
+    {
+      "path": "VRPTW/n=800/R1_8_4.bks.HierarchicalVehicleCost.json",
+      "sha256": "e0fbd7228c98fd404b5602a0cb68475075a8ef63c1a9e4bbb4d0ba12077659b3"
+    },
+    {
+      "path": "VRPTW/n=800/R1_8_5.bks.HierarchicalVehicleCost.json",
+      "sha256": "fe4a84eaf477adea71e2f40bca605d62868500e97c60638966cdc5acfd5e5968"
+    },
+    {
+      "path": "VRPTW/n=800/R1_8_6.bks.HierarchicalVehicleCost.json",
+      "sha256": "50718fc4c07c2ccb69438b73e145f2eeb649959fbcf576797d3bc039caadd7b7"
+    },
+    {
+      "path": "VRPTW/n=800/R1_8_7.bks.HierarchicalVehicleCost.json",
+      "sha256": "854364b162596c63e93240478cbbfd152e1f38a7af1d05995259f0f00645c1f6"
+    },
+    {
+      "path": "VRPTW/n=800/R1_8_8.bks.HierarchicalVehicleCost.json",
+      "sha256": "d42ee8b69d078fee432719e0e7be52e14a629e3d881ecb03f7ede5a60a412954"
+    },
+    {
+      "path": "VRPTW/n=800/R1_8_9.bks.HierarchicalVehicleCost.json",
+      "sha256": "8212d03af86efd6e98fa2d6a3d95a366627b1a7ac6a5778cf6ac23d9a2f4f943"
+    },
+    {
+      "path": "VRPTW/n=800/R2_8_1.bks.HierarchicalVehicleCost.json",
+      "sha256": "6dca83aa0db4fe518137e7fbc5051cfb6946d1cc7921f8f61a7c93cf531cb5c5"
+    },
+    {
+      "path": "VRPTW/n=800/R2_8_10.bks.HierarchicalVehicleCost.json",
+      "sha256": "3dd5dbe8ca6b6f3e73bae9b0778bfa27fbf6d2b657a916bc6bcd444dd6dde82f"
+    },
+    {
+      "path": "VRPTW/n=800/R2_8_2.bks.HierarchicalVehicleCost.json",
+      "sha256": "ad9320fc5a6f001e2520649490780e2ae55c363ef8fcda810f5076a7a6a1c896"
+    },
+    {
+      "path": "VRPTW/n=800/R2_8_3.bks.HierarchicalVehicleCost.json",
+      "sha256": "d2d4566697cce3b8d72d0063f6ae5835ffef08bbe8131885cf56984b400f8c96"
+    },
+    {
+      "path": "VRPTW/n=800/R2_8_4.bks.HierarchicalVehicleCost.json",
+      "sha256": "e322795302b882b141a67c6776493cf87ae452624295775ffde0faf1021ab1e5"
+    },
+    {
+      "path": "VRPTW/n=800/R2_8_5.bks.HierarchicalVehicleCost.json",
+      "sha256": "df540c40cf532b8f9f5c17123f51b28ce871c05148f14b1d55b5cf995cbf8ff0"
+    },
+    {
+      "path": "VRPTW/n=800/R2_8_6.bks.HierarchicalVehicleCost.json",
+      "sha256": "7ba5e35d6e5b56dd07e25683edaaefbbca35832419a6a4767b6ce29d36046a83"
+    },
+    {
+      "path": "VRPTW/n=800/R2_8_7.bks.HierarchicalVehicleCost.json",
+      "sha256": "cf8221cf7368c8b8fcca5809638e9d50813c3f133bc1ef4beab3d5139b175e6d"
+    },
+    {
+      "path": "VRPTW/n=800/R2_8_8.bks.HierarchicalVehicleCost.json",
+      "sha256": "b4228463db3b98a02b33925b608b0fd7d5e35486c15c1c4482aa7da759debc1c"
+    },
+    {
+      "path": "VRPTW/n=800/R2_8_9.bks.HierarchicalVehicleCost.json",
+      "sha256": "8c8102919713a367d8a5c76b9c5783505d8e2b0afae529c54f4c541d89b9fd08"
+    },
+    {
+      "path": "VRPTW/n=800/RC1_8_1.bks.HierarchicalVehicleCost.json",
+      "sha256": "f9a88b43b476d6e688d88b21da48a4a798481e3f23c60c8058f2e31b6023249b"
+    },
+    {
+      "path": "VRPTW/n=800/RC1_8_10.bks.HierarchicalVehicleCost.json",
+      "sha256": "369d3ac70ac063dae75ae36a32cf53574c6085baddced1d046628f31539ebb07"
+    },
+    {
+      "path": "VRPTW/n=800/RC1_8_2.bks.HierarchicalVehicleCost.json",
+      "sha256": "cc12cf856fedd8a7797116c8985789f756ff07321e6003eeb617514ae080d885"
+    },
+    {
+      "path": "VRPTW/n=800/RC1_8_3.bks.HierarchicalVehicleCost.json",
+      "sha256": "da945257fdf754a0c1df0cb6a16802e6e911936c9a3e29c0567a3f0f831c132a"
+    },
+    {
+      "path": "VRPTW/n=800/RC1_8_4.bks.HierarchicalVehicleCost.json",
+      "sha256": "a3ae4322a5946d5ca5edc0183a5e5121e3c5a007ed6e186d9ca978366ef3b53b"
+    },
+    {
+      "path": "VRPTW/n=800/RC1_8_5.bks.HierarchicalVehicleCost.json",
+      "sha256": "44a4a43f6f8af54a20d791ff97eb7c522a6f83f0bec4ae1cf67a8502fd4f69a2"
+    },
+    {
+      "path": "VRPTW/n=800/RC1_8_6.bks.HierarchicalVehicleCost.json",
+      "sha256": "305c5769381c4ea3512583e95422d9b874692c1787243cf05b965dd24fc5350f"
+    },
+    {
+      "path": "VRPTW/n=800/RC1_8_7.bks.HierarchicalVehicleCost.json",
+      "sha256": "23e743fde7fb565b52faea888fbe83a51d3f81bb567f4026f9e73d1f4f2c1259"
+    },
+    {
+      "path": "VRPTW/n=800/RC1_8_8.bks.HierarchicalVehicleCost.json",
+      "sha256": "8c20eb19babc475f7175da729cfdf783a7efde9865f6e73594508f0e7419d5a6"
+    },
+    {
+      "path": "VRPTW/n=800/RC1_8_9.bks.HierarchicalVehicleCost.json",
+      "sha256": "d481c975ff9dfc5a8f2c96922d437efc202fe94e93842e0f04b23fd0cee589d0"
+    },
+    {
+      "path": "VRPTW/n=800/RC2_8_1.bks.HierarchicalVehicleCost.json",
+      "sha256": "7c600e5a296705ee7278c26d43c6bb7f5d4f5aee7192d1719246a2285dc06326"
+    },
+    {
+      "path": "VRPTW/n=800/RC2_8_10.bks.HierarchicalVehicleCost.json",
+      "sha256": "ba3d691a3488d23aa03bc43558613e91435c0f60c023b7c5e9ac84e28f225eea"
+    },
+    {
+      "path": "VRPTW/n=800/RC2_8_2.bks.HierarchicalVehicleCost.json",
+      "sha256": "5787aa358d2d39c5f5ce9ff4b5d536b2eed102c71d32b7c2cd540ce20aec515d"
+    },
+    {
+      "path": "VRPTW/n=800/RC2_8_3.bks.HierarchicalVehicleCost.json",
+      "sha256": "bc9398e717673acebb9159a73f51c5b051fe7ff03753f8ad3d90e1250ee46aa8"
+    },
+    {
+      "path": "VRPTW/n=800/RC2_8_4.bks.HierarchicalVehicleCost.json",
+      "sha256": "467f4860817cbf13d9d7071957e9c8d49086b0957d006327027c94825a271278"
+    },
+    {
+      "path": "VRPTW/n=800/RC2_8_5.bks.HierarchicalVehicleCost.json",
+      "sha256": "01663c40f48df0d8497dc4ae0fa3269ff68919ed165e97a5c34408176ccaf948"
+    },
+    {
+      "path": "VRPTW/n=800/RC2_8_6.bks.HierarchicalVehicleCost.json",
+      "sha256": "47d38ca457b2cc45c6eac3bb9705d498adac27b714411820117ed2ebaac721a9"
+    },
+    {
+      "path": "VRPTW/n=800/RC2_8_7.bks.HierarchicalVehicleCost.json",
+      "sha256": "cfec95c9c2f5b594145ea059988559b30404a0a335c7acda70c74bace6264dce"
+    },
+    {
+      "path": "VRPTW/n=800/RC2_8_8.bks.HierarchicalVehicleCost.json",
+      "sha256": "0a891e97dc70305f713d240699c97a1e2146219583bf822cb816c79cd408ddaa"
+    },
+    {
+      "path": "VRPTW/n=800/RC2_8_9.bks.HierarchicalVehicleCost.json",
+      "sha256": "38be67a6ac68d2e2718cfccb2110536ee69cd8105309cf223384f88623d4c9f3"
+    }
+  ]
+}
