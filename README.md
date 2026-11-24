@@ -8,6 +8,8 @@ Benchmark family repository of [MAMUT-routing](https://github.com/ANR-MAMUT/MAMU
 - `mamut-collection.json` at the root marks the repository as a family collection (`"layout_version": 2`).
 - `history/` holds the commit map of the former location of this family (see the history section below).
 
+Edition `r1` uses `binary64-exact-v1` to evaluate routes on the materialized static matrix. The certified solution cost is the fraction in `metadata.standard.authoritative_cost`. The top-level `cost` is its binary64 display.
+
 ## Library compatibility
 
 This layout is read by `mamut-routing-lib` 0.13 and later, which is in development and not released yet. `mamut-routing-lib` 0.12 and earlier read the former layout, which stays available read-only in the archive of the former main repository, [MAMUT-routing-archive-2026-11](https://github.com/ANR-MAMUT/MAMUT-routing-archive-2026-11).
