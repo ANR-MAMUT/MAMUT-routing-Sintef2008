@@ -43,9 +43,9 @@
                 "runtime": "CPython 3.12.12",
                 "verification_status": "incumbent-verified"
             },
-            "specification": "mamut-routing/0.1-review",
+            "specification": "mamut-routing/0.1",
             "benchmark_revision": "r1",
-            "manifest_sha256": "3d578ea25ce64a8fdf7a7870fe438da50d1c67f579e2f80580b12732062574d9"
+            "manifest_sha256": "beea9c4b427ad7318f8e57c14e6c7e41b6235676f20de7decfdad996f3819041"
         }
     },
     "objective_function": "HierarchicalVehicleCost"
